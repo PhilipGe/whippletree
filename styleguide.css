@@ -1,0 +1,33 @@
+:root {
+  --body-text-2-font-family: "OpenSans-Regular", Helvetica;
+  --body-text-2-font-size: 13px;
+  --body-text-2-font-style: normal;
+  --body-text-2-font-weight: 400;
+  --body-text-2-letter-spacing: 0px;
+  --body-text-2-line-height: normal;
+  --body-text-font-family: "OpenSans-SemiBold", Helvetica;
+  --body-text-font-size: 18px;
+  --body-text-font-style: normal;
+  --body-text-font-weight: 600;
+  --body-text-letter-spacing: 0px;
+  --body-text-line-height: 33px;
+  --cultured: rgba(246, 246, 246, 1);
+  --f-2af-5c: rgba(242, 175, 92, 1);
+  --ffffff: rgba(255, 255, 255, 1);
+  --paragraph-bold-body-16px-font-family: "Raleway-Bold", Helvetica;
+  --paragraph-bold-body-16px-font-size: 16px;
+  --paragraph-bold-body-16px-font-style: normal;
+  --paragraph-bold-body-16px-font-weight: 700;
+  --paragraph-bold-body-16px-letter-spacing: 0px;
+  --paragraph-bold-body-16px-line-height: 32px;
+  --primary-80: rgba(166, 143, 110, 1);
+  --subtext-3-font-family: "OpenSans-SemiBold", Helvetica;
+  --subtext-3-font-size: 24px;
+  --subtext-3-font-style: normal;
+  --subtext-3-font-weight: 600;
+  --subtext-3-letter-spacing: 0px;
+  --subtext-3-line-height: normal;
+  --textwhite: rgba(255, 255, 255, 1);
+  --white: rgba(255, 255, 255, 1);
+  --x-000000: rgba(0, 0, 0, 1);
+}

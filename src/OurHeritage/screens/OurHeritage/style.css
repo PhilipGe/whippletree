@@ -1,0 +1,541 @@
+.our-heritage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.our-heritage .div {
+  background-color: #ffffff;
+  height: 2334px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.our-heritage .overlap {
+  height: 2334px;
+  left: -58px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.our-heritage .rectangle {
+  height: 476px;
+  left: 58px;
+  position: absolute;
+  top: 1322px;
+  width: 1440px;
+}
+
+.our-heritage .img {
+  height: 807px;
+  left: 58px;
+  position: absolute;
+  top: 594px;
+  width: 1440px;
+}
+
+.our-heritage .layer {
+  height: 256px;
+  left: 1491px;
+  position: absolute;
+  top: 868px;
+  width: 107px;
+}
+
+.our-heritage .rectangle-2 {
+  height: 594px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.our-heritage .rectangle-3 {
+  background-color: #383838;
+  height: 594px;
+  left: 58px;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.our-heritage .text {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  position: absolute;
+  top: 539px;
+  white-space: nowrap;
+}
+
+.our-heritage .ant-design-user {
+  height: 24px;
+  left: 1330px;
+  position: absolute;
+  top: 110px;
+  width: 24px;
+}
+
+.our-heritage .bytesize-location {
+  height: 22px;
+  left: 1289px;
+  position: absolute;
+  top: 111px;
+  width: 22px;
+}
+
+.our-heritage .line {
+  height: 1px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 1192px;
+}
+
+.our-heritage .group {
+  height: 45px;
+  left: 197px;
+  position: absolute;
+  top: 110px;
+  width: 167px;
+}
+
+.our-heritage .overlap-group {
+  height: 45px;
+  position: relative;
+}
+
+.our-heritage .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 41px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+}
+
+.our-heritage .text-wrapper {
+  color: var(--cultured);
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  line-height: 14.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.our-heritage .carbon-search {
+  height: 26px;
+  position: relative;
+  width: 26px;
+}
+
+.our-heritage .rectangle-4 {
+  border: 1px solid;
+  border-color: #d9d9d999;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.our-heritage .frame-2 {
+  height: 106px;
+  left: 675px;
+  position: absolute;
+  top: 94px;
+  width: 262px;
+}
+
+.our-heritage .p {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 474px;
+  letter-spacing: -1.2px;
+  line-height: 48px;
+  position: absolute;
+  top: 393px;
+  width: 609px;
+}
+
+.our-heritage .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 428px;
+  letter-spacing: -1.92px;
+  line-height: 76.8px;
+  position: absolute;
+  top: 302px;
+  width: 701px;
+}
+
+.our-heritage .layer-2 {
+  height: 256px;
+  left: 1211px;
+  position: absolute;
+  top: 1556px;
+  width: 107px;
+}
+
+.our-heritage .layer-3 {
+  height: 352px;
+  left: 1352px;
+  position: absolute;
+  top: 1460px;
+  width: 146px;
+}
+
+.our-heritage .rectangle-5 {
+  background-color: #082d2a;
+  height: 536px;
+  left: 58px;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  position: absolute;
+  top: 1798px;
+  width: 1440px;
+}
+
+.our-heritage .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 204px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1901px;
+  width: 364px;
+}
+
+.our-heritage .group-2 {
+  height: 227px;
+  left: 206px;
+  position: absolute;
+  top: 1904px;
+  width: 649px;
+}
+
+.our-heritage .online-wine-store {
+  color: var(--ffffff);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 492px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 62px;
+  width: 153px;
+}
+
+.our-heritage .span {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.our-heritage .text-wrapper-4 {
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.our-heritage .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 492px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.our-heritage .rectangle-6 {
+  background-color: #859189;
+  height: 2px;
+  left: 494px;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.our-heritage .rectangle-7 {
+  background-color: #859189;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.our-heritage .element-info {
+  color: #fffafa;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 206px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1889px;
+  width: 364px;
+}
+
+.our-heritage .text-wrapper-6 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.our-heritage .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+}
+
+.our-heritage .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.our-heritage .text-wrapper-9 {
+  color: #cecece;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 482px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2269px;
+  width: 592px;
+}
+
+.our-heritage .whippletree-winery {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 211px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2148px;
+  width: 184px;
+}
+
+.our-heritage .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1117px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1903px;
+  width: 68px;
+}
+
+.our-heritage .friday-sunday {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1119px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1945px;
+  width: 265px;
+}
+
+.our-heritage .frame-wrapper {
+  height: 53px;
+  left: 1117px;
+  position: absolute;
+  top: 2020px;
+  width: 177px;
+}
+
+.our-heritage .book-an-event-wrapper {
+  align-items: center;
+  background-color: #daab63;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 15px 23px;
+  position: relative;
+}
+
+.our-heritage .book-an-event {
+  color: #231f20;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.our-heritage .rectangle-8 {
+  background-color: #859189;
+  height: 2px;
+  left: 1119px;
+  position: absolute;
+  top: 1939px;
+  width: 45px;
+}
+
+.our-heritage .group-3 {
+  height: 110px;
+  left: 204px;
+  position: absolute;
+  top: 2008px;
+  width: 258px;
+}
+
+.our-heritage .mask-group {
+  height: 379px;
+  left: 209px;
+  position: absolute;
+  top: 1233px;
+  width: 1139px;
+}
+
+
+.our-heritage .text-wrapper-11 {
+  color: var(--white);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.our-heritage .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.our-heritage .text-wrapper-13 {
+  color: var(--ffffff);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 33px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.our-heritage .text-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  line-height: 19.2px;
+  margin-right: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.our-heritage .who-doesn-t-enjoy {
+  color: #565151;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 476px;
+  left: 274px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  position: absolute;
+  text-align: center;
+  top: 644px;
+  width: 1008px;
+}
+
+.our-heritage .lauren-barrett-owner {
+  color: #565151;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 476px;
+  left: 274px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  position: absolute;
+  text-align: center;
+  top: 1050px;
+  width: 1008px;
+}
+
+.our-heritage .text-wrapper-14 {
+  font-weight: 600;
+}
+
+.our-heritage .text-wrapper-15 {
+  font-size: 16px;
+  line-height: 25.1px;
+}
+
+.our-heritage .image {
+  height: 602px;
+  left: -124px;
+  position: absolute;
+  top: -634px;
+  width: 1611px;
+}

@@ -1,0 +1,1 @@
+export { OurHeritage } from "./OurHeritage";

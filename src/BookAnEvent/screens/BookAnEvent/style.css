@@ -1,0 +1,1252 @@
+.book-an-event {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.book-an-event .div-2 {
+  background-color: #ffffff;
+  height: 2334px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.book-an-event .overlap {
+  height: 1748px;
+  left: -60px;
+  position: absolute;
+  top: 594px;
+  width: 1440px;
+}
+
+.book-an-event .rectangle {
+  background-color: #fcf5ea;
+  height: 1213px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1500px;
+}
+
+.book-an-event .rectangle-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #daab63;
+  border-radius: 5px;
+  height: 244px;
+  left: 181px;
+  position: absolute;
+  top: 861px;
+  width: 544px;
+}
+
+.book-an-event .rectangle-3 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #daab63;
+  border-radius: 5px;
+  height: 244px;
+  left: 757px;
+  position: absolute;
+  top: 861px;
+  width: 544px;
+}
+
+.book-an-event .text-wrapper {
+  color: #141313;
+  font-family: "Jost", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 741px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 979px;
+  width: 585px;
+}
+
+.book-an-event .rectangle-4 {
+  background-color: #082d2a;
+  height: 536px;
+  left: 60px;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  position: absolute;
+  top: 1212px;
+  width: 1440px;
+}
+
+.book-an-event .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 206px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1325px;
+  width: 364px;
+}
+
+.book-an-event .group {
+  height: 227px;
+  left: 208px;
+  position: absolute;
+  top: 1328px;
+  width: 649px;
+}
+
+.book-an-event .online-wine-store {
+  color: var(--ffffff);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 492px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 62px;
+  width: 153px;
+}
+
+.book-an-event .span {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.book-an-event .text-wrapper-3 {
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.book-an-event .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 492px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.book-an-event .rectangle-5 {
+  background-color: #859189;
+  height: 2px;
+  left: 494px;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.book-an-event .rectangle-6 {
+  background-color: #859189;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.book-an-event .element-info {
+  color: #fffafa;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 208px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1313px;
+  width: 364px;
+}
+
+.book-an-event .text-wrapper-5 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.book-an-event .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+}
+
+.book-an-event .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.book-an-event .p {
+  color: #cecece;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1693px;
+  width: 592px;
+}
+
+.book-an-event .whippletree-winery {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1572px;
+  width: 184px;
+}
+
+.book-an-event .text-wrapper-8 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1119px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1327px;
+  width: 68px;
+}
+
+.book-an-event .friday-sunday {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1121px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1369px;
+  width: 265px;
+}
+
+.book-an-event .frame-wrapper {
+  height: 53px;
+  left: 1119px;
+  position: absolute;
+  top: 1444px;
+  width: 177px;
+}
+
+.book-an-event .frame {
+  align-items: center;
+  background-color: #daab63;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 15px 23px;
+  position: relative;
+}
+
+.book-an-event .text-wrapper-9 {
+  color: #231f20;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.book-an-event .rectangle-7 {
+  background-color: #859189;
+  height: 2px;
+  left: 1121px;
+  position: absolute;
+  top: 1363px;
+  width: 45px;
+}
+
+.book-an-event .img {
+  height: 110px;
+  left: 206px;
+  position: absolute;
+  top: 1435px;
+  width: 258px;
+}
+
+.book-an-event .button-instance {
+  background-color: #016c64 !important;
+  display: flex !important;
+  height: 55px !important;
+  left: 189px !important;
+  position: absolute !important;
+  top: 697px !important;
+  width: 244px !important;
+}
+
+.book-an-event .design-component-instance-node {
+  font-family: "Jost", Helvetica !important;
+  font-size: 18px !important;
+  font-style: unset !important;
+  font-weight: 500 !important;
+  letter-spacing: 0 !important;
+  line-height: 33px !important;
+  margin-bottom: -0.96px !important;
+}
+
+.book-an-event .container {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #3c6865;
+  height: 168px;
+  left: 189px;
+  position: absolute;
+  top: 498px;
+  width: 587px;
+}
+
+.book-an-event .text-wrapper-10 {
+  color: #8a8c8e;
+  font-family: var(--body-text-2-font-family);
+  font-size: var(--body-text-2-font-size);
+  font-style: var(--body-text-2-font-style);
+  font-weight: var(--body-text-2-font-weight);
+  left: 205px;
+  letter-spacing: var(--body-text-2-letter-spacing);
+  line-height: var(--body-text-2-line-height);
+  position: absolute;
+  top: 516px;
+  width: 219px;
+}
+
+.book-an-event .text-wrapper-11 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 189px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 458px;
+  white-space: nowrap;
+  width: 163px;
+}
+
+.book-an-event .container-2 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #3c6865;
+  height: 54px;
+  left: 491px;
+  position: absolute;
+  top: 282px;
+  width: 286px;
+}
+
+.book-an-event .arrow-chevron-down {
+  height: 23px !important;
+  left: 736px !important;
+  position: absolute !important;
+  top: 297px !important;
+  width: 23px !important;
+}
+
+.book-an-event .text-wrapper-12 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 491px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 242px;
+  white-space: nowrap;
+  width: 267px;
+}
+
+.book-an-event .container-3 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #3c6865;
+  height: 54px;
+  left: 189px;
+  position: absolute;
+  top: 282px;
+  width: 286px;
+}
+
+.book-an-event .text-wrapper-13 {
+  color: #8a8c8e;
+  font-family: var(--body-text-2-font-family);
+  font-size: var(--body-text-2-font-size);
+  font-style: var(--body-text-2-font-style);
+  font-weight: var(--body-text-2-font-weight);
+  left: 205px;
+  letter-spacing: var(--body-text-2-letter-spacing);
+  line-height: var(--body-text-2-line-height);
+  position: absolute;
+  top: 299px;
+  width: 201px;
+}
+
+.book-an-event .text-wrapper-14 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 189px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 242px;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.book-an-event .container-4 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #016c64;
+  height: 54px;
+  left: 491px;
+  position: absolute;
+  top: 390px;
+  width: 286px;
+}
+
+.book-an-event .arrow-chevron-down-1 {
+  height: 23px !important;
+  left: 738px !important;
+  position: absolute !important;
+  top: 405px !important;
+  width: 23px !important;
+}
+
+.book-an-event .text-wrapper-15 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 491px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 350px;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.book-an-event .container-5 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #016c64;
+  height: 54px;
+  left: 189px;
+  position: absolute;
+  top: 390px;
+  width: 286px;
+}
+
+.book-an-event .text-wrapper-16 {
+  color: #8a8c8e;
+  font-family: var(--body-text-2-font-family);
+  font-size: var(--body-text-2-font-size);
+  font-style: var(--body-text-2-font-style);
+  font-weight: var(--body-text-2-font-weight);
+  left: 205px;
+  letter-spacing: var(--body-text-2-letter-spacing);
+  line-height: var(--body-text-2-line-height);
+  position: absolute;
+  top: 407px;
+  width: 229px;
+}
+
+.book-an-event .text-wrapper-17 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 189px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 350px;
+  white-space: nowrap;
+  width: 217px;
+}
+
+.book-an-event .container-6 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #3c6865;
+  height: 54px;
+  left: 491px;
+  position: absolute;
+  top: 174px;
+  width: 286px;
+}
+
+.book-an-event .arrow-chevron-down-3 {
+  height: 23px !important;
+  left: 736px !important;
+  position: absolute !important;
+  top: 189px !important;
+  width: 23px !important;
+}
+
+.book-an-event .text-wrapper-18 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 491px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 134px;
+  white-space: nowrap;
+  width: 234px;
+}
+
+.book-an-event .container-7 {
+  background-color: var(--ffffff);
+  border: 1px solid;
+  border-color: #3c6865;
+  height: 54px;
+  left: 189px;
+  position: absolute;
+  top: 174px;
+  width: 286px;
+}
+
+.book-an-event .text-wrapper-19 {
+  color: #8a8c8e;
+  font-family: var(--body-text-2-font-family);
+  font-size: var(--body-text-2-font-size);
+  font-style: var(--body-text-2-font-style);
+  font-weight: var(--body-text-2-font-weight);
+  left: 205px;
+  letter-spacing: var(--body-text-2-letter-spacing);
+  line-height: var(--body-text-2-line-height);
+  position: absolute;
+  top: 191px;
+  width: 219px;
+}
+
+.book-an-event .text-wrapper-20 {
+  color: #000000;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 189px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 134px;
+  white-space: nowrap;
+  width: 199px;
+}
+
+.book-an-event .calendar {
+  background-color: #bb832f;
+  height: 520px;
+  left: 829px;
+  position: absolute;
+  top: 138px;
+  width: 597px;
+}
+
+.book-an-event .overlap-group {
+  height: 412px;
+  left: 67px;
+  position: relative;
+  top: 32px;
+  width: 475px;
+}
+
+.book-an-event .ellipse {
+  background-color: var(--ffffff);
+  border-radius: 17.52px;
+  height: 35px;
+  left: 218px;
+  position: absolute;
+  top: 150px;
+  width: 35px;
+}
+
+.book-an-event .date {
+  height: 412px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 475px;
+}
+
+.book-an-event .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 32px;
+  font-weight: 500;
+  left: 105px;
+  letter-spacing: 0.5px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 259px;
+}
+
+.book-an-event .vector {
+  height: 18px;
+  left: 370px;
+  position: absolute;
+  top: 13px;
+  width: 10px;
+}
+
+.book-an-event .vector-2 {
+  height: 18px;
+  left: 87px;
+  position: absolute;
+  top: 13px;
+  width: 10px;
+}
+
+.book-an-event .group-2 {
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 81px;
+  width: 471px;
+}
+
+.book-an-event .group-3 {
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .text-wrapper-22 {
+  color: var(--ffffff);
+  font-family: var(--subtext-3-font-family);
+  font-size: var(--subtext-3-font-size);
+  font-style: var(--subtext-3-font-style);
+  font-weight: var(--subtext-3-font-weight);
+  left: 5px;
+  letter-spacing: var(--subtext-3-letter-spacing);
+  line-height: var(--subtext-3-line-height);
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.book-an-event .overlap-group-wrapper {
+  height: 149px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 31px;
+}
+
+.book-an-event .overlap-group-2 {
+  height: 149px;
+  position: relative;
+  width: 21px;
+}
+
+.book-an-event .text-wrapper-23 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 6px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.book-an-event .text-wrapper-24 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 5px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.book-an-event .text-wrapper-25 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.book-an-event .text-wrapper-26 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 88px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.book-an-event .text-wrapper-27 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 117px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.book-an-event .group-4 {
+  height: 220px;
+  left: 75px;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.book-an-event .text-wrapper-28 {
+  color: var(--ffffff);
+  font-family: var(--subtext-3-font-family);
+  font-size: var(--subtext-3-font-size);
+  font-style: var(--subtext-3-font-style);
+  font-weight: var(--subtext-3-font-weight);
+  left: 1px;
+  letter-spacing: var(--subtext-3-letter-spacing);
+  line-height: var(--subtext-3-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .text-wrapper-29 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 0;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.book-an-event .group-5 {
+  height: 190px;
+  left: 150px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .text-wrapper-30 {
+  color: var(--ffffff);
+  font-family: var(--subtext-3-font-family);
+  font-size: var(--subtext-3-font-size);
+  font-style: var(--subtext-3-font-style);
+  font-weight: var(--subtext-3-font-weight);
+  left: 3px;
+  letter-spacing: var(--subtext-3-letter-spacing);
+  line-height: var(--subtext-3-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 14px;
+}
+
+.book-an-event .div-wrapper {
+  height: 119px;
+  left: 0;
+  position: absolute;
+  top: 71px;
+  width: 29px;
+}
+
+.book-an-event .overlap-group-3 {
+  height: 119px;
+  position: relative;
+  width: 21px;
+}
+
+.book-an-event .text-wrapper-31 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 5px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.book-an-event .group-6 {
+  height: 190px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.book-an-event .text-wrapper-32 {
+  color: var(--ffffff);
+  font-family: var(--subtext-3-font-family);
+  font-size: var(--subtext-3-font-size);
+  font-style: var(--subtext-3-font-style);
+  font-weight: var(--subtext-3-font-weight);
+  left: 0;
+  letter-spacing: var(--subtext-3-letter-spacing);
+  line-height: var(--subtext-3-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .group-7 {
+  height: 119px;
+  left: 1px;
+  position: absolute;
+  top: 71px;
+  width: 29px;
+}
+
+.book-an-event .text-wrapper-33 {
+  color: var(--x-000000);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 5px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 11px;
+}
+
+.book-an-event .group-8 {
+  height: 190px;
+  left: 300px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .group-9 {
+  height: 190px;
+  left: 375px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .text-wrapper-34 {
+  color: var(--ffffff);
+  font-family: var(--subtext-3-font-family);
+  font-size: var(--subtext-3-font-size);
+  font-style: var(--subtext-3-font-style);
+  font-weight: var(--subtext-3-font-weight);
+  left: 4px;
+  letter-spacing: var(--subtext-3-letter-spacing);
+  line-height: var(--subtext-3-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 13px;
+}
+
+.book-an-event .group-10 {
+  height: 190px;
+  left: 450px;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.book-an-event .group-11 {
+  height: 149px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  width: 31px;
+}
+
+.book-an-event .overlap-wrapper {
+  height: 47px;
+  left: 156px;
+  position: absolute;
+  top: 365px;
+  width: 297px;
+}
+
+.book-an-event .overlap-2 {
+  background-color: #ffffff0d;
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 47px;
+  position: relative;
+  width: 295px;
+}
+
+.book-an-event .text-wrapper-35 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 18px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.book-an-event .polygon {
+  height: 9px;
+  left: 268px;
+  position: absolute;
+  top: 18px;
+  width: 13px;
+}
+
+.book-an-event .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.5px;
+  line-height: normal;
+  position: absolute;
+  top: 372px;
+  width: 138px;
+}
+
+.book-an-event .element {
+  color: #141313;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 888px;
+  width: 585px;
+}
+
+.book-an-event .text-wrapper-37 {
+  font-weight: 500;
+}
+
+.book-an-event .text-wrapper-38 {
+  font-family: "Jost", Helvetica;
+}
+
+.book-an-event .text-wrapper-39 {
+  color: #000000;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 562px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 780px;
+  width: 436px;
+}
+
+.book-an-event .material-symbols {
+  height: 64px;
+  left: 405px;
+  position: absolute;
+  top: 903px;
+  width: 64px;
+}
+
+.book-an-event .mdi-email-edit {
+  height: 64px;
+  left: 1002px;
+  position: absolute;
+  top: 903px;
+  width: 64px;
+}
+
+.book-an-event .overlap-3 {
+  background-image: url(../../img/rectangle-107-2.svg);
+  background-size: 100% 100%;
+  height: 594px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.book-an-event .rectangle-8 {
+  background-color: #383838;
+  height: 594px;
+  left: 0;
+  opacity: 0.7;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.book-an-event .text {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 566px;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  position: absolute;
+  top: 539px;
+  white-space: nowrap;
+}
+
+.book-an-event .ant-design-user {
+  height: 24px;
+  left: 1272px;
+  position: absolute;
+  top: 110px;
+  width: 24px;
+}
+
+.book-an-event .bytesize-location {
+  height: 22px;
+  left: 1231px;
+  position: absolute;
+  top: 111px;
+  width: 22px;
+}
+
+.book-an-event .line {
+  height: 1px;
+  left: 148px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 1192px;
+}
+
+.book-an-event .group-12 {
+  height: 45px;
+  left: 139px;
+  position: absolute;
+  top: 110px;
+  width: 167px;
+}
+
+.book-an-event .overlap-group-4 {
+  height: 45px;
+  position: relative;
+}
+
+.book-an-event .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 41px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+}
+
+.book-an-event .text-wrapper-40 {
+  color: var(--cultured);
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  line-height: 14.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book-an-event .carbon-search {
+  height: 26px;
+  position: relative;
+  width: 26px;
+}
+
+.book-an-event .rectangle-9 {
+  border: 1px solid;
+  border-color: #d9d9d999;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.book-an-event .frame-3 {
+  height: 106px;
+  left: 617px;
+  position: absolute;
+  top: 94px;
+  width: 262px;
+}
+
+.book-an-event .text-wrapper-41 {
+  color: var(--white);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book-an-event .text-wrapper-42 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book-an-event .text-wrapper-43 {
+  color: var(--ffffff);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 33px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book-an-event .text-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  line-height: 19.2px;
+  margin-right: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.book-an-event .text-wrapper-44 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 515px;
+  letter-spacing: 0;
+  line-height: 83.2px;
+  position: absolute;
+  text-align: center;
+  top: 305px;
+  white-space: nowrap;
+  width: 454px;
+}
+
+.book-an-event .image {
+  height: 602px;
+  left: -124px;
+  position: absolute;
+  top: -634px;
+  width: 1611px;
+}

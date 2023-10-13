@@ -1,0 +1,30 @@
+.property {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #ffffff;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.property .rectangle {
+  height: 50px;
+  margin-bottom: -58px;
+  margin-right: -83px;
+  position: relative;
+  width: 166px;
+}
+
+.property .view-wines {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}

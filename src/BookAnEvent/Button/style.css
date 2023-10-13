@@ -1,0 +1,90 @@
+.button {
+  display: inline-flex;
+  gap: 10px;
+  position: relative;
+}
+
+.button .div {
+  font-family: var(--paragraph-bold-body-16px-font-family);
+  font-size: var(--paragraph-bold-body-16px-font-size);
+  font-style: var(--paragraph-bold-body-16px-font-style);
+  font-weight: var(--paragraph-bold-body-16px-font-weight);
+  letter-spacing: var(--paragraph-bold-body-16px-letter-spacing);
+  line-height: var(--paragraph-bold-body-16px-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button .arrow-chevron-right {
+  height: 24px !important;
+  position: relative !important;
+  width: 24px !important;
+}
+
+.button .extra-small-2 {
+  font-family: var(--paragraph-bold-body-16px-font-family);
+  font-size: var(--paragraph-bold-body-16px-font-size);
+  font-style: var(--paragraph-bold-body-16px-font-style);
+  font-weight: var(--paragraph-bold-body-16px-font-weight);
+  letter-spacing: var(--paragraph-bold-body-16px-letter-spacing);
+  line-height: var(--paragraph-bold-body-16px-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.button.large {
+  padding: 12px 40px;
+}
+
+.button.secondary {
+  border: 1px solid;
+  border-color: var(--primary-80);
+}
+
+.button.extra-small {
+  padding: 0px 24px;
+}
+
+.button.small {
+  padding: 4px 32px;
+}
+
+.button.medium {
+  padding: 8px 32px;
+}
+
+.button.primary {
+  background-color: var(--primary-80);
+}
+
+.button.extra-large {
+  padding: 16px 40px;
+}
+
+.button.icon-false {
+  align-items: flex-start;
+}
+
+.button.icon-true {
+  align-items: center;
+}
+
+.button.primary .div {
+  color: var(--textwhite);
+}
+
+.button.secondary .div {
+  color: var(--primary-80);
+}
+
+.button.primary .extra-small-2 {
+  color: var(--textwhite);
+}
+
+.button.secondary .extra-small-2 {
+  color: var(--primary-80);
+}

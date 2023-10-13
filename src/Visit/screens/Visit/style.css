@@ -1,0 +1,760 @@
+.visit {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.visit .div {
+  background-color: #ffffff;
+  height: 2580px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.visit .image {
+  height: 602px;
+  left: -124px;
+  position: absolute;
+  top: -634px;
+  width: 1611px;
+}
+
+.visit .overlap {
+  height: 720px;
+  left: -26px;
+  position: absolute;
+  top: 628px;
+  width: 1466px;
+}
+
+.visit .rectangle {
+  background-color: #016c64;
+  height: 687px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1466px;
+}
+
+.visit .text-wrapper {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 610px;
+  letter-spacing: 0;
+  line-height: 62.4px;
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  width: 294px;
+}
+
+.visit .we-pride-ourselves {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 395px;
+  left: 776px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  position: absolute;
+  top: 271px;
+  width: 550px;
+}
+
+.visit .p {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 770px;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: absolute;
+  top: 197px;
+  width: 469px;
+}
+
+.visit .line {
+  height: 1px;
+  left: 776px;
+  position: absolute;
+  top: 609px;
+  width: 540px;
+}
+
+.visit .mask-group {
+  height: 552px;
+  left: 172px;
+  position: absolute;
+  top: 168px;
+  width: 515px;
+}
+
+.visit .overlap-group {
+  height: 628px;
+  left: -58px;
+  position: absolute;
+  top: 0;
+  width: 1498px;
+}
+
+.visit .img {
+  height: 628px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1489px;
+}
+
+.visit .rectangle-2 {
+  background: linear-gradient(180deg, rgb(5.51, 5.51, 5.51) 11.36%, rgba(9.76, 9.05, 9.05, 0) 100%);
+  height: 628px;
+  left: 0;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  width: 1498px;
+}
+
+.visit .text {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 624px;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  position: absolute;
+  top: 539px;
+  white-space: nowrap;
+}
+
+.visit .ant-design-user {
+  height: 24px;
+  left: 1330px;
+  position: absolute;
+  top: 110px;
+  width: 24px;
+}
+
+.visit .bytesize-location {
+  height: 22px;
+  left: 1289px;
+  position: absolute;
+  top: 111px;
+  width: 22px;
+}
+
+.visit .text-wrapper-2 {
+  color: var(--white);
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.visit .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.visit .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.54px;
+  line-height: 21.6px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.visit .text-wrapper-5 {
+  color: var(--ffffff);
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 33px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.visit .text-2 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.48px;
+  line-height: 19.2px;
+  margin-right: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.visit .line-2 {
+  height: 1px;
+  left: 206px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 1192px;
+}
+
+.visit .group {
+  height: 45px;
+  left: 197px;
+  position: absolute;
+  top: 110px;
+  width: 167px;
+}
+
+.visit .overlap-group-2 {
+  height: 45px;
+  position: relative;
+}
+
+.visit .frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 41px;
+  left: 12px;
+  position: absolute;
+  top: 10px;
+}
+
+.visit .text-wrapper-6 {
+  color: var(--cultured);
+  font-family: "Manrope", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.36px;
+  line-height: 14.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.visit .carbon-search {
+  height: 26px;
+  position: relative;
+  width: 26px;
+}
+
+.visit .rectangle-3 {
+  border: 1px solid;
+  border-color: #d9d9d999;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.visit .frame-2 {
+  height: 106px;
+  left: 675px;
+  position: absolute;
+  top: 94px;
+  width: 262px;
+}
+
+.visit .overlap-wrapper {
+  height: 50px;
+  left: 703px;
+  position: absolute;
+  top: 472px;
+  width: 168px;
+}
+
+.visit .see-menu-wrapper {
+  background-image: url(../../img/rectangle-1.svg);
+  background-size: 100% 100%;
+  height: 50px;
+  position: relative;
+  width: 166px;
+}
+
+.visit .see-menu {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.visit .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 54px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: -1.62px;
+  line-height: 64.8px;
+  position: absolute;
+  text-align: center;
+  top: 294px;
+  width: 820px;
+}
+
+.visit .overlap-2 {
+  height: 484px;
+  left: 159px;
+  position: absolute;
+  top: 1421px;
+  width: 562px;
+}
+
+.visit .whippletree-winery {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  height: 484px;
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  position: absolute;
+  top: 0;
+  width: 550px;
+}
+
+.visit .span {
+  font-weight: 500;
+}
+
+.visit .text-wrapper-8 {
+  color: #000000;
+  font-family: "Jost", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.7px;
+}
+
+.visit .text-wrapper-9 {
+  text-decoration: underline;
+}
+
+.visit .shop-now-button-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 0;
+  padding: 8px;
+  position: absolute;
+  top: 395px;
+}
+
+.visit .shop-now-button {
+  align-items: center;
+  background-color: #daab63;
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  padding: 8px 10px 10px;
+  position: relative;
+  width: 153px;
+}
+
+.visit .text-wrapper-10 {
+  color: #553d06;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.visit .line-3 {
+  height: 1px;
+  left: 171px;
+  object-fit: cover;
+  position: absolute;
+  top: 1906px;
+  width: 503px;
+}
+
+.visit .overlap-3 {
+  height: 536px;
+  left: 0px;
+  position: absolute;
+  top: 2044px;
+  width: 1440px;
+}
+
+.visit .rectangle-4 {
+  background-color: #082d2a;
+  height: 536px;
+  left: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.visit .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+  width: 364px;
+}
+
+.visit .group-2 {
+  height: 227px;
+  left: 174px;
+  position: absolute;
+  top: 106px;
+  width: 649px;
+}
+
+.visit .online-wine-store {
+  color: var(--ffffff);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  left: 492px;
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  position: absolute;
+  top: 62px;
+  width: 153px;
+}
+
+.visit .text-wrapper-12 {
+  color: #ffffff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.visit .text-wrapper-13 {
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.visit .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 492px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.visit .rectangle-5 {
+  background-color: #859189;
+  height: 2px;
+  left: 494px;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.visit .rectangle-6 {
+  background-color: #859189;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 40px;
+  width: 45px;
+}
+
+.visit .line-4 {
+  height: 1px;
+  left: 118px;
+  position: absolute;
+  top: 60px;
+  width: 1242px;
+}
+
+.visit .element-info {
+  color: #fffafa;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 174px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 91px;
+  width: 364px;
+}
+
+.visit .text-wrapper-15 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.visit .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+}
+
+.visit .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.visit .text-wrapper-18 {
+  color: #cecece;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 444px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 471px;
+  width: 592px;
+}
+
+.visit .whippletree-winery-2 {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 179px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 350px;
+  width: 184px;
+}
+
+.visit .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 1085px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  width: 68px;
+}
+
+.visit .friday-sunday {
+  color: #ffffff;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1087px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 147px;
+  width: 265px;
+}
+
+.visit .frame-wrapper {
+  height: 53px;
+  left: 1085px;
+  position: absolute;
+  top: 222px;
+  width: 177px;
+}
+
+.visit .book-an-event-wrapper {
+  align-items: center;
+  background-color: #daab63;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 15px 23px;
+  position: relative;
+}
+
+.visit .book-an-event {
+  color: #231f20;
+  font-family: "Jost", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.16px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.visit .rectangle-7 {
+  background-color: #859189;
+  height: 2px;
+  left: 1087px;
+  position: absolute;
+  top: 141px;
+  width: 45px;
+}
+
+.visit .group-3 {
+  height: 110px;
+  left: 172px;
+  position: absolute;
+  top: 210px;
+  width: 258px;
+}
+
+.visit .map {
+  height: 540px;
+  left: 722px;
+  position: absolute;
+  top: 1429px;
+  width: 1440px;
+}
+
+.visit .map-pattern-black-wrapper {
+  height: 540px;
+}
+
+.visit .map-pattern-black {
+  height: 540px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.visit .overlap-group-3 {
+  background-image: url(../../img/g-4225.png);
+  background-size: 100% 100%;
+  height: 4100px;
+  left: -1846px;
+  position: relative;
+  top: -948px;
+  width: 5537px;
+}
+
+.visit .group-4 {
+  height: 135px;
+  left: 1896px;
+  position: absolute;
+  top: 998px;
+  width: 60px;
+}
+
+.visit .img-wrapper {
+  background-color: #3c6865;
+  border-radius: 2px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.visit .img-2 {
+  height: 18px;
+  left: 21px;
+  position: absolute;
+  top: 21px;
+  width: 18px;
+}
+
+.visit .group-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #3c6865;
+  border-radius: 2px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 60px;
+}
+
+.visit .img-3 {
+  height: 6px;
+  left: 23px;
+  position: absolute;
+  top: 26px;
+  width: 14px;
+}
+
+.visit .overlap-4 {
+  border: 1px solid;
+  border-color: var(--f-2af-5c);
+  border-radius: 50.5px;
+  height: 101px;
+  left: 2330px;
+  position: absolute;
+  top: 1154px;
+  width: 101px;
+}
+
+.visit .ellipse {
+  background-color: #ebae51;
+  border-radius: 43px;
+  height: 86px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 86px;
+}
+
+.visit .vector {
+  height: 51px;
+  left: 31px;
+  position: absolute;
+  top: 24px;
+  width: 38px;
+}
