@@ -41,7 +41,7 @@ function FirstInfoSlide() {
 function HeaderImage() {
   return (
     <div className="overlap-group">
-      <img className="img" alt="Image" src={require("../../img/image-2.png")} />
+      {/* <img className="img" alt="Image" src={require("../../img/image-2.png")} /> */}
       <div className="rectangle-2" />
       <div className="text">{""}</div>
       <img

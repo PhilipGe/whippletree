@@ -42,13 +42,13 @@ function VisitUsCards() {
       <img
         className="rectangle-6"
         alt="Rectangle"
-        src={require("../../img/rectangle-114.png")}
+        // src={require("../../img/rectangle-114.png")}
       />
-      <img
+      {/* <img
         className="rectangle-7"
         alt="Rectangle"
         src={require("../../img/rectangle-115.png")}
-      />
+      /> */}
     </div>
   );
 }
