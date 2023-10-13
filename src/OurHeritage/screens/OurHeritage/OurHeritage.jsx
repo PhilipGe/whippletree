@@ -80,11 +80,11 @@ function ImageCollection() {
         alt="Rectangle"
         src={require("../../img/rectangle-108-1.svg")}
       />
-      <img
+      {/* <img
         className="rectangle-2"
         alt="Rectangle"
         src={require("../../img/rectangle-107-3.svg")}
-      />
+      /> */}
       <div className="rectangle-3" />
       <div className="text">{""}</div>
       <img

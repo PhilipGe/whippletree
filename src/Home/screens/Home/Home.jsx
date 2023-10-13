@@ -75,11 +75,11 @@ function LocalRoots() {
         </div>
       </div>
       <div className="constrain-images">
-        <img
+        {/* <img
           className="image"
           alt="Image"
           src={require("../../img/image-4.png")}
-        />
+        /> */}
         <img
           className="layer"
           alt="Layer"
@@ -197,11 +197,11 @@ function GreenBottomSection() {
 function BottomSection() {
   return (
     <div className="overlap-2">
-      <img
+      {/* <img
         className="rectangle-9"
         alt="Rectangle"
         src={require("../../img/rectangle-56.png")}
-      />
+      /> */}
       <OverlapWrapper></OverlapWrapper>
       <GreenBottomSection></GreenBottomSection>
     </div>
