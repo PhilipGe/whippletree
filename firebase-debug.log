@@ -1,0 +1,97 @@
+[debug] [2023-10-23T03:06:01.975Z] ----------------------------------------------------------------------
+[debug] [2023-10-23T03:06:01.976Z] Command:       /Users/philip.gessen/.nvm/versions/node/v18.15.0/bin/node /Users/philip.gessen/.nvm/versions/node/v18.15.0/bin/firebase init
+[debug] [2023-10-23T03:06:01.976Z] CLI Version:   12.7.0
+[debug] [2023-10-23T03:06:01.976Z] Platform:      darwin
+[debug] [2023-10-23T03:06:01.976Z] Node Version:  v18.15.0
+[debug] [2023-10-23T03:06:01.977Z] Time:          Sun Oct 22 2023 23:06:01 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-10-23T03:06:01.977Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-23T03:06:01.981Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-10-23T03:06:01.981Z] > authorizing via signed-in user (philip.gessen@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/philip.gessen/Development/Krasnoff/AnimaAttempts/SinglePagePutTogether/full-website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
+[debug] [2023-10-23T03:06:21.710Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects [none]
+[debug] [2023-10-23T03:06:21.710Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects {"projectId":"whippletree","name":"whippletree"}
+[debug] [2023-10-23T03:06:22.147Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects 200
+[debug] [2023-10-23T03:06:22.147Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects {"name":"operations/cp.7308980523590837613"}
+[debug] [2023-10-23T03:06:22.148Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 [none]
+[debug] [2023-10-23T03:06:22.555Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 200
+[debug] [2023-10-23T03:06:22.555Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 {"name":"operations/cp.7308980523590837613"}
+[debug] [2023-10-23T03:06:23.057Z] [Project Creation Poller] Retrying task index 0
+[debug] [2023-10-23T03:06:23.058Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 [none]
+[debug] [2023-10-23T03:06:23.476Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 200
+[debug] [2023-10-23T03:06:23.476Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 {"name":"operations/cp.7308980523590837613"}
+[debug] [2023-10-23T03:06:24.478Z] [Project Creation Poller] Retrying task index 0
+[debug] [2023-10-23T03:06:24.479Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 [none]
+[debug] [2023-10-23T03:06:24.908Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 200
+[debug] [2023-10-23T03:06:24.908Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 {"name":"operations/cp.7308980523590837613","metadata":{"@type":"type.googleapis.com/google.cloudresourcemanager.v1.ProjectCreationStatus","gettable":true}}
+[debug] [2023-10-23T03:06:26.910Z] [Project Creation Poller] Retrying task index 0
+[debug] [2023-10-23T03:06:26.913Z] >>> [apiv2][query] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 [none]
+[debug] [2023-10-23T03:06:27.263Z] <<< [apiv2][status] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 200
+[debug] [2023-10-23T03:06:27.264Z] <<< [apiv2][body] GET https://cloudresourcemanager.googleapis.com/v1/operations/cp.7308980523590837613 {"name":"operations/cp.7308980523590837613","metadata":{"@type":"type.googleapis.com/google.cloudresourcemanager.v1.ProjectCreationStatus","gettable":true,"ready":true},"done":true,"response":{"@type":"type.googleapis.com/google.cloudresourcemanager.v1.Project","projectNumber":"975662588559","projectId":"whippletree","lifecycleState":"ACTIVE","name":"whippletree","createTime":"2023-10-23T03:06:23.910Z"}}
+[debug] [2023-10-23T03:06:27.266Z] >>> [apiv2][query] POST https://firebase.googleapis.com/v1beta1/projects/whippletree:addFirebase [none]
+[debug] [2023-10-23T03:06:28.082Z] <<< [apiv2][status] POST https://firebase.googleapis.com/v1beta1/projects/whippletree:addFirebase 403
+[debug] [2023-10-23T03:06:28.083Z] <<< [apiv2][body] POST https://firebase.googleapis.com/v1beta1/projects/whippletree:addFirebase {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2023-10-23T03:06:28.084Z] HTTP Error: 403, The caller does not have permission
+[debug] [2023-10-23T03:06:28.085Z] FirebaseError: HTTP Error: 403, The caller does not have permission
+    at responseToError (/Users/philip.gessen/.nvm/versions/node/v18.15.0/lib/node_modules/firebase-tools/lib/responseToError.js:49:12)
+    at RetryOperation._fn (/Users/philip.gessen/.nvm/versions/node/v18.15.0/lib/node_modules/firebase-tools/lib/apiv2.js:285:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to add Firebase to Google Cloud Platform project. See firebase-debug.log for more info.
+[debug] [2023-10-23T03:07:46.001Z] ----------------------------------------------------------------------
+[debug] [2023-10-23T03:07:46.002Z] Command:       /Users/philip.gessen/.nvm/versions/node/v18.15.0/bin/node /Users/philip.gessen/.nvm/versions/node/v18.15.0/bin/firebase init
+[debug] [2023-10-23T03:07:46.003Z] CLI Version:   12.7.0
+[debug] [2023-10-23T03:07:46.003Z] Platform:      darwin
+[debug] [2023-10-23T03:07:46.003Z] Node Version:  v18.15.0
+[debug] [2023-10-23T03:07:46.004Z] Time:          Sun Oct 22 2023 23:07:46 GMT-0400 (Eastern Daylight Time)
+[debug] [2023-10-23T03:07:46.004Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-10-23T03:07:46.007Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-10-23T03:07:46.008Z] > authorizing via signed-in user (philip.gessen@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/philip.gessen/Development/Krasnoff/AnimaAttempts/SinglePagePutTogether/full-website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
+[debug] [2023-10-23T03:08:06.072Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects [none]
+[debug] [2023-10-23T03:08:06.072Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects {"projectId":"whipple","name":"whipple"}
+[debug] [2023-10-23T03:08:06.373Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects 409
+[debug] [2023-10-23T03:08:06.373Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects {"error":{"code":409,"message":"Requested entity already exists","status":"ALREADY_EXISTS"}}
+[debug] [2023-10-23T03:08:06.375Z] FirebaseError: HTTP Error: 409, Requested entity already exists
+    at responseToError (/Users/philip.gessen/.nvm/versions/node/v18.15.0/lib/node_modules/firebase-tools/lib/responseToError.js:49:12)
+    at RetryOperation._fn (/Users/philip.gessen/.nvm/versions/node/v18.15.0/lib/node_modules/firebase-tools/lib/apiv2.js:285:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to create project because there is already a project with ID whipple. Please try again with a unique project ID.
