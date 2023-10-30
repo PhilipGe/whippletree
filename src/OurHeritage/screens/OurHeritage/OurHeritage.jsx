@@ -1,21 +1,12 @@
 import React from "react";
 import "./style.css";
 import { NavBar } from "../../../NavBar/NavBar";
+import { NavBarBottom } from "../../../NavBar/NavBarBottom";
+import { BookAnEventButton } from "../../../NavBar/BookAnEventButton";
 
 function Group() {
   return (
     <div className="group">
-      <div className="overlap-group">
-        <div className="frame">
-          <div className="text-wrapper">Search Wines</div>
-          <img
-            className="carbon-search"
-            alt="Carbon search"
-            src={require("../../img/carbon-search-1.svg")}
-          />
-        </div>
-        <div className="rectangle-4" />
-      </div>
     </div>
   );
 }
@@ -23,23 +14,7 @@ function Group() {
 function Group2() {
   return (
     <div className="group-2">
-      <p className="online-wine-store">
-        <span className="span">
-          Online Wine Store
-          <br />
-          Wine club
-          <br />
-          Our Heritage
-          <br />
-        </span>
-        <span className="text-wrapper-4">
-          Visit
-          <br />
-        </span>
-      </p>
-      <div className="text-wrapper-5">Menu</div>
-      <div className="rectangle-6" />
-      <div className="rectangle-7" />
+      <NavBarBottom />
     </div>
   );
 }
@@ -47,9 +22,7 @@ function Group2() {
 function FrameWrapper() {
   return (
     <div className="frame-wrapper">
-      <div className="book-an-event-wrapper">
-        <div className="book-an-event">BOOK AN EVENT</div>
-      </div>
+     <BookAnEventButton />
     </div>
   );
 }

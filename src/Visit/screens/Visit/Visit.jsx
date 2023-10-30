@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css";
 import { NavBar } from "../../../NavBar/NavBar";
+import { NavBarBottom } from "../../../NavBar/NavBarBottom";
+import { BookAnEventButton } from "../../../NavBar/BookAnEventButton";
 
 function FirstInfoSlide() {
   return (
@@ -61,18 +63,7 @@ function HeaderImage() {
         src={require("../../img/line-2.svg")}
       />
       <div className="group">
-        <div className="overlap-group-2">
-          <div className="frame">
-            <div className="text-wrapper-6">Search Wines</div>
-            <img
-              className="carbon-search"
-              alt="Carbon search"
-              src={require("../../img/carbon-search-1.svg")}
-            />
-          </div>
-          <div className="rectangle-3" />
-        </div>
-      </div>
+       </div>
       <img
         className="frame-2"
         alt="Frame"
@@ -142,23 +133,7 @@ function BottomSection() {
       <div className="rectangle-4" />
       <div className="text-wrapper-11">Contact Us</div>
       <div className="group-2">
-        <p className="online-wine-store">
-          <span className="text-wrapper-12">
-            Online Wine Store
-            <br />
-            Wine club
-            <br />
-            Our Heritage
-            <br />
-          </span>
-          <span className="text-wrapper-13">
-            Visit
-            <br />
-          </span>
-        </p>
-        <div className="text-wrapper-14">Menu</div>
-        <div className="rectangle-5" />
-        <div className="rectangle-6" />
+       <NavBarBottom />
       </div>
       <img
         className="line-4"
@@ -198,9 +173,7 @@ function BottomSection() {
         12:00 - 6:00 PM
       </p>
       <div className="frame-wrapper">
-        <div className="book-an-event-wrapper">
-          <div className="book-an-event">BOOK AN EVENT</div>
-        </div>
+        <BookAnEventButton />
       </div>
       <div className="rectangle-7" />
       <img

@@ -1,3 +1,12 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
 
 .home  {
 	background-color: #ffffff;
@@ -9,24 +18,25 @@
 
 .my-div{
 	overflow: scroll;
-	max-width: 1520px;
+	max-width: 1440px;
 	margin: 0 auto;
 	overflow-x: auto;
 }
 
-.home .div  {
+.home  {
 	background-color: #ffffff;
 	height: 5639px;
-	overflow: hidden;
 	position: relative;
-	/* width: 100vw; */
+	overflow-x: scroll;
+	overflow-y: hidden;
+	width: 1440px;
 }
 .home .overlap  {
 	height: 633px;
 	left: -288px;
 	position: absolute;
 	top: 3875px;
-	width: 1520px;
+	width: 1440px;
 }
 .home .group  {
 	height: 271px;
@@ -169,10 +179,10 @@
 
 .home .overlap-group  {
 	height: 587px;
-	left: 0px;
+	left: -40px;
 	position: absolute;
 	top: 1611px;
-	width: 1520px;
+	width: 1440px;
 }
 .home .group-2  {
 	height: 487px;
@@ -213,7 +223,7 @@
 	line-height: 31.4px;
 	position: absolute;
 	top: 224px;
-	width: 535px;
+	width: 395px;
 }
 .home .shop-now-button-wrapper  {
 	align-items: flex-start;
@@ -223,7 +233,7 @@
 	left: 951px;
 	padding: 8px;
 	position: absolute;
-	top: 379px;
+	top: 430px;
 }
 .home .image  {
 	height: 420px;
@@ -259,7 +269,7 @@
 	left: 0px;
 	position: absolute;
 	top: 4594px;
-	width: 1520px;
+	width: 1440px;
 }
 .home .rectangle-9  {
 	height: 519px;
@@ -363,26 +373,7 @@
 	top: 612px;
 	width: 364px;
 }
-.home .group-3  {
-	height: 227px;
-	left: 196px;
-	position: absolute;
-	top: 615px;
-	width: 649px;
-}
-.home .online-wine-store  {
-	color: var(--ffffff);
-	font-family: var(--body-text-font-family);
-	font-size: var(--body-text-font-size);
-	font-style: var(--body-text-font-style);
-	font-weight: var(--body-text-font-weight);
-	left: 492px;
-	letter-spacing: var(--body-text-letter-spacing);
-	line-height: var(--body-text-line-height);
-	position: absolute;
-	top: 62px;
-	width: 153px;
-}
+
 .home .span  {
 	color: #ffffff;
 	font-family: var(--body-text-font-family);
@@ -411,22 +402,7 @@
 	position: absolute;
 	top: 0;
 }
-.home .rectangle-13  {
-	background-color: #859189;
-	height: 2px;
-	left: 494px;
-	position: absolute;
-	top: 40px;
-	width: 45px;
-}
-.home .rectangle-14  {
-	background-color: #859189;
-	height: 2px;
-	left: 0;
-	position: absolute;
-	top: 40px;
-	width: 45px;
-}
+
 .home .line-4  {
 	height: 1px;
 	left: 140px;
@@ -525,18 +501,11 @@
 	padding: 15px 23px;
 	position: relative;
 }
-.home .book-an-event  {
+
+.home .book-an-event a {
 	color: #231f20;
-	font-family: "Jost", Helvetica;
-	font-size: 16px;
-	font-weight: 500;
-	letter-spacing: 0.16px;
-	line-height: normal;
-	margin-top: -1px;
-	position: relative;
-	text-align: center;
-	width: fit-content;
 }
+
 .home .rectangle-15  {
 	background-color: #859189;
 	height: 2px;
@@ -545,6 +514,15 @@
 	top: 650px;
 	width: 45px;
 }
+
+.home .group-3  {
+	height: 227px;
+	left: 196px;
+	position: absolute;
+	top: 615px;
+	width: 649px;
+}
+
 .home .group-4  {
 	height: 110px;
 	left: 194px;
@@ -555,10 +533,10 @@
 .home .overlap-4  {
 	background-color: #f7f1e3e6;
 	height: 1524px;
-	left: 25px;
+	left: -15px;
 	position: absolute;
 	top: 2286px;
-	width: 1464px;
+	width: 1455px;
 }
 .home .overlap-5  {
 	height: 136px;
@@ -678,13 +656,17 @@
 	top: 1140px;
 	width: 368px;
 }
+
+
+
 .home .overlap-6  {
-	background-color: #000000;
+	/* background-color: #000000; */
+	background-image: url(../../img/image2.png);
 	height: 811px;
-	left: 0px;
+	left: -40px;
 	position: absolute;
 	top: 0;
-	width: 1520px;
+	width: 1480px;
 }
 .home .rectangle-26  {
 	background: linear-gradient(180deg, rgb(5.51, 5.51, 5.51) 11.36%, rgba(9.76, 9.05, 9.05, 0) 100%);

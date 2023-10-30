@@ -4,27 +4,13 @@ import { ArrowChevronDown1 } from "../../icons/ArrowChevronDown1";
 import "./style.css";
 import { Link } from "react-router-dom";
 import { NavBar } from "../../../NavBar/NavBar";
+import { NavBarBottom } from "../../../NavBar/NavBarBottom";
+import { BookAnEventButton } from "../../../NavBar/BookAnEventButton";
 
 function Group() {
   return (
     <div className="group">
-      <p className="online-wine-store">
-        <span className="span">
-          Online Wine Store
-          <br />
-          Wine club
-          <br />
-          Our Heritage
-          <br />
-        </span>
-        <span className="text-wrapper-3">
-          Visit
-          <br />
-        </span>
-      </p>
-      <div className="text-wrapper-4">Menu</div>
-      <div className="rectangle-5" />
-      <div className="rectangle-6" />
+      <NavBarBottom />
     </div>
   );
 }
@@ -71,9 +57,7 @@ function BottomText() {
 function BookEventButton() {
   return (
     <div className="frame-wrapper">
-      <div className="frame">
-        <div className="text-wrapper-9">BOOK AN EVENT</div>
-      </div>
+      <BookAnEventButton />
     </div>
   );
 }
@@ -81,26 +65,15 @@ function BookEventButton() {
 function Form() {
   return (
     <div>
-      <div className="container" />
-      <div className="text-wrapper-10">Enter your Note</div>
+      <textarea className="container input-text" id='note-area'/>
       <div className="text-wrapper-11">Add Note</div>
-      <div className="container-2" />
-      <ArrowChevronDown1 className="arrow-chevron-down" color="#F2AF5C" />
-      <div className="text-wrapper-12">Number Of Person</div>
-      <div className="container-3" />
-      <div className="text-wrapper-13">Enter your email</div>
+      <input className="container-2 input-text" id='phone-number' />
+      <div className="text-wrapper-12">Phone number</div>
+      <input className="container-3 input-text" id='email-address' />
       <div className="text-wrapper-14">Email Address</div>
-      <div className="container-4" />
-      <ArrowChevronDown1 className="arrow-chevron-down-1" color="#F2AF5C" />
-      <div className="text-wrapper-15">Table</div>
-      <div className="container-5" />
-      <div className="text-wrapper-16">Enter your Phone Number</div>
-      <div className="text-wrapper-17">Phone Number</div>
-      <div className="container-6" />
-      <ArrowChevronDown1 className="arrow-chevron-down-3" color="#F2AF5C" />
-      <div className="text-wrapper-18">Special Requirement</div>
-      <div className="container-7" />
-      <div className="text-wrapper-19">Enter your name</div>
+      <input className="container-6 input-text" id='number-of-persons'/>
+      <div className="text-wrapper-18">Number of Person</div>
+      <input className="container-7 input-text" id='your-name'/>
       <div className="text-wrapper-20">Your Name</div>
     </div>
   );
@@ -320,17 +293,6 @@ function HeaderImage() {
       />
       <img className="line" alt="Line" src={require("../../img/line-2.svg")} />
       <div className="group-12">
-        <div className="overlap-group-4">
-          <div className="frame-2">
-            <div className="text-wrapper-40">Search Wines</div>
-            <img
-              className="carbon-search"
-              alt="Carbon search"
-              src={require("../../img/carbon-search-1.svg")}
-            />
-          </div>
-          <div className="rectangle-9" />
-        </div>
       </div>
       <img
         className="frame-3"

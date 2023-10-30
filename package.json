@@ -7,6 +7,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "express": "^4.18.2",
     "firebase": "^10.5.0",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
@@ -16,7 +17,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "parcel build --public-url ./ --no-scope-hoist",
+    "build": "rm -rf static && parcel build --public-url /static --no-scope-hoist && mv ./dist ./static",
+    "deploy": "gcloud app deploy --project whippletree-402903",
     "dev": "parcel",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"

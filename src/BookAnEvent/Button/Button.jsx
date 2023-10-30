@@ -3,14 +3,44 @@ We're constantly improving the code you see.
 Please share your feedback here: https://form.asana.com/?k=uvp-HPgd3_hyoXRBw1IcNg&d=1152665201300829
 */
 
-import PropTypes from "prop-types";
+import PropTypes, { number } from "prop-types";
 import React from "react";
-import { ArrowChevronRight5 } from "../icons/ArrowChevronRight5";
 import "./style.css";
+
+function sendPostRequest(){
+  const url = 'http://localhost:3000/book_an_event_notification'
+
+  let notes = document.getElementById('note-area').value;
+  let phone_number = document.getElementById('phone-number').value;
+  let email_address = document.getElementById('email-address').value;
+  let number_of_persons = document.getElementById('number-of-persons').value;
+  let name = document.getElementById('your-name').value;
+
+  let data = {
+    your_name: name,
+    email_address: email_address,
+    number_of_person: number_of_persons,
+    phone_number: phone_number,
+    notes: notes
+  }
+
+  console.log(data)
+
+  fetch(url,
+    {
+      method: "POST",
+      headers: {'Content-Type': 'application/json'},
+      // mode: 'no-cors',
+      body: JSON.stringify(data)
+    }
+  ).then(
+    res => console.log(`Request complete! Response: ${res}`)
+  )
+}
 
 export const Button = ({ type, size, icon, className, divClassName, text = "Large" }) => {
   return (
-    <div className={`button ${size} ${type} icon-${icon} ${className}`}>
+    <button className={`button ${size} ${type} icon-${icon} ${className}`} onClick={sendPostRequest}>
       {icon && (
         <>
           <div className="div">
@@ -24,7 +54,6 @@ export const Button = ({ type, size, icon, className, divClassName, text = "Larg
 
             {size === "extra-large" && <>Extra Large</>}
           </div>
-          <ArrowChevronRight5 className="arrow-chevron-right" color={type === "primary" ? "white" : "#A68F6E"} />
         </>
       )}
 
@@ -41,7 +70,7 @@ export const Button = ({ type, size, icon, className, divClassName, text = "Larg
           {size === "extra-large" && <>Extra Large</>}
         </div>
       )}
-    </div>
+    </button>
   );
 };
 

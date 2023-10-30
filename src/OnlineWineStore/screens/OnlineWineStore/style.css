@@ -1,9 +1,9 @@
 .online-wine-store {
-  background-color: #ffffff;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
+  background-color: #fff;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    display: flex;
 }
 
 .online-wine-store .div {
@@ -126,6 +126,15 @@
   width: 41px;
 }
 
+/* .online-wine-store .group-3 {
+  height: 12px;
+  left: 657px;
+  position: absolute;
+  top: 38px;
+  width: 41px;
+} */
+
+
 .online-wine-store .overlap-3 {
   height: 23px;
   left: 854px;
@@ -154,27 +163,6 @@
   top: 0;
   white-space: nowrap;
   width: 196px;
-}
-
-.online-wine-store .text-wrapper-6 {
-  color: #000000;
-  font-family: "Inter", Helvetica;
-  font-size: 12px;
-  font-weight: 400;
-  left: 181px;
-  letter-spacing: 0;
-  line-height: normal;
-  position: absolute;
-  top: 3px;
-  width: 18px;
-}
-
-.online-wine-store .group-3 {
-  height: 12px;
-  left: 1057px;
-  position: absolute;
-  top: 38px;
-  width: 41px;
 }
 
 .online-wine-store .vector-3 {

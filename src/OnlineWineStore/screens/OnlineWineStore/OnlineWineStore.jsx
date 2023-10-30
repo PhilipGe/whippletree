@@ -1,6 +1,8 @@
 import React from "react";
 import "./style.css";
 import { NavBar } from "../../../NavBar/NavBar";
+import { NavBarBottom } from "../../../NavBar/NavBarBottom";
+import { BookAnEventButton } from "../../../NavBar/BookAnEventButton";
 
 function Overlap() {
   return (
@@ -427,19 +429,7 @@ function Overlap27() {
         alt="Line"
         src={require("../../img/line-2.svg")}
       />
-      <div className="overlap-group-wrapper">
-        <div className="overlap-group-2">
-          <div className="frame">
-            <div className="text-wrapper-91">Search Wines</div>
-            <img
-              className="carbon-search"
-              alt="Carbon search"
-              src={require("../../img/carbon-search-1.svg")}
-            />
-          </div>
-          <div className="rectangle-2" />
-        </div>
-      </div>
+      
       <img
         className="frame-2"
         alt="Frame"
@@ -457,23 +447,7 @@ function BottomSection() {
       <div className="rectangle-3" />
       <div className="text-wrapper-96">Contact Us</div>
       <div className="group-26">
-        <p className="div-2">
-          <span className="span">
-            Online Wine Store
-            <br />
-            Wine club
-            <br />
-            Our Heritage
-            <br />
-          </span>
-          <span className="text-wrapper-97">
-            Visit
-            <br />
-          </span>
-        </p>
-        <div className="text-wrapper-98">Menu</div>
-        <div className="rectangle-4" />
-        <div className="rectangle-5" />
+        <NavBarBottom />
       </div>
       <p className="element-info">
         <span className="text-wrapper-99">
@@ -508,9 +482,7 @@ function BottomSection() {
         12:00 - 6:00 PM
       </p>
       <div className="frame-wrapper">
-        <div className="book-an-event-wrapper">
-          <div className="book-an-event">BOOK AN EVENT</div>
-        </div>
+        <BookAnEventButton />
       </div>
       <div className="rectangle-6" />
       <img

@@ -32,6 +32,902 @@
   --x-000000: #000;
 }
 
+.visit {
+  background-color: #fff;
+  flex-direction: row;
+  width: 100%;
+  display: flex;
+}
+
+.visit .div {
+  background-color: #fff;
+  width: 1440px;
+  height: 2580px;
+  position: relative;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.visit .image {
+  width: 1611px;
+  height: 602px;
+  position: absolute;
+  top: -634px;
+  left: -124px;
+}
+
+.visit .overlap {
+  width: 1466px;
+  height: 720px;
+  position: absolute;
+  top: 628px;
+  left: -26px;
+}
+
+.visit .rectangle {
+  background-color: #016c64;
+  width: 1466px;
+  height: 687px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.visit .text-wrapper {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 294px;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 62.4px;
+  position: absolute;
+  top: 42px;
+  left: 610px;
+}
+
+.visit .we-pride-ourselves {
+  color: #fff;
+  letter-spacing: 0;
+  width: 550px;
+  height: 395px;
+  font-family: Jost, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 37.7px;
+  position: absolute;
+  top: 375px;
+  left: 776px;
+}
+
+.visit .p {
+  color: #fff;
+  letter-spacing: 0;
+  width: 469px;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 52px;
+  position: absolute;
+  top: 197px;
+  left: 770px;
+}
+
+.visit .line {
+  width: 540px;
+  height: 1px;
+  position: absolute;
+  top: 609px;
+  left: 776px;
+}
+
+.visit .mask-group {
+  width: 515px;
+  height: 552px;
+  position: absolute;
+  top: 168px;
+  left: 172px;
+}
+
+.visit .overlap-group {
+  width: 1498px;
+  height: 628px;
+  position: absolute;
+  top: 0;
+  left: -58px;
+}
+
+.visit .img {
+  object-fit: cover;
+  width: 1489px;
+  height: 628px;
+  position: absolute;
+  top: 0;
+  left: 9px;
+}
+
+.visit .rectangle-2 {
+  opacity: .6;
+  background: linear-gradient(#060606 11.36%, #0a090900 100%);
+  width: 1498px;
+  height: 628px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.visit .text {
+  color: #000;
+  letter-spacing: 0;
+  white-space: nowrap;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.3px;
+  position: absolute;
+  top: 539px;
+  left: 624px;
+}
+
+.visit .ant-design-user {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  top: 110px;
+  left: 1330px;
+}
+
+.visit .bytesize-location {
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  top: 111px;
+  left: 1289px;
+}
+
+.visit .text-wrapper-2 {
+  color: var(--white);
+  letter-spacing: -.54px;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Poppins, Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  position: relative;
+}
+
+.visit .text-wrapper-3 {
+  color: #fff;
+  letter-spacing: -.54px;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Poppins, Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  position: relative;
+}
+
+.visit .text-wrapper-4 {
+  color: #fff;
+  letter-spacing: -.54px;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Poppins, Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  text-decoration: underline;
+  position: relative;
+}
+
+.visit .text-wrapper-5 {
+  color: var(--ffffff);
+  letter-spacing: 0;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: Open Sans, Helvetica;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 33px;
+  position: relative;
+}
+
+.visit .text-2 {
+  color: #fff;
+  letter-spacing: -.48px;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-right: -1px;
+  font-family: Poppins, Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.2px;
+  position: relative;
+}
+
+.visit .line-2 {
+  object-fit: cover;
+  width: 1192px;
+  height: 1px;
+  position: absolute;
+  top: 80px;
+  left: 206px;
+}
+
+.visit .group {
+  width: 167px;
+  height: 45px;
+  position: absolute;
+  top: 110px;
+  left: 197px;
+}
+
+.visit .overlap-group-2 {
+  height: 45px;
+  position: relative;
+}
+
+.visit .frame {
+  align-items: center;
+  gap: 41px;
+  display: inline-flex;
+  position: absolute;
+  top: 10px;
+  left: 12px;
+}
+
+.visit .text-wrapper-6 {
+  color: var(--cultured);
+  letter-spacing: -.36px;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Manrope, Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.4px;
+  position: relative;
+}
+
+.visit .carbon-search {
+  width: 26px;
+  height: 26px;
+  position: relative;
+}
+
+.visit .rectangle-3 {
+  border: 1px solid #d9d9d999;
+  width: 167px;
+  height: 45px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.visit .frame-2 {
+  width: 262px;
+  height: 106px;
+  position: absolute;
+  top: 94px;
+  left: 675px;
+}
+
+.visit .overlap-wrapper {
+  width: 168px;
+  height: 50px;
+  position: absolute;
+  top: 472px;
+  left: 703px;
+}
+
+.visit .see-menu-wrapper {
+  background-image: url("rectangle-1.8c4ad003.svg");
+  background-size: 100% 100%;
+  width: 166px;
+  height: 50px;
+  position: relative;
+}
+
+.visit .see-menu {
+  color: #000;
+  letter-spacing: 0;
+  white-space: nowrap;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.3px;
+  position: absolute;
+  top: 15px;
+  left: 45px;
+}
+
+.visit .text-wrapper-7 {
+  color: #fff;
+  letter-spacing: -1.62px;
+  text-align: center;
+  width: 820px;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 54px;
+  font-weight: 400;
+  line-height: 64.8px;
+  position: absolute;
+  top: 294px;
+  left: 376px;
+}
+
+.visit .overlap-2 {
+  width: 562px;
+  height: 484px;
+  position: absolute;
+  top: 1421px;
+  left: 159px;
+}
+
+.visit .whippletree-winery {
+  color: #000;
+  letter-spacing: 0;
+  width: 550px;
+  height: 484px;
+  font-family: Jost, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 37.7px;
+  position: absolute;
+  top: 0;
+  left: 12px;
+}
+
+.visit .span {
+  font-weight: 500;
+}
+
+.visit .text-wrapper-8 {
+  color: #000;
+  letter-spacing: 0;
+  font-family: Jost, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 37.7px;
+}
+
+.visit .text-wrapper-9 {
+  text-decoration: underline;
+}
+
+.visit .shop-now-button-wrapper {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 8px;
+  display: inline-flex;
+  position: absolute;
+  top: 395px;
+  left: 0;
+}
+
+.visit .shop-now-button {
+  background-color: #daab63;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 153px;
+  height: 50px;
+  padding: 8px 10px 10px;
+  display: flex;
+  position: relative;
+}
+
+.visit .text-wrapper-10 {
+  color: #553d06;
+  letter-spacing: 0;
+  text-align: center;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  position: relative;
+}
+
+.visit .line-3 {
+  object-fit: cover;
+  width: 503px;
+  height: 1px;
+  position: absolute;
+  top: 1906px;
+  left: 171px;
+}
+
+.visit .overlap-3 {
+  width: 1440px;
+  height: 536px;
+  position: absolute;
+  top: 2044px;
+  left: 0;
+}
+
+.visit .rectangle-4 {
+  mix-blend-mode: multiply;
+  opacity: .9;
+  background-color: #082d2a;
+  width: 1440px;
+  height: 536px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.visit .text-wrapper-11 {
+  color: #fff;
+  letter-spacing: 0;
+  width: 364px;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 103px;
+  left: 172px;
+}
+
+.visit .group-2 {
+  width: 649px;
+  height: 227px;
+  position: absolute;
+  top: 106px;
+  left: 174px;
+}
+
+.visit .online-wine-store {
+  color: var(--ffffff);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+  width: 153px;
+  position: absolute;
+  top: 62px;
+  left: 492px;
+}
+
+.visit .text-wrapper-12 {
+  color: #fff;
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.visit .text-wrapper-13 {
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  letter-spacing: var(--body-text-letter-spacing);
+  line-height: var(--body-text-line-height);
+}
+
+.visit .text-wrapper-14 {
+  color: #fff;
+  letter-spacing: 0;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 492px;
+}
+
+.visit .rectangle-5 {
+  background-color: #859189;
+  width: 45px;
+  height: 2px;
+  position: absolute;
+  top: 40px;
+  left: 494px;
+}
+
+.visit .rectangle-6 {
+  background-color: #859189;
+  width: 45px;
+  height: 2px;
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+
+.visit .line-4 {
+  width: 1242px;
+  height: 1px;
+  position: absolute;
+  top: 60px;
+  left: 118px;
+}
+
+.visit .element-info {
+  color: snow;
+  letter-spacing: 0;
+  width: 364px;
+  font-family: Playfair Display, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 91px;
+  left: 174px;
+}
+
+.visit .text-wrapper-15 {
+  color: #fff;
+  font-weight: 500;
+}
+
+.visit .text-wrapper-16 {
+  color: #fff;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+}
+
+.visit .text-wrapper-17 {
+  color: #fff;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  text-decoration: underline;
+}
+
+.visit .text-wrapper-18 {
+  color: #cecece;
+  letter-spacing: 0;
+  width: 592px;
+  font-family: Poppins, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 471px;
+  left: 444px;
+}
+
+.visit .whippletree-winery-2 {
+  color: #fff;
+  letter-spacing: 0;
+  width: 184px;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 350px;
+  left: 179px;
+}
+
+.visit .text-wrapper-19 {
+  color: #fff;
+  letter-spacing: 0;
+  width: 68px;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 105px;
+  left: 1085px;
+}
+
+.visit .friday-sunday {
+  color: #fff;
+  letter-spacing: 0;
+  width: 265px;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 147px;
+  left: 1087px;
+}
+
+.visit .frame-wrapper {
+  width: 177px;
+  height: 53px;
+  position: absolute;
+  top: 222px;
+  left: 1085px;
+}
+
+.visit .book-an-event-wrapper {
+  background-color: #daab63;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 15px 23px;
+  display: inline-flex;
+  position: relative;
+}
+
+.visit .rectangle-7 {
+  background-color: #859189;
+  width: 45px;
+  height: 2px;
+  position: absolute;
+  top: 141px;
+  left: 1087px;
+}
+
+.visit .group-3 {
+  width: 258px;
+  height: 110px;
+  position: absolute;
+  top: 210px;
+  left: 172px;
+}
+
+.visit .map {
+  width: 1440px;
+  height: 540px;
+  position: absolute;
+  top: 1429px;
+  left: 722px;
+}
+
+.visit .map-pattern-black-wrapper {
+  height: 540px;
+}
+
+.visit .map-pattern-black {
+  width: 1440px;
+  height: 540px;
+  overflow: hidden;
+}
+
+.visit .overlap-group-3 {
+  background-image: url("g-4225.285b892a.png");
+  background-size: 100% 100%;
+  width: 5537px;
+  height: 4100px;
+  position: relative;
+  top: -948px;
+  left: -1846px;
+}
+
+.visit .group-4 {
+  width: 60px;
+  height: 135px;
+  position: absolute;
+  top: 998px;
+  left: 1896px;
+}
+
+.visit .img-wrapper {
+  background-color: #3c6865;
+  border-radius: 2px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.visit .img-2 {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  top: 21px;
+  left: 21px;
+}
+
+.visit .group-5 {
+  background-color: #fff;
+  border: 1px solid #3c6865;
+  border-radius: 2px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  top: 75px;
+  left: 0;
+}
+
+.visit .img-3 {
+  width: 14px;
+  height: 6px;
+  position: absolute;
+  top: 26px;
+  left: 23px;
+}
+
+.visit .overlap-4 {
+  border: 1px solid;
+  border-color: var(--f-2af-5c);
+  border-radius: 50.5px;
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  top: 1154px;
+  left: 2330px;
+}
+
+.visit .ellipse {
+  background-color: #ebae51;
+  border-radius: 43px;
+  width: 86px;
+  height: 86px;
+  position: absolute;
+  top: 7px;
+  left: 7px;
+}
+
+.visit .vector {
+  width: 38px;
+  height: 51px;
+  position: absolute;
+  top: 24px;
+  left: 31px;
+}
+
+.home .navbar {
+  align-items: center;
+  width: 1007px;
+  display: flex;
+  position: absolute;
+  top: 42px;
+  left: 315px;
+}
+
+.book-an-event .navbar {
+  align-items: center;
+  width: 1007px;
+  display: flex;
+  position: absolute;
+  top: 42px;
+  left: 275px;
+}
+
+.visit .navbar {
+  align-items: center;
+  width: 1007px;
+  display: flex;
+  position: absolute;
+  top: 42px;
+  left: 333px;
+}
+
+.online-wine-store .navbar {
+  align-items: center;
+  width: 1007px;
+  display: flex;
+  position: absolute;
+  top: 42px;
+  left: 335px;
+}
+
+.our-heritage .navbar {
+  align-items: center;
+  width: 1007px;
+  display: flex;
+  position: absolute;
+  top: 42px;
+  left: 333px;
+}
+
+.nav-bar-text {
+  color: var(--white);
+  letter-spacing: -.54px;
+  text-align: center;
+  white-space: nowrap;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-left: 30px;
+  margin-right: 55px;
+  font-family: Poppins, Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.6px;
+  position: relative;
+}
+
+.navbar a, .nav-bottom a {
+  color: #fff;
+}
+
+.nav-bottom .group-3-nav {
+  width: 50px;
+  height: 100px;
+  position: absolute;
+  top: 38px;
+  left: 1057px;
+}
+
+.nav-bottom {
+  color: var(--ffffff);
+  font-family: var(--body-text-font-family);
+  font-size: var(--body-text-font-size);
+  font-style: var(--body-text-font-style);
+  font-weight: var(--body-text-font-weight);
+  line-height: 30px;
+  position: absolute;
+  top: 62px;
+  left: 492px;
+}
+
+.text-wrapper-7-nav-bottom {
+  color: #fff;
+  letter-spacing: 0;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  left: 492px;
+}
+
+.rectangle-13-nav {
+  background-color: #859189;
+  width: 45px;
+  height: 2px;
+  position: absolute;
+  top: 40px;
+  left: 494px;
+}
+
+.rectangle-14-nav {
+  background-color: #859189;
+  width: 45px;
+  height: 2px;
+  position: absolute;
+  top: 40px;
+  left: 0;
+}
+
+.book-an-event-button-wrapper {
+  background-color: #daab63;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 15px 23px;
+  display: inline-flex;
+  position: relative;
+}
+
+.book-an-event-button-wrapper a {
+  color: #000;
+}
+
+.book-an-event-button {
+  color: #231f20;
+  letter-spacing: .16px;
+  text-align: center;
+  background-color: #daab63;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: Jost, Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: normal;
+  position: relative;
+}
+
 .button {
   gap: 10px;
   display: inline-flex;
@@ -656,6 +1552,11 @@
   position: absolute;
   top: 134px;
   left: 491px;
+}
+
+.book-an-event .input-text {
+  padding: 5px;
+  font-size: 16px;
 }
 
 .book-an-event .container-7 {
@@ -1373,801 +2274,6 @@
   left: -124px;
 }
 
-.navbar {
-  justify-content: space-between;
-  align-items: center;
-  width: 1007px;
-  display: flex;
-  position: absolute;
-  top: 42px;
-  left: 275px;
-}
-
-.nav-bar-text {
-  color: var(--white);
-  letter-spacing: -.54px;
-  text-align: center;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-family: Poppins, Helvetica;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 21.6px;
-  position: relative;
-}
-
-a {
-  color: #fff;
-}
-
-.visit {
-  background-color: #fff;
-  flex-direction: row;
-  justify-content: center;
-  width: 100%;
-  display: flex;
-}
-
-.visit .div {
-  background-color: #fff;
-  width: 1440px;
-  height: 2580px;
-  position: relative;
-  overflow-x: scroll;
-  overflow-y: hidden;
-}
-
-.visit .image {
-  width: 1611px;
-  height: 602px;
-  position: absolute;
-  top: -634px;
-  left: -124px;
-}
-
-.visit .overlap {
-  width: 1466px;
-  height: 720px;
-  position: absolute;
-  top: 628px;
-  left: -26px;
-}
-
-.visit .rectangle {
-  background-color: #016c64;
-  width: 1466px;
-  height: 687px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.visit .text-wrapper {
-  color: #fff;
-  letter-spacing: 0;
-  text-align: center;
-  width: 294px;
-  font-family: ITC Cheltenham Light-Regular, Helvetica;
-  font-size: 48px;
-  font-weight: 400;
-  line-height: 62.4px;
-  position: absolute;
-  top: 42px;
-  left: 610px;
-}
-
-.visit .we-pride-ourselves {
-  color: #fff;
-  letter-spacing: 0;
-  width: 550px;
-  height: 395px;
-  font-family: Jost, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 37.7px;
-  position: absolute;
-  top: 271px;
-  left: 776px;
-}
-
-.visit .p {
-  color: #fff;
-  letter-spacing: 0;
-  width: 469px;
-  font-family: ITC Cheltenham Light-Regular, Helvetica;
-  font-size: 40px;
-  font-weight: 400;
-  line-height: 52px;
-  position: absolute;
-  top: 197px;
-  left: 770px;
-}
-
-.visit .line {
-  width: 540px;
-  height: 1px;
-  position: absolute;
-  top: 609px;
-  left: 776px;
-}
-
-.visit .mask-group {
-  width: 515px;
-  height: 552px;
-  position: absolute;
-  top: 168px;
-  left: 172px;
-}
-
-.visit .overlap-group {
-  width: 1498px;
-  height: 628px;
-  position: absolute;
-  top: 0;
-  left: -58px;
-}
-
-.visit .img {
-  object-fit: cover;
-  width: 1489px;
-  height: 628px;
-  position: absolute;
-  top: 0;
-  left: 9px;
-}
-
-.visit .rectangle-2 {
-  opacity: .6;
-  background: linear-gradient(#060606 11.36%, #0a090900 100%);
-  width: 1498px;
-  height: 628px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.visit .text {
-  color: #000;
-  letter-spacing: 0;
-  white-space: nowrap;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 21.3px;
-  position: absolute;
-  top: 539px;
-  left: 624px;
-}
-
-.visit .ant-design-user {
-  width: 24px;
-  height: 24px;
-  position: absolute;
-  top: 110px;
-  left: 1330px;
-}
-
-.visit .bytesize-location {
-  width: 22px;
-  height: 22px;
-  position: absolute;
-  top: 111px;
-  left: 1289px;
-}
-
-.visit .text-wrapper-2 {
-  color: var(--white);
-  letter-spacing: -.54px;
-  text-align: center;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-family: Poppins, Helvetica;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 21.6px;
-  position: relative;
-}
-
-.visit .text-wrapper-3 {
-  color: #fff;
-  letter-spacing: -.54px;
-  text-align: center;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-family: Poppins, Helvetica;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 21.6px;
-  position: relative;
-}
-
-.visit .text-wrapper-4 {
-  color: #fff;
-  letter-spacing: -.54px;
-  text-align: center;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-family: Poppins, Helvetica;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 21.6px;
-  text-decoration: underline;
-  position: relative;
-}
-
-.visit .text-wrapper-5 {
-  color: var(--ffffff);
-  letter-spacing: 0;
-  text-align: center;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: Open Sans, Helvetica;
-  font-size: 18px;
-  font-weight: 600;
-  line-height: 33px;
-  position: relative;
-}
-
-.visit .text-2 {
-  color: #fff;
-  letter-spacing: -.48px;
-  text-align: center;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin-right: -1px;
-  font-family: Poppins, Helvetica;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 19.2px;
-  position: relative;
-}
-
-.visit .line-2 {
-  object-fit: cover;
-  width: 1192px;
-  height: 1px;
-  position: absolute;
-  top: 80px;
-  left: 206px;
-}
-
-.visit .group {
-  width: 167px;
-  height: 45px;
-  position: absolute;
-  top: 110px;
-  left: 197px;
-}
-
-.visit .overlap-group-2 {
-  height: 45px;
-  position: relative;
-}
-
-.visit .frame {
-  align-items: center;
-  gap: 41px;
-  display: inline-flex;
-  position: absolute;
-  top: 10px;
-  left: 12px;
-}
-
-.visit .text-wrapper-6 {
-  color: var(--cultured);
-  letter-spacing: -.36px;
-  white-space: nowrap;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-family: Manrope, Helvetica;
-  font-size: 12px;
-  font-weight: 400;
-  line-height: 14.4px;
-  position: relative;
-}
-
-.visit .carbon-search {
-  width: 26px;
-  height: 26px;
-  position: relative;
-}
-
-.visit .rectangle-3 {
-  border: 1px solid #d9d9d999;
-  width: 167px;
-  height: 45px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.visit .frame-2 {
-  width: 262px;
-  height: 106px;
-  position: absolute;
-  top: 94px;
-  left: 675px;
-}
-
-.visit .overlap-wrapper {
-  width: 168px;
-  height: 50px;
-  position: absolute;
-  top: 472px;
-  left: 703px;
-}
-
-.visit .see-menu-wrapper {
-  background-image: url("rectangle-1.8c4ad003.svg");
-  background-size: 100% 100%;
-  width: 166px;
-  height: 50px;
-  position: relative;
-}
-
-.visit .see-menu {
-  color: #000;
-  letter-spacing: 0;
-  white-space: nowrap;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 21.3px;
-  position: absolute;
-  top: 15px;
-  left: 45px;
-}
-
-.visit .text-wrapper-7 {
-  color: #fff;
-  letter-spacing: -1.62px;
-  text-align: center;
-  width: 820px;
-  font-family: ITC Cheltenham Light-Regular, Helvetica;
-  font-size: 54px;
-  font-weight: 400;
-  line-height: 64.8px;
-  position: absolute;
-  top: 294px;
-  left: 376px;
-}
-
-.visit .overlap-2 {
-  width: 562px;
-  height: 484px;
-  position: absolute;
-  top: 1421px;
-  left: 159px;
-}
-
-.visit .whippletree-winery {
-  color: #000;
-  letter-spacing: 0;
-  width: 550px;
-  height: 484px;
-  font-family: Jost, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 37.7px;
-  position: absolute;
-  top: 0;
-  left: 12px;
-}
-
-.visit .span {
-  font-weight: 500;
-}
-
-.visit .text-wrapper-8 {
-  color: #000;
-  letter-spacing: 0;
-  font-family: Jost, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: 37.7px;
-}
-
-.visit .text-wrapper-9 {
-  text-decoration: underline;
-}
-
-.visit .shop-now-button-wrapper {
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 8px;
-  padding: 8px;
-  display: inline-flex;
-  position: absolute;
-  top: 395px;
-  left: 0;
-}
-
-.visit .shop-now-button {
-  background-color: #daab63;
-  justify-content: center;
-  align-items: center;
-  gap: 10px;
-  width: 153px;
-  height: 50px;
-  padding: 8px 10px 10px;
-  display: flex;
-  position: relative;
-}
-
-.visit .text-wrapper-10 {
-  color: #553d06;
-  letter-spacing: 0;
-  text-align: center;
-  width: -moz-fit-content;
-  width: fit-content;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: normal;
-  position: relative;
-}
-
-.visit .line-3 {
-  object-fit: cover;
-  width: 503px;
-  height: 1px;
-  position: absolute;
-  top: 1906px;
-  left: 171px;
-}
-
-.visit .overlap-3 {
-  width: 1440px;
-  height: 536px;
-  position: absolute;
-  top: 2044px;
-  left: 0;
-}
-
-.visit .rectangle-4 {
-  mix-blend-mode: multiply;
-  opacity: .9;
-  background-color: #082d2a;
-  width: 1440px;
-  height: 536px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.visit .text-wrapper-11 {
-  color: #fff;
-  letter-spacing: 0;
-  width: 364px;
-  font-family: ITC Cheltenham Light-Regular, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 103px;
-  left: 172px;
-}
-
-.visit .group-2 {
-  width: 649px;
-  height: 227px;
-  position: absolute;
-  top: 106px;
-  left: 174px;
-}
-
-.visit .online-wine-store {
-  color: var(--ffffff);
-  font-family: var(--body-text-font-family);
-  font-size: var(--body-text-font-size);
-  font-style: var(--body-text-font-style);
-  font-weight: var(--body-text-font-weight);
-  letter-spacing: var(--body-text-letter-spacing);
-  line-height: var(--body-text-line-height);
-  width: 153px;
-  position: absolute;
-  top: 62px;
-  left: 492px;
-}
-
-.visit .text-wrapper-12 {
-  color: #fff;
-  font-family: var(--body-text-font-family);
-  font-size: var(--body-text-font-size);
-  font-style: var(--body-text-font-style);
-  font-weight: var(--body-text-font-weight);
-  letter-spacing: var(--body-text-letter-spacing);
-  line-height: var(--body-text-line-height);
-}
-
-.visit .text-wrapper-13 {
-  font-family: var(--body-text-font-family);
-  font-size: var(--body-text-font-size);
-  font-style: var(--body-text-font-style);
-  font-weight: var(--body-text-font-weight);
-  letter-spacing: var(--body-text-letter-spacing);
-  line-height: var(--body-text-line-height);
-}
-
-.visit .text-wrapper-14 {
-  color: #fff;
-  letter-spacing: 0;
-  font-family: ITC Cheltenham Light-Regular, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 0;
-  left: 492px;
-}
-
-.visit .rectangle-5 {
-  background-color: #859189;
-  width: 45px;
-  height: 2px;
-  position: absolute;
-  top: 40px;
-  left: 494px;
-}
-
-.visit .rectangle-6 {
-  background-color: #859189;
-  width: 45px;
-  height: 2px;
-  position: absolute;
-  top: 40px;
-  left: 0;
-}
-
-.visit .line-4 {
-  width: 1242px;
-  height: 1px;
-  position: absolute;
-  top: 60px;
-  left: 118px;
-}
-
-.visit .element-info {
-  color: snow;
-  letter-spacing: 0;
-  width: 364px;
-  font-family: Playfair Display, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 91px;
-  left: 174px;
-}
-
-.visit .text-wrapper-15 {
-  color: #fff;
-  font-weight: 500;
-}
-
-.visit .text-wrapper-16 {
-  color: #fff;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-}
-
-.visit .text-wrapper-17 {
-  color: #fff;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  text-decoration: underline;
-}
-
-.visit .text-wrapper-18 {
-  color: #cecece;
-  letter-spacing: 0;
-  width: 592px;
-  font-family: Poppins, Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 471px;
-  left: 444px;
-}
-
-.visit .whippletree-winery-2 {
-  color: #fff;
-  letter-spacing: 0;
-  width: 184px;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 350px;
-  left: 179px;
-}
-
-.visit .text-wrapper-19 {
-  color: #fff;
-  letter-spacing: 0;
-  width: 68px;
-  font-family: ITC Cheltenham Light-Regular, Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 105px;
-  left: 1085px;
-}
-
-.visit .friday-sunday {
-  color: #fff;
-  letter-spacing: 0;
-  width: 265px;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 147px;
-  left: 1087px;
-}
-
-.visit .frame-wrapper {
-  width: 177px;
-  height: 53px;
-  position: absolute;
-  top: 222px;
-  left: 1085px;
-}
-
-.visit .book-an-event-wrapper {
-  background-color: #daab63;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-  padding: 15px 23px;
-  display: inline-flex;
-  position: relative;
-}
-
-.visit .book-an-event {
-  color: #231f20;
-  letter-spacing: .16px;
-  text-align: center;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: normal;
-  position: relative;
-}
-
-.visit .rectangle-7 {
-  background-color: #859189;
-  width: 45px;
-  height: 2px;
-  position: absolute;
-  top: 141px;
-  left: 1087px;
-}
-
-.visit .group-3 {
-  width: 258px;
-  height: 110px;
-  position: absolute;
-  top: 210px;
-  left: 172px;
-}
-
-.visit .map {
-  width: 1440px;
-  height: 540px;
-  position: absolute;
-  top: 1429px;
-  left: 722px;
-}
-
-.visit .map-pattern-black-wrapper {
-  height: 540px;
-}
-
-.visit .map-pattern-black {
-  width: 1440px;
-  height: 540px;
-  overflow: hidden;
-}
-
-.visit .overlap-group-3 {
-  background-image: url("g-4225.285b892a.png");
-  background-size: 100% 100%;
-  width: 5537px;
-  height: 4100px;
-  position: relative;
-  top: -948px;
-  left: -1846px;
-}
-
-.visit .group-4 {
-  width: 60px;
-  height: 135px;
-  position: absolute;
-  top: 998px;
-  left: 1896px;
-}
-
-.visit .img-wrapper {
-  background-color: #3c6865;
-  border-radius: 2px;
-  width: 60px;
-  height: 60px;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.visit .img-2 {
-  width: 18px;
-  height: 18px;
-  position: absolute;
-  top: 21px;
-  left: 21px;
-}
-
-.visit .group-5 {
-  background-color: #fff;
-  border: 1px solid #3c6865;
-  border-radius: 2px;
-  width: 60px;
-  height: 60px;
-  position: absolute;
-  top: 75px;
-  left: 0;
-}
-
-.visit .img-3 {
-  width: 14px;
-  height: 6px;
-  position: absolute;
-  top: 26px;
-  left: 23px;
-}
-
-.visit .overlap-4 {
-  border: 1px solid;
-  border-color: var(--f-2af-5c);
-  border-radius: 50.5px;
-  width: 101px;
-  height: 101px;
-  position: absolute;
-  top: 1154px;
-  left: 2330px;
-}
-
-.visit .ellipse {
-  background-color: #ebae51;
-  border-radius: 43px;
-  width: 86px;
-  height: 86px;
-  position: absolute;
-  top: 7px;
-  left: 7px;
-}
-
-.visit .vector {
-  width: 38px;
-  height: 51px;
-  position: absolute;
-  top: 24px;
-  left: 31px;
-}
-
 .property {
   border: 1px solid #fff;
   flex-direction: column;
@@ -2198,6 +2304,16 @@ a {
   left: 36px;
 }
 
+html {
+  margin: auto;
+  display: table;
+}
+
+body {
+  vertical-align: middle;
+  display: table-cell;
+}
+
 .home {
   background-color: #fff;
   flex-direction: row;
@@ -2207,21 +2323,23 @@ a {
 }
 
 .my-div {
-  max-width: 1520px;
+  max-width: 1440px;
   margin: 0 auto;
   overflow-x: auto;
   overflow-y: scroll;
 }
 
-.home .div {
+.home {
   background-color: #fff;
+  width: 1440px;
   height: 5639px;
   position: relative;
-  overflow: hidden;
+  overflow-x: scroll;
+  overflow-y: hidden;
 }
 
 .home .overlap {
-  width: 1520px;
+  width: 1440px;
   height: 633px;
   position: absolute;
   top: 3875px;
@@ -2383,11 +2501,11 @@ a {
 }
 
 .home .overlap-group {
-  width: 1520px;
+  width: 1440px;
   height: 587px;
   position: absolute;
   top: 1611px;
-  left: 0;
+  left: -40px;
 }
 
 .home .group-2 {
@@ -2424,7 +2542,7 @@ a {
 .home .text-wrapper-3 {
   color: #fff;
   letter-spacing: 0;
-  width: 535px;
+  width: 395px;
   height: 395px;
   font-family: Jost, Helvetica;
   font-size: 20px;
@@ -2442,7 +2560,7 @@ a {
   padding: 8px;
   display: inline-flex;
   position: absolute;
-  top: 379px;
+  top: 430px;
   left: 951px;
 }
 
@@ -2480,7 +2598,7 @@ a {
 }
 
 .home .overlap-2 {
-  width: 1520px;
+  width: 1440px;
   height: 1045px;
   position: absolute;
   top: 4594px;
@@ -2601,28 +2719,6 @@ a {
   left: 194px;
 }
 
-.home .group-3 {
-  width: 649px;
-  height: 227px;
-  position: absolute;
-  top: 615px;
-  left: 196px;
-}
-
-.home .online-wine-store {
-  color: var(--ffffff);
-  font-family: var(--body-text-font-family);
-  font-size: var(--body-text-font-size);
-  font-style: var(--body-text-font-style);
-  font-weight: var(--body-text-font-weight);
-  letter-spacing: var(--body-text-letter-spacing);
-  line-height: var(--body-text-line-height);
-  width: 153px;
-  position: absolute;
-  top: 62px;
-  left: 492px;
-}
-
 .home .span {
   color: #fff;
   font-family: var(--body-text-font-family);
@@ -2652,24 +2748,6 @@ a {
   position: absolute;
   top: 0;
   left: 492px;
-}
-
-.home .rectangle-13 {
-  background-color: #859189;
-  width: 45px;
-  height: 2px;
-  position: absolute;
-  top: 40px;
-  left: 494px;
-}
-
-.home .rectangle-14 {
-  background-color: #859189;
-  width: 45px;
-  height: 2px;
-  position: absolute;
-  top: 40px;
-  left: 0;
 }
 
 .home .line-4 {
@@ -2781,18 +2859,8 @@ a {
   position: relative;
 }
 
-.home .book-an-event {
+.home .book-an-event a {
   color: #231f20;
-  letter-spacing: .16px;
-  text-align: center;
-  width: -moz-fit-content;
-  width: fit-content;
-  margin-top: -1px;
-  font-family: Jost, Helvetica;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: normal;
-  position: relative;
 }
 
 .home .rectangle-15 {
@@ -2802,6 +2870,14 @@ a {
   position: absolute;
   top: 650px;
   left: 1109px;
+}
+
+.home .group-3 {
+  width: 649px;
+  height: 227px;
+  position: absolute;
+  top: 615px;
+  left: 196px;
 }
 
 .home .group-4 {
@@ -2814,11 +2890,11 @@ a {
 
 .home .overlap-4 {
   background-color: #f7f1e3e6;
-  width: 1464px;
+  width: 1455px;
   height: 1524px;
   position: absolute;
   top: 2286px;
-  left: 25px;
+  left: -15px;
 }
 
 .home .overlap-5 {
@@ -2954,12 +3030,12 @@ a {
 }
 
 .home .overlap-6 {
-  background-color: #000;
-  width: 1520px;
+  background-image: url("image2.fed3ab76.png");
+  width: 1480px;
   height: 811px;
   position: absolute;
   top: 0;
-  left: 0;
+  left: -40px;
 }
 
 .home .rectangle-26 {
@@ -3913,27 +3989,6 @@ a {
   position: absolute;
   top: 0;
   left: 0;
-}
-
-.online-wine-store .text-wrapper-6 {
-  color: #000;
-  letter-spacing: 0;
-  width: 18px;
-  font-family: Inter, Helvetica;
-  font-size: 12px;
-  font-weight: 400;
-  line-height: normal;
-  position: absolute;
-  top: 3px;
-  left: 181px;
-}
-
-.online-wine-store .group-3 {
-  width: 41px;
-  height: 12px;
-  position: absolute;
-  top: 38px;
-  left: 1057px;
 }
 
 .online-wine-store .vector-3 {

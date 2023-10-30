@@ -538,6 +538,15 @@
   width: 234px;
 }
 
+.book-an-event .input-text {
+  padding: 5px;
+  font-size: 16px;
+}
+
+.book-an-event .add-note{
+  
+}
+
 .book-an-event .container-7 {
   background-color: var(--ffffff);
   border: 1px solid;

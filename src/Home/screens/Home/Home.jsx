@@ -2,6 +2,8 @@ import React from "react";
 import { Property } from "../../Property";
 import "./final_adjusted_styles.css";
 import { NavBar } from "../../../NavBar/NavBar";
+import { NavBarBottom } from "../../../NavBar/NavBarBottom";
+import { BookAnEventButton } from "../../../NavBar/BookAnEventButton";
 
 function VisitUsCards() {
   return (
@@ -14,8 +16,8 @@ function VisitUsCards() {
         Tamworth, NH 03886
       </p>
       <div className="frame">
-        <div className="shop-now-button">
-          <div className="text-wrapper-2">GET DIRECTION</div>
+        <div className="shop-now-button" onClick={() => {window.location.href = "/#/visit"}}>
+          <div className="text-wrapper-2">MORE INFO</div>
         </div>
       </div>
       <img
@@ -69,7 +71,7 @@ function LocalRoots() {
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat.
       </p>
-      <div className="shop-now-button-wrapper">
+      <div className="shop-now-button-wrapper" onClick={() => {window.location.href = "/#/our-heritage"}}>
         <div className="shop-now-button">
           <div className="text-wrapper-2">OUR HERITAGE</div>
         </div>
@@ -123,24 +125,8 @@ function GreenBottomSection() {
     <div>
       <div className="rectangle-12" />
       <div className="text-wrapper-5">Contact Us</div>
-      <div className="group-3">
-        <p className="online-wine-store">
-          <span className="span">
-            Online Wine Store
-            <br />
-            Wine club
-            <br />
-            Our Heritage
-            <br />
-          </span>
-          <span className="text-wrapper-6">
-            Visit
-            <br />
-          </span>
-        </p>
-        <div className="text-wrapper-7">Menu</div>
-        <div className="rectangle-13" />
-        <div className="rectangle-14" />
+      <div className='group-3'>
+        <NavBarBottom />
       </div>
       <img
         className="line-4"
@@ -180,9 +166,7 @@ function GreenBottomSection() {
         12:00 - 6:00 PM
       </p>
       <div className="div-wrapper">
-        <div className="book-an-event-wrapper">
-          <div className="book-an-event">BOOK AN EVENT</div>
-        </div>
+        <BookAnEventButton />
       </div>
       <div className="rectangle-15" />
       <img
@@ -305,19 +289,6 @@ function Overlap6() {
         alt="Line"
         src={require("../../img/line-2.svg")}
       />
-      <div className="overlap-group-wrapper">
-        <div className="overlap-group-2">
-          <div className="frame-3">
-            <div className="text-wrapper-17">Search Wines</div>
-            <img
-              className="carbon-search"
-              alt="Carbon search"
-              src={require("../../img/carbon-search-1.svg")}
-            />
-          </div>
-          <div className="rectangle-27" />
-        </div>
-      </div>
       <p className="text-wrapper-18">
         Experience the Magic of our Enchanting New Hampshire Winery
       </p>
@@ -336,7 +307,7 @@ function Overlap6() {
           alt="Rectangle"
           src={require("../../img/rectangle-1.svg")}
         />
-        <div className="visit-OUR-WINERY">VISIT OUR WINERY</div>
+        <div className="visit-OUR-WINERY my-button" onClick={() => {window.location.href = "/#/visit"}}>VISIT OUR WINERY</div>
       </div>
       <Property
         className="property-variant"
@@ -598,7 +569,7 @@ function Frame19() {
 function ButtonComp() {
   return (
     <button className="button">
-      <button className="view-more-wrapper">
+      <button className="view-more-wrapper" onClick={() => {window.location.href = "/#/online-wine-store"}} >
         <div className="text-wrapper-2">VIEW MORE</div>
       </button>
     </button>

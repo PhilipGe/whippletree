@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOMClient from "react-dom/client";
 // import ReactDOMClient from "react-dom/client";
 // import { Home } from "./Home/screens/Home/Home";
 // import { OnlineWebStore } from "./screens/OnlineWebStore";
@@ -7,7 +8,7 @@ import React from "react";
 import { Visit } from "./Visit/screens/Visit/Visit";
 import { BookAnEvent } from "./BookAnEvent/screens/BookAnEvent/BookAnEvent";
 // import { OurHeritage } from "./screens/OurHeritage";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { Home } from "./Home/screens/Home/Home";
 import { OnlineWineStore } from "./OnlineWineStore/screens/OnlineWineStore/OnlineWineStore";
 import { OurHeritage } from "./OurHeritage/screens/OurHeritage/OurHeritage";
@@ -15,7 +16,7 @@ import { OurHeritage } from "./OurHeritage/screens/OurHeritage/OurHeritage";
 function App() {
     return (
       <div className="wrapper">
-        <BrowserRouter>
+        <HashRouter>
         <Routes>
             <Route path="/" element = {<Home />}>
             </Route>
@@ -28,9 +29,11 @@ function App() {
             <Route path="/our-heritage" element = {<OurHeritage />}>
             </Route>
             </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </div>
     );
   }
   
-  export default App;
+const app = document.getElementById("app");
+const root = ReactDOMClient.createRoot(app);
+root.render(<App/>);

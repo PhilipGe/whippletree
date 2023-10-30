@@ -11,7 +11,7 @@ export const Property = ({ className, rectangleClassName, rectangle = "/img/rect
   return (
     <div className={`property ${className}`}>
       <img className={`rectangle ${rectangleClassName}`} alt="Rectangle" src={rectangle} />
-      <div className="view-wines">VIEW WINES</div>
+      <div className="view-wines" onClick={() => {window.location.href = "/#/online-wine-store"}}>VIEW WINES</div>
     </div>
   );
 };
