@@ -65,15 +65,15 @@ function BookEventButton() {
 function Form() {
   return (
     <div>
-      <textarea className="container input-text" id='note-area'/>
+      <textarea className="container input-text" id="note-area" />
       <div className="text-wrapper-11">Add Note</div>
-      <input className="container-2 input-text" id='phone-number' />
+      <input className="container-2 input-text" id="phone-number" />
       <div className="text-wrapper-12">Phone number</div>
-      <input className="container-3 input-text" id='email-address' />
+      <input className="container-3 input-text" id="email-address" />
       <div className="text-wrapper-14">Email Address</div>
-      <input className="container-6 input-text" id='number-of-persons'/>
+      <input className="container-6 input-text" id="number-of-persons" />
       <div className="text-wrapper-18">Number of Person</div>
-      <input className="container-7 input-text" id='your-name'/>
+      <input className="container-7 input-text" id="your-name" />
       <div className="text-wrapper-20">Your Name</div>
     </div>
   );
@@ -199,16 +199,13 @@ function ContactUs() {
   return (
     <div>
       <p className="element">
-        <span className="text-wrapper-37">
-          <br />
-          <br />
-        </span>
         <span className="text-wrapper-38">
           603-323-7119
           <br />
         </span>
       </p>
       <p className="text-wrapper-39">Call Us For Event Booking</p>
+      <p className="text-wrapper--39">Make A Reservation</p>
       <img
         className="material-symbols"
         alt="Material symbols"
@@ -223,13 +220,9 @@ function ContactUs() {
   );
 }
 
-function ContentAndFooter() {
+function Rectangle() {
   return (
-    <div className="overlap">
-      <div className="rectangle" />
-      <div className="rectangle-2" />
-      <div className="rectangle-3" />
-      <div className="text-wrapper">info@whippletreewinery.com</div>
+    <div className='shift-up'>
       <div className="rectangle-4" />
       <div className="text-wrapper-2">Contact Us</div>
       <Group></Group>
@@ -241,6 +234,18 @@ function ContentAndFooter() {
         alt="Group"
         src={require("../../img/group-54-1.png")}
       />
+    </div>
+  );
+}
+
+function ContentAndFooter() {
+  return (
+    <div className="overlap">
+      <div className="rectangle" />
+      <div className="rectangle-2" />
+      <div className="rectangle-3" />
+      <div className="text-wrapper">info@whippletreewinery.com</div>
+      <Rectangle></Rectangle>
       <Button
         className="button-instance"
         divClassName="design-component-instance-node"
@@ -250,7 +255,7 @@ function ContentAndFooter() {
         type="primary"
       />
       <Form></Form>
-      <Calendar></Calendar>
+      {/* <Calendar></Calendar> */}
       <ContactUs></ContactUs>
     </div>
   );
@@ -281,19 +286,8 @@ function HeaderImage() {
     <div className="overlap-3">
       <div className="rectangle-8" />
       <div className="text">{""}</div>
-      <img
-        className="ant-design-user"
-        alt="Ant design user"
-        src={require("../../img/ant-design-user-outlined.svg")}
-      />
-      <img
-        className="bytesize-location"
-        alt="Bytesize location"
-        src={require("../../img/bytesize-location.svg")}
-      />
       <img className="line" alt="Line" src={require("../../img/line-2.svg")} />
-      <div className="group-12">
-      </div>
+      <div className="group-12"></div>
       <img
         className="frame-3"
         alt="Frame"

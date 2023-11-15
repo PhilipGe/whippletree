@@ -8,13 +8,20 @@ import React from "react";
 import "./style.css";
 
 function sendPostRequest(){
-  const url = 'http://localhost:3000/book_an_event_notification'
+  const url = 'http://144.208.72.189:3000/book_an_event_notification'
+  // const url = 'http://localhost:3000/book_an_event_notification'
 
   let notes = document.getElementById('note-area').value;
   let phone_number = document.getElementById('phone-number').value;
   let email_address = document.getElementById('email-address').value;
   let number_of_persons = document.getElementById('number-of-persons').value;
   let name = document.getElementById('your-name').value;
+
+  document.getElementById('note-area').value = '';
+  document.getElementById('phone-number').value = '';
+  document.getElementById('email-address').value = '';
+  document.getElementById('number-of-persons').value = '';
+  document.getElementById('your-name').value = '';
 
   let data = {
     your_name: name,

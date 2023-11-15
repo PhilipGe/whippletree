@@ -46,31 +46,25 @@ function HeaderImage() {
       <img className="img" alt="Image" src={require("../../img/image-2.png")} />
       <div className="rectangle-2" />
       <div className="text">{""}</div>
-      <img
-        className="ant-design-user"
-        alt="Ant design user"
-        src={require("../../img/ant-design-user-outlined-3.svg")}
-      />
-      <img
-        className="bytesize-location"
-        alt="Bytesize location"
-        src={require("../../img/bytesize-location-3.svg")}
-      />
       <NavBar></NavBar>
       <img
         className="line-2"
         alt="Line"
         src={require("../../img/line-2.svg")}
       />
-      <div className="group">
-       </div>
+      <div className="group"></div>
       <img
         className="frame-2"
         alt="Frame"
         src={require("../../img/frame-890-3.svg")}
       />
       <div className="overlap-wrapper">
-        <div className="see-menu-wrapper">
+        <div
+          className="see-menu-wrapper"
+          onClick={() => {
+            window.location.href = "/#/online-wine-store";
+          }}
+        >
           <div className="see-menu">SEE MENU</div>
         </div>
       </div>
@@ -78,6 +72,25 @@ function HeaderImage() {
         A winery rooted in local tradition and the natural beauty of the lakes
         region
       </p>
+    </div>
+  );
+}
+
+function Hours() {
+  return (
+    <div className="shift-up-visit">
+      <span className="span">
+        Hours
+        <br />
+      </span>
+      <span className="text-wrapper-8">
+        Tasting Room
+        <br />
+        Memorial Day - July 4th
+        <br />
+        Sat. Sun., 12:00 - 6:00
+        <br />
+      </span>
     </div>
   );
 }
@@ -105,24 +118,8 @@ function Overlap2() {
             <br />
           </span>
         </a>
-        <span className="span">
-          Hours
-          <br />
-        </span>
-        <span className="text-wrapper-8">
-          Tasting Room
-          <br />
-          Memorial Day - July 4th
-          <br />
-          Sat. Sun., 12:00 - 6:00
-          <br />
-        </span>
+        <Hours></Hours>
       </p>
-      <div className="shop-now-button-wrapper">
-        <div className="shop-now-button">
-          <div className="text-wrapper-10">GET DIRECTION</div>
-        </div>
-      </div>
     </div>
   );
 }
@@ -133,7 +130,7 @@ function BottomSection() {
       <div className="rectangle-4" />
       <div className="text-wrapper-11">Contact Us</div>
       <div className="group-2">
-       <NavBarBottom />
+        <NavBarBottom />
       </div>
       <img
         className="line-4"
@@ -235,7 +232,7 @@ export const Visit = () => {
           alt="Line"
           src={require("../../img/line-6.svg")}
         />
-        <BottomSection></BottomSection>
+        <BottomSection className='shift-up-bottom'></BottomSection>
         {/* ASK IF THIS IS <Map></Map> */}
       </div>
     </div>

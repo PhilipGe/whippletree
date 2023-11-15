@@ -510,17 +510,17 @@
 
 .our-heritage .lauren-barrett-owner {
   color: #565151;
-  font-family: "Jost", Helvetica;
-  font-size: 24px;
-  font-weight: 400;
-  height: 476px;
-  left: 274px;
-  letter-spacing: 0;
-  line-height: 37.7px;
-  position: absolute;
-  text-align: center;
-  top: 1050px;
-  width: 1008px;
+    letter-spacing: 0;
+    text-align: center;
+    width: 208px;
+    height: 100px;
+    font-family: Jost, Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 37.7px;
+    position: absolute;
+    top: 1050px;
+    left: 674px;
 }
 
 .our-heritage .text-wrapper-14 {

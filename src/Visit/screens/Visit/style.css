@@ -7,11 +7,18 @@
 
 .visit .div {
   background-color: #ffffff;
-  height: 2580px;
+  height: calc(2580px - 416px);
   overflow-x: scroll;
   overflow-y: hidden;
   position: relative;
   width: 1440px;
+}
+
+.visit .shift-up-visit{
+  position: absolute;
+  left: 700px;
+  top: 0px;
+  width: 300px;
 }
 
 .visit .image {
@@ -417,7 +424,7 @@
   height: 536px;
   left: 0px;
   position: absolute;
-  top: 2044px;
+  top: 1628px;
   width: 1440px;
 }
 

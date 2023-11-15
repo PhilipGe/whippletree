@@ -16,7 +16,7 @@
 }
 
 .online-wine-store .overlap {
-  background-color: #f9f9f9;
+  background-color: #ffffff;
   height: 846px;
   left: 124px;
   position: absolute;
@@ -54,7 +54,7 @@
   width: 122px;
 }
 
-.online-wine-store .text-wrapper-2 {
+.online-wine-store .text-wrapper--2 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -91,7 +91,7 @@
   width: 123px;
 }
 
-.online-wine-store .text-wrapper-3 {
+.online-wine-store .text-wrapper--3 {
   color: #000000;
   font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
   font-size: 20px;
@@ -105,7 +105,7 @@
   width: 144px;
 }
 
-.online-wine-store .text-wrapper-4 {
+.online-wine-store .text-wrapper--4 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -118,7 +118,7 @@
   width: 18px;
 }
 
-.online-wine-store .group-2 {
+.online-wine-store .group--2 {
   height: 12px;
   left: 657px;
   position: absolute;
@@ -126,13 +126,13 @@
   width: 41px;
 }
 
-/* .online-wine-store .group-3 {
+.online-wine-store .group--3 {
   height: 12px;
   left: 657px;
   position: absolute;
   top: 38px;
   width: 41px;
-} */
+}
 
 
 .online-wine-store .overlap-3 {
@@ -151,7 +151,7 @@
   width: 176px;
 }
 
-.online-wine-store .text-wrapper-5 {
+.online-wine-store .text-wrapper--5 {
   color: #000000;
   font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
   font-size: 20px;
@@ -181,7 +181,7 @@
   width: 145px;
 }
 
-.online-wine-store .text-wrapper-7 {
+.online-wine-store .text-wrapper--7 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -207,7 +207,7 @@
   width: 1px;
 }
 
-.online-wine-store .group-4 {
+.online-wine-store .group--4 {
   background-image: url(../../img/clip-path-group-7.png);
   background-size: 100% 100%;
   height: 9px;
@@ -217,7 +217,7 @@
   width: 9px;
 }
 
-.online-wine-store .text-wrapper-8 {
+.online-wine-store .text-wrapper--8 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -230,7 +230,7 @@
   width: 12px;
 }
 
-.online-wine-store .text-wrapper-9 {
+.online-wine-store .text-wrapper--9 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -259,7 +259,7 @@
   width: 71px;
 }
 
-.online-wine-store .text-wrapper-10 {
+.online-wine-store .text-wrapper--10 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -285,7 +285,7 @@
   width: 1px;
 }
 
-.online-wine-store .text-wrapper-11 {
+.online-wine-store .text-wrapper--11 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -298,7 +298,7 @@
   width: 10px;
 }
 
-.online-wine-store .group-5 {
+.online-wine-store .group--5 {
   background-image: url(../../img/clip-path-group-6.png);
   background-size: 100% 100%;
   height: 9px;
@@ -316,7 +316,7 @@
   width: 87px;
 }
 
-.online-wine-store .text-wrapper-12 {
+.online-wine-store .text-wrapper--12 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -337,7 +337,7 @@
   width: 247px;
 }
 
-.online-wine-store .text-wrapper-13 {
+.online-wine-store .text-wrapper--13 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -358,7 +358,7 @@
   width: 166px;
 }
 
-.online-wine-store .text-wrapper-14 {
+.online-wine-store .text-wrapper--14 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -387,7 +387,7 @@
   width: 212px;
 }
 
-.online-wine-store .text-wrapper-15 {
+.online-wine-store .text-wrapper--15 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -400,7 +400,7 @@
   width: 103px;
 }
 
-.online-wine-store .text-wrapper-16 {
+.online-wine-store .text-wrapper--16 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -413,7 +413,7 @@
   width: 212px;
 }
 
-.online-wine-store .text-wrapper-17 {
+.online-wine-store .text-wrapper--17 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -426,7 +426,7 @@
   width: 105px;
 }
 
-.online-wine-store .text-wrapper-18 {
+.online-wine-store .text-wrapper--18 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -447,7 +447,7 @@
   width: 299px;
 }
 
-.online-wine-store .text-wrapper-19 {
+.online-wine-store .text-wrapper--19 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -473,7 +473,7 @@
   width: 299px;
 }
 
-.online-wine-store .text-wrapper-20 {
+.online-wine-store .text-wrapper--20 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -486,7 +486,7 @@
   width: 156px;
 }
 
-.online-wine-store .text-wrapper-21 {
+.online-wine-store .text-wrapper--21 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -499,7 +499,7 @@
   width: 122px;
 }
 
-.online-wine-store .text-wrapper-22 {
+.online-wine-store .text-wrapper--22 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -520,7 +520,7 @@
   width: 105px;
 }
 
-.online-wine-store .text-wrapper-23 {
+.online-wine-store .text-wrapper--23 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -533,7 +533,7 @@
   width: 56px;
 }
 
-.online-wine-store .text-wrapper-24 {
+.online-wine-store .text-wrapper--24 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -554,7 +554,7 @@
   width: 273px;
 }
 
-.online-wine-store .text-wrapper-25 {
+.online-wine-store .text-wrapper--25 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -567,7 +567,7 @@
   width: 128px;
 }
 
-.online-wine-store .text-wrapper-26 {
+.online-wine-store .text-wrapper--26 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -580,7 +580,7 @@
   width: 273px;
 }
 
-.online-wine-store .text-wrapper-27 {
+.online-wine-store .text-wrapper--27 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -609,7 +609,7 @@
   width: 250px;
 }
 
-.online-wine-store .text-wrapper-28 {
+.online-wine-store .text-wrapper--28 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -622,7 +622,7 @@
   width: 71px;
 }
 
-.online-wine-store .text-wrapper-29 {
+.online-wine-store .text-wrapper--29 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -643,7 +643,7 @@
   width: 203px;
 }
 
-.online-wine-store .text-wrapper-30 {
+.online-wine-store .text-wrapper--30 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -656,7 +656,7 @@
   width: 116px;
 }
 
-.online-wine-store .text-wrapper-31 {
+.online-wine-store .text-wrapper--31 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -703,7 +703,7 @@
   width: 246px;
 }
 
-.online-wine-store .text-wrapper-32 {
+.online-wine-store .text-wrapper--32 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -732,7 +732,7 @@
   width: 37px;
 }
 
-.online-wine-store .text-wrapper-33 {
+.online-wine-store .text-wrapper--33 {
   color: #000000;
   font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
   font-size: 20px;
@@ -746,7 +746,7 @@
   width: 49px;
 }
 
-.online-wine-store .text-wrapper-34 {
+.online-wine-store .text-wrapper--34 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -759,7 +759,7 @@
   width: 18px;
 }
 
-.online-wine-store .group-6 {
+.online-wine-store .group--6 {
   height: 12px;
   left: 220px;
   position: absolute;
@@ -809,7 +809,7 @@
   width: 1px;
 }
 
-.online-wine-store .group-7 {
+.online-wine-store .group--7 {
   background-image: url(../../img/clip-path-group-5.png);
   background-size: 100% 100%;
   height: 9px;
@@ -835,7 +835,7 @@
   width: 169px;
 }
 
-.online-wine-store .text-wrapper-35 {
+.online-wine-store .text-wrapper--35 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -856,7 +856,7 @@
   width: 196px;
 }
 
-.online-wine-store .text-wrapper-36 {
+.online-wine-store .text-wrapper--36 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -869,7 +869,7 @@
   width: 118px;
 }
 
-.online-wine-store .text-wrapper-37 {
+.online-wine-store .text-wrapper--37 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -890,7 +890,7 @@
   width: 144px;
 }
 
-.online-wine-store .text-wrapper-38 {
+.online-wine-store .text-wrapper--38 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -903,7 +903,7 @@
   width: 143px;
 }
 
-.online-wine-store .text-wrapper-39 {
+.online-wine-store .text-wrapper--39 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -924,7 +924,7 @@
   width: 208px;
 }
 
-.online-wine-store .text-wrapper-40 {
+.online-wine-store .text-wrapper--40 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -937,7 +937,7 @@
   width: 208px;
 }
 
-.online-wine-store .text-wrapper-41 {
+.online-wine-store .text-wrapper--41 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -966,7 +966,7 @@
   width: 172px;
 }
 
-.online-wine-store .text-wrapper-42 {
+.online-wine-store .text-wrapper--42 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -987,7 +987,7 @@
   width: 253px;
 }
 
-.online-wine-store .text-wrapper-43 {
+.online-wine-store .text-wrapper--43 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -1016,7 +1016,7 @@
   width: 87px;
 }
 
-.online-wine-store .text-wrapper-44 {
+.online-wine-store .text-wrapper--44 {
   color: #000000;
   font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
   font-size: 20px;
@@ -1030,7 +1030,7 @@
   width: 103px;
 }
 
-.online-wine-store .text-wrapper-45 {
+.online-wine-store .text-wrapper--45 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1043,7 +1043,7 @@
   width: 18px;
 }
 
-.online-wine-store .group-8 {
+.online-wine-store .group--8 {
   height: 12px;
   left: 637px;
   position: absolute;
@@ -1059,7 +1059,7 @@
   width: 134px;
 }
 
-.online-wine-store .text-wrapper-46 {
+.online-wine-store .text-wrapper--46 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1085,7 +1085,7 @@
   width: 1px;
 }
 
-.online-wine-store .group-9 {
+.online-wine-store .group--9 {
   background-image: url(../../img/clip-path-group-4.png);
   background-size: 100% 100%;
   height: 7px;
@@ -1103,7 +1103,7 @@
   width: 327px;
 }
 
-.online-wine-store .text-wrapper-47 {
+.online-wine-store .text-wrapper--47 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1124,7 +1124,7 @@
   width: 114px;
 }
 
-.online-wine-store .text-wrapper-48 {
+.online-wine-store .text-wrapper--48 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1145,7 +1145,7 @@
   width: 297px;
 }
 
-.online-wine-store .text-wrapper-49 {
+.online-wine-store .text-wrapper--49 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1158,7 +1158,7 @@
   width: 9px;
 }
 
-.online-wine-store .text-wrapper-50 {
+.online-wine-store .text-wrapper--50 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1171,7 +1171,7 @@
   width: 150px;
 }
 
-.online-wine-store .text-wrapper-51 {
+.online-wine-store .text-wrapper--51 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1184,7 +1184,7 @@
   width: 323px;
 }
 
-.online-wine-store .text-wrapper-52 {
+.online-wine-store .text-wrapper--52 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1197,7 +1197,7 @@
   width: 96px;
 }
 
-.online-wine-store .text-wrapper-53 {
+.online-wine-store .text-wrapper--53 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1210,7 +1210,7 @@
   width: 106px;
 }
 
-.online-wine-store .text-wrapper-54 {
+.online-wine-store .text-wrapper--54 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1223,7 +1223,7 @@
   width: 161px;
 }
 
-.online-wine-store .text-wrapper-55 {
+.online-wine-store .text-wrapper--55 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1236,7 +1236,7 @@
   width: 161px;
 }
 
-.online-wine-store .text-wrapper-56 {
+.online-wine-store .text-wrapper--56 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1249,7 +1249,7 @@
   width: 217px;
 }
 
-.online-wine-store .text-wrapper-57 {
+.online-wine-store .text-wrapper--57 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1262,7 +1262,7 @@
   width: 189px;
 }
 
-.online-wine-store .text-wrapper-58 {
+.online-wine-store .text-wrapper--58 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1275,7 +1275,7 @@
   width: 153px;
 }
 
-.online-wine-store .text-wrapper-59 {
+.online-wine-store .text-wrapper--59 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1288,7 +1288,7 @@
   width: 239px;
 }
 
-.online-wine-store .text-wrapper-60 {
+.online-wine-store .text-wrapper--60 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1301,7 +1301,7 @@
   width: 189px;
 }
 
-.online-wine-store .text-wrapper-61 {
+.online-wine-store .text-wrapper--61 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1314,7 +1314,7 @@
   width: 124px;
 }
 
-.online-wine-store .text-wrapper-62 {
+.online-wine-store .text-wrapper--62 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1327,7 +1327,7 @@
   width: 312px;
 }
 
-.online-wine-store .text-wrapper-63 {
+.online-wine-store .text-wrapper--63 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1340,7 +1340,7 @@
   width: 184px;
 }
 
-.online-wine-store .text-wrapper-64 {
+.online-wine-store .text-wrapper--64 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1353,7 +1353,7 @@
   width: 164px;
 }
 
-.online-wine-store .text-wrapper-65 {
+.online-wine-store .text-wrapper--65 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 12px;
@@ -1382,7 +1382,7 @@
   width: 139px;
 }
 
-.online-wine-store .text-wrapper-66 {
+.online-wine-store .text-wrapper--66 {
   color: #000000;
   font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
   font-size: 20px;
@@ -1396,7 +1396,7 @@
   width: 156px;
 }
 
-.online-wine-store .text-wrapper-67 {
+.online-wine-store .text-wrapper--67 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -1425,7 +1425,7 @@
   width: 163px;
 }
 
-.online-wine-store .text-wrapper-68 {
+.online-wine-store .text-wrapper--68 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1451,7 +1451,7 @@
   width: 1px;
 }
 
-.online-wine-store .text-wrapper-69 {
+.online-wine-store .text-wrapper--69 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1480,7 +1480,7 @@
   width: 182px;
 }
 
-.online-wine-store .text-wrapper-70 {
+.online-wine-store .text-wrapper--70 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1509,7 +1509,7 @@
   width: 144px;
 }
 
-.online-wine-store .text-wrapper-71 {
+.online-wine-store .text-wrapper--71 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -1522,7 +1522,7 @@
   width: 128px;
 }
 
-.online-wine-store .text-wrapper-72 {
+.online-wine-store .text-wrapper--72 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1543,7 +1543,7 @@
   width: 41px;
 }
 
-.online-wine-store .text-wrapper-73 {
+.online-wine-store .text-wrapper--73 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -1556,7 +1556,7 @@
   width: 109px;
 }
 
-.online-wine-store .text-wrapper-74 {
+.online-wine-store .text-wrapper--74 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1577,7 +1577,7 @@
   width: 41px;
 }
 
-.online-wine-store .text-wrapper-75 {
+.online-wine-store .text-wrapper--75 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -1590,7 +1590,7 @@
   width: 186px;
 }
 
-.online-wine-store .text-wrapper-76 {
+.online-wine-store .text-wrapper--76 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 11px;
@@ -1611,7 +1611,7 @@
   width: 41px;
 }
 
-.online-wine-store .text-wrapper-77 {
+.online-wine-store .text-wrapper--77 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -1642,7 +1642,7 @@
   width: 234px;
 }
 
-.online-wine-store .text-wrapper-78 {
+.online-wine-store .text-wrapper--78 {
   color: #000000;
   font-family: "Abhaya Libre ExtraBold-Regular", Helvetica;
   font-size: 14px;
@@ -1655,7 +1655,7 @@
   width: 83px;
 }
 
-.online-wine-store .text-wrapper-79 {
+.online-wine-store .text-wrapper--79 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1668,7 +1668,7 @@
   width: 96px;
 }
 
-.online-wine-store .text-wrapper-80 {
+.online-wine-store .text-wrapper--80 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1702,7 +1702,7 @@
   width: 134px;
 }
 
-.online-wine-store .text-wrapper-81 {
+.online-wine-store .text-wrapper--81 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1731,7 +1731,7 @@
   width: 176px;
 }
 
-.online-wine-store .text-wrapper-82 {
+.online-wine-store .text-wrapper--82 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1744,7 +1744,7 @@
   width: 174px;
 }
 
-.online-wine-store .text-wrapper-83 {
+.online-wine-store .text-wrapper--83 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1765,7 +1765,7 @@
   width: 22px;
 }
 
-.online-wine-store .text-wrapper-84 {
+.online-wine-store .text-wrapper--84 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1778,7 +1778,7 @@
   width: 60px;
 }
 
-.online-wine-store .text-wrapper-85 {
+.online-wine-store .text-wrapper--85 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 10px;
@@ -1799,7 +1799,7 @@
   width: 22px;
 }
 
-.online-wine-store .text-wrapper-86 {
+.online-wine-store .text-wrapper--86 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -1812,7 +1812,7 @@
   width: 66px;
 }
 
-.online-wine-store .text-wrapper-87 {
+.online-wine-store .text-wrapper--87 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 9px;
@@ -1871,7 +1871,7 @@
   width: 34px;
 }
 
-.online-wine-store .text-wrapper-88 {
+.online-wine-store .text-wrapper--88 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 8px;
@@ -1884,7 +1884,7 @@
   width: 111px;
 }
 
-.online-wine-store .text-wrapper-89 {
+.online-wine-store .text-wrapper--89 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 8px;
@@ -1897,7 +1897,7 @@
   width: 103px;
 }
 
-.online-wine-store .text-wrapper-90 {
+.online-wine-store .text-wrapper--90 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 8px;
@@ -2024,7 +2024,7 @@
   width: 167px;
 }
 
-.online-wine-store .overlap-group-2 {
+.online-wine-store .overlap.group--2 {
   height: 45px;
   position: relative;
 }
@@ -2038,7 +2038,7 @@
   top: 10px;
 }
 
-.online-wine-store .text-wrapper-91 {
+.online-wine-store .text-wrapper--91 {
   color: var(--cultured);
   font-family: "Manrope", Helvetica;
   font-size: 12px;
@@ -2075,7 +2075,7 @@
 }
 
 
-.online-wine-store .text-wrapper-92 {
+.online-wine-store .text-wrapper--92 {
   color: var(--white);
   font-family: "Poppins", Helvetica;
   font-size: 18px;
@@ -2088,7 +2088,7 @@
   width: fit-content;
 }
 
-.online-wine-store .text-wrapper-93 {
+.online-wine-store .text-wrapper--93 {
   color: #ffffff;
   font-family: "Poppins", Helvetica;
   font-size: 18px;
@@ -2101,7 +2101,7 @@
   width: fit-content;
 }
 
-.online-wine-store .text-wrapper-94 {
+.online-wine-store .text-wrapper--94 {
   color: var(--ffffff);
   font-family: "Poppins", Helvetica;
   font-size: 18px;
@@ -2130,7 +2130,7 @@
   width: fit-content;
 }
 
-.online-wine-store .text-wrapper-95 {
+.online-wine-store .text-wrapper--95 {
   color: #ffffff;
   font-family: "ITC Cheltenham Light-Regular", Helvetica;
   font-size: 64px;
@@ -2172,7 +2172,7 @@
   width: 1440px;
 }
 
-.online-wine-store .text-wrapper-96 {
+.online-wine-store .text-wrapper--96 {
   color: #ffffff;
   font-family: "ITC Cheltenham Light-Regular", Helvetica;
   font-size: 24px;
@@ -2217,7 +2217,7 @@
   line-height: var(--body-text-line-height);
 }
 
-.online-wine-store .text-wrapper-97 {
+.online-wine-store .text-wrapper--97 {
   font-family: var(--body-text-font-family);
   font-size: var(--body-text-font-size);
   font-style: var(--body-text-font-style);
@@ -2226,7 +2226,7 @@
   line-height: var(--body-text-line-height);
 }
 
-.online-wine-store .text-wrapper-98 {
+.online-wine-store .text-wrapper--98 {
   color: #ffffff;
   font-family: "ITC Cheltenham Light-Regular", Helvetica;
   font-size: 24px;
@@ -2269,25 +2269,25 @@
   width: 364px;
 }
 
-.online-wine-store .text-wrapper-99 {
+.online-wine-store .text-wrapper--99 {
   color: #ffffff;
   font-weight: 500;
 }
 
-.online-wine-store .text-wrapper-100 {
+.online-wine-store .text-wrapper--100 {
   color: #ffffff;
   font-family: "Jost", Helvetica;
   font-size: 16px;
 }
 
-.online-wine-store .text-wrapper-101 {
+.online-wine-store .text-wrapper--101 {
   color: #ffffff;
   font-family: "Jost", Helvetica;
   font-size: 16px;
   text-decoration: underline;
 }
 
-.online-wine-store .text-wrapper-102 {
+.online-wine-store .text-wrapper--102 {
   color: #cecece;
   font-family: "Poppins", Helvetica;
   font-size: 16px;
@@ -2313,7 +2313,7 @@
   width: 184px;
 }
 
-.online-wine-store .text-wrapper-103 {
+.online-wine-store .text-wrapper--103 {
   color: #ffffff;
   font-family: "ITC Cheltenham Light-Regular", Helvetica;
   font-size: 24px;
@@ -2387,7 +2387,7 @@
   width: 258px;
 }
 
-.online-wine-store .text-wrapper-104 {
+.online-wine-store .text-wrapper--104 {
   color: #000000;
   font-family: "Inter", Helvetica;
   font-size: 14px;
@@ -2401,7 +2401,7 @@
   width: 154px;
 }
 
-.online-wine-store .text-wrapper-105 {
+.online-wine-store .text-wrapper--105 {
   color: #000000;
   font-family: "ITC Cheltenham Light-Regular", Helvetica;
   font-size: 40px;

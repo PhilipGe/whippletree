@@ -60,16 +60,7 @@ function ImageCollection() {
       />
       <div className="rectangle-3" />
       <div className="text">{""}</div>
-      <img
-        className="ant-design-user"
-        alt="Ant design user"
-        src={require("../../img/ant-design-user-outlined.svg")}
-      />
-      <img
-        className="bytesize-location"
-        alt="Bytesize location"
-        src={require("../../img/bytesize-location-1.svg")}
-      />
+      
       <img
         className="line"
         alt="Line"
@@ -150,11 +141,13 @@ function ImageCollection3() {
         alt="Group"
         src={require("../../img/group-54-3.png")}
       />
+      <div onClick={() => {window.location.href = "/#/visit"; console.log("clicked!")}}>
       <img
         className="mask-group"
         alt="Mask group"
         src={require("../../img/mask-group-1.png")}
       />
+      </div>
     </div>
   );
 }

@@ -8,11 +8,16 @@
 
 .book-an-event .div-2 {
   background-color: #ffffff;
-  height: 2334px;
+  height: calc(2334px - 525px);
   overflow-x: scroll;
   overflow-y: hidden;
   position: relative;
   width: 1440px;
+}
+
+.book-an-event .shift-up{
+  position: absolute;
+  top:-525px;
 }
 
 .book-an-event .overlap {
@@ -25,7 +30,7 @@
 
 .book-an-event .rectangle {
   background-color: #fcf5ea;
-  height: 1213px;
+  height: 700px; /* Moved up by 512 */
   left: 0;
   position: absolute;
   top: 0;
@@ -33,26 +38,26 @@
 }
 
 .book-an-event .rectangle-2 {
-  background-color: #ffffff;
+  background-color: #eeeeee;
   border: 1px solid;
   border-color: #daab63;
   border-radius: 5px;
   height: 244px;
-  left: 181px;
+  left: 850px;
   position: absolute;
-  top: 861px;
+  top: 150px;
   width: 544px;
 }
 
 .book-an-event .rectangle-3 {
-  background-color: #ffffff;
+  background-color: #eeeeee;
   border: 1px solid;
   border-color: #daab63;
   border-radius: 5px;
   height: 244px;
-  left: 757px;
+  left: 850px;
   position: absolute;
-  top: 861px;
+  top: 426px;
   width: 544px;
 }
 
@@ -61,13 +66,13 @@
   font-family: "Jost", Helvetica;
   font-size: 32px;
   font-weight: 500;
-  left: 741px;
+  left: 850px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 979px;
-  width: 585px;
+  top: 576px;
+  width: 544px;
 }
 
 .book-an-event .rectangle-4 {
@@ -302,7 +307,7 @@
   height: 55px !important;
   left: 189px !important;
   position: absolute !important;
-  top: 697px !important;
+  top: 597px !important;
   width: 244px !important;
 }
 
@@ -323,7 +328,7 @@
   height: 168px;
   left: 189px;
   position: absolute;
-  top: 498px;
+  top: 398px;
   width: 587px;
 }
 
@@ -351,7 +356,7 @@
   letter-spacing: var(--body-text-letter-spacing);
   line-height: var(--body-text-line-height);
   position: absolute;
-  top: 458px;
+  top:358px;
   white-space: nowrap;
   width: 163px;
 }
@@ -1020,13 +1025,13 @@
   font-family: "Playfair Display", Helvetica;
   font-size: 32px;
   font-weight: 400;
-  left: 144px;
+  left: 850px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
   text-align: center;
-  top: 888px;
-  width: 585px;
+  top: 300px;
+  width: 544px;
 }
 
 .book-an-event .text-wrapper-37 {
@@ -1042,28 +1047,41 @@
   font-family: "ITC Cheltenham Light-Regular", Helvetica;
   font-size: 40px;
   font-weight: 400;
-  left: 562px;
+  left: 900px;
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 780px;
+  top: 50px;
+  width: 436px;
+}
+
+.book-an-event .text-wrapper--39 {
+  color: #000000;
+  font-family: "ITC Cheltenham Light-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 300px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
   width: 436px;
 }
 
 .book-an-event .material-symbols {
   height: 64px;
-  left: 405px;
+  left: calc(850px + 237px);
   position: absolute;
-  top: 903px;
-  width: 64px;
+  top: 200px;
+  width: 70px;
 }
 
 .book-an-event .mdi-email-edit {
   height: 64px;
-  left: 1002px;
+  left: calc(850px + 237px);
   position: absolute;
-  top: 903px;
-  width: 64px;
+  top: 476px;
+  width: 70px;
 }
 
 .book-an-event .overlap-3 {

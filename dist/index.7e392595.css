@@ -42,10 +42,17 @@
 .visit .div {
   background-color: #fff;
   width: 1440px;
-  height: 2580px;
+  height: 2164px;
   position: relative;
   overflow-x: scroll;
   overflow-y: hidden;
+}
+
+.visit .shift-up-visit {
+  width: 300px;
+  position: absolute;
+  top: 0;
+  left: 700px;
 }
 
 .visit .image {
@@ -457,7 +464,7 @@
   width: 1440px;
   height: 536px;
   position: absolute;
-  top: 2044px;
+  top: 1628px;
   left: 0;
 }
 
@@ -1032,10 +1039,15 @@
 .book-an-event .div-2 {
   background-color: #fff;
   width: 1440px;
-  height: 2334px;
+  height: 1809px;
   position: relative;
   overflow-x: scroll;
   overflow-y: hidden;
+}
+
+.book-an-event .shift-up {
+  position: absolute;
+  top: -525px;
 }
 
 .book-an-event .overlap {
@@ -1049,46 +1061,46 @@
 .book-an-event .rectangle {
   background-color: #fcf5ea;
   width: 1500px;
-  height: 1213px;
+  height: 700px;
   position: absolute;
   top: 0;
   left: 0;
 }
 
 .book-an-event .rectangle-2 {
-  background-color: #fff;
+  background-color: #eee;
   border: 1px solid #daab63;
   border-radius: 5px;
   width: 544px;
   height: 244px;
   position: absolute;
-  top: 861px;
-  left: 181px;
+  top: 150px;
+  left: 850px;
 }
 
 .book-an-event .rectangle-3 {
-  background-color: #fff;
+  background-color: #eee;
   border: 1px solid #daab63;
   border-radius: 5px;
   width: 544px;
   height: 244px;
   position: absolute;
-  top: 861px;
-  left: 757px;
+  top: 426px;
+  left: 850px;
 }
 
 .book-an-event .text-wrapper {
   color: #141313;
   letter-spacing: 0;
   text-align: center;
-  width: 585px;
+  width: 544px;
   font-family: Jost, Helvetica;
   font-size: 32px;
   font-weight: 500;
   line-height: normal;
   position: absolute;
-  top: 979px;
-  left: 741px;
+  top: 576px;
+  left: 850px;
 }
 
 .book-an-event .rectangle-4 {
@@ -1324,7 +1336,7 @@
   height: 55px !important;
   display: flex !important;
   position: absolute !important;
-  top: 697px !important;
+  top: 597px !important;
   left: 189px !important;
 }
 
@@ -1344,7 +1356,7 @@
   width: 587px;
   height: 168px;
   position: absolute;
-  top: 498px;
+  top: 398px;
   left: 189px;
 }
 
@@ -1373,7 +1385,7 @@
   white-space: nowrap;
   width: 163px;
   position: absolute;
-  top: 458px;
+  top: 358px;
   left: 189px;
 }
 
@@ -2029,14 +2041,14 @@
   color: #141313;
   letter-spacing: 0;
   text-align: center;
-  width: 585px;
+  width: 544px;
   font-family: Playfair Display, Helvetica;
   font-size: 32px;
   font-weight: 400;
   line-height: normal;
   position: absolute;
-  top: 888px;
-  left: 144px;
+  top: 300px;
+  left: 850px;
 }
 
 .book-an-event .text-wrapper-37 {
@@ -2056,24 +2068,37 @@
   font-weight: 400;
   line-height: normal;
   position: absolute;
-  top: 780px;
-  left: 562px;
+  top: 50px;
+  left: 900px;
+}
+
+.book-an-event .text-wrapper--39 {
+  color: #000;
+  letter-spacing: 0;
+  width: 436px;
+  font-family: ITC Cheltenham Light-Regular, Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  left: 300px;
 }
 
 .book-an-event .material-symbols {
-  width: 64px;
+  width: 70px;
   height: 64px;
   position: absolute;
-  top: 903px;
-  left: 405px;
+  top: 200px;
+  left: 1087px;
 }
 
 .book-an-event .mdi-email-edit {
-  width: 64px;
+  width: 70px;
   height: 64px;
   position: absolute;
-  top: 903px;
-  left: 1002px;
+  top: 476px;
+  left: 1087px;
 }
 
 .book-an-event .overlap-3 {
@@ -3851,7 +3876,7 @@ body {
 }
 
 .online-wine-store .overlap {
-  background-color: #f9f9f9;
+  background-color: #fff;
   width: 1214px;
   height: 846px;
   position: absolute;
@@ -3889,7 +3914,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-2 {
+.online-wine-store .text-wrapper--2 {
   color: #000;
   letter-spacing: 0;
   width: 18px;
@@ -3926,7 +3951,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-3 {
+.online-wine-store .text-wrapper--3 {
   color: #000;
   letter-spacing: 0;
   white-space: nowrap;
@@ -3940,7 +3965,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-4 {
+.online-wine-store .text-wrapper--4 {
   color: #000;
   letter-spacing: 0;
   width: 18px;
@@ -3953,7 +3978,7 @@ body {
   left: 142px;
 }
 
-.online-wine-store .group-2 {
+.online-wine-store .group--2, .online-wine-store .group--3 {
   width: 41px;
   height: 12px;
   position: absolute;
@@ -3977,7 +4002,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-5 {
+.online-wine-store .text-wrapper--5 {
   color: #000;
   letter-spacing: 0;
   white-space: nowrap;
@@ -4007,7 +4032,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-7 {
+.online-wine-store .text-wrapper--7 {
   color: #000;
   letter-spacing: 0;
   width: 143px;
@@ -4033,7 +4058,7 @@ body {
   left: 135px;
 }
 
-.online-wine-store .group-4 {
+.online-wine-store .group--4 {
   background-image: url("clip-path-group-7.3294f7e9.png");
   background-size: 100% 100%;
   width: 9px;
@@ -4043,7 +4068,7 @@ body {
   left: 136px;
 }
 
-.online-wine-store .text-wrapper-8 {
+.online-wine-store .text-wrapper--8 {
   color: #000;
   letter-spacing: 0;
   width: 12px;
@@ -4056,7 +4081,7 @@ body {
   left: 184px;
 }
 
-.online-wine-store .text-wrapper-9 {
+.online-wine-store .text-wrapper--9 {
   color: #000;
   letter-spacing: 0;
   width: 116px;
@@ -4085,7 +4110,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-10 {
+.online-wine-store .text-wrapper--10 {
   color: #000;
   letter-spacing: 0;
   width: 55px;
@@ -4111,7 +4136,7 @@ body {
   left: 51px;
 }
 
-.online-wine-store .text-wrapper-11 {
+.online-wine-store .text-wrapper--11 {
   color: #000;
   letter-spacing: 0;
   width: 10px;
@@ -4124,7 +4149,7 @@ body {
   left: 60px;
 }
 
-.online-wine-store .group-5 {
+.online-wine-store .group--5 {
   background-image: url("clip-path-group-6.6464f392.png");
   background-size: 100% 100%;
   width: 9px;
@@ -4142,7 +4167,7 @@ body {
   left: 112px;
 }
 
-.online-wine-store .text-wrapper-12 {
+.online-wine-store .text-wrapper--12 {
   color: #000;
   letter-spacing: 0;
   width: 85px;
@@ -4163,7 +4188,7 @@ body {
   left: 40px;
 }
 
-.online-wine-store .text-wrapper-13 {
+.online-wine-store .text-wrapper--13 {
   color: #000;
   letter-spacing: 0;
   width: 96px;
@@ -4184,7 +4209,7 @@ body {
   left: 40px;
 }
 
-.online-wine-store .text-wrapper-14 {
+.online-wine-store .text-wrapper--14 {
   color: #000;
   letter-spacing: 0;
   width: 243px;
@@ -4213,7 +4238,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-15 {
+.online-wine-store .text-wrapper--15 {
   color: #000;
   letter-spacing: 0;
   width: 103px;
@@ -4226,7 +4251,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-16 {
+.online-wine-store .text-wrapper--16 {
   color: #000;
   letter-spacing: 0;
   width: 212px;
@@ -4239,7 +4264,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-17 {
+.online-wine-store .text-wrapper--17 {
   color: #000;
   letter-spacing: 0;
   width: 105px;
@@ -4252,7 +4277,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-18 {
+.online-wine-store .text-wrapper--18 {
   color: #000;
   letter-spacing: 0;
   width: 174px;
@@ -4273,7 +4298,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-19 {
+.online-wine-store .text-wrapper--19 {
   color: #000;
   letter-spacing: 0;
   width: 93px;
@@ -4299,7 +4324,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-20 {
+.online-wine-store .text-wrapper--20 {
   color: #000;
   letter-spacing: 0;
   width: 156px;
@@ -4312,7 +4337,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-21 {
+.online-wine-store .text-wrapper--21 {
   color: #000;
   letter-spacing: 0;
   width: 122px;
@@ -4325,7 +4350,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-22 {
+.online-wine-store .text-wrapper--22 {
   color: #000;
   letter-spacing: 0;
   width: 193px;
@@ -4346,7 +4371,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-23 {
+.online-wine-store .text-wrapper--23 {
   color: #000;
   letter-spacing: 0;
   width: 56px;
@@ -4359,7 +4384,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-24 {
+.online-wine-store .text-wrapper--24 {
   color: #000;
   letter-spacing: 0;
   width: 105px;
@@ -4380,7 +4405,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-25 {
+.online-wine-store .text-wrapper--25 {
   color: #000;
   letter-spacing: 0;
   width: 128px;
@@ -4393,7 +4418,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-26 {
+.online-wine-store .text-wrapper--26 {
   color: #000;
   letter-spacing: 0;
   width: 273px;
@@ -4406,7 +4431,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-27 {
+.online-wine-store .text-wrapper--27 {
   color: #000;
   letter-spacing: 0;
   width: 159px;
@@ -4435,7 +4460,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-28 {
+.online-wine-store .text-wrapper--28 {
   color: #000;
   letter-spacing: 0;
   width: 71px;
@@ -4448,7 +4473,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-29 {
+.online-wine-store .text-wrapper--29 {
   color: #000;
   letter-spacing: 0;
   width: 250px;
@@ -4469,7 +4494,7 @@ body {
   left: 39px;
 }
 
-.online-wine-store .text-wrapper-30 {
+.online-wine-store .text-wrapper--30 {
   color: #000;
   letter-spacing: 0;
   width: 116px;
@@ -4482,7 +4507,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-31 {
+.online-wine-store .text-wrapper--31 {
   color: #000;
   letter-spacing: 0;
   width: 203px;
@@ -4529,7 +4554,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-32 {
+.online-wine-store .text-wrapper--32 {
   color: #000;
   letter-spacing: 0;
   width: 199px;
@@ -4558,7 +4583,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-33 {
+.online-wine-store .text-wrapper--33 {
   color: #000;
   letter-spacing: 0;
   white-space: nowrap;
@@ -4572,7 +4597,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-34 {
+.online-wine-store .text-wrapper--34 {
   color: #000;
   letter-spacing: 0;
   width: 18px;
@@ -4585,7 +4610,7 @@ body {
   left: 46px;
 }
 
-.online-wine-store .group-6 {
+.online-wine-store .group--6 {
   width: 41px;
   height: 12px;
   position: absolute;
@@ -4635,7 +4660,7 @@ body {
   left: 55px;
 }
 
-.online-wine-store .group-7 {
+.online-wine-store .group--7 {
   background-image: url("clip-path-group-5.414327ae.png");
   background-size: 100% 100%;
   width: 9px;
@@ -4661,7 +4686,7 @@ body {
   left: 1px;
 }
 
-.online-wine-store .text-wrapper-35 {
+.online-wine-store .text-wrapper--35 {
   color: #000;
   letter-spacing: 0;
   width: 246px;
@@ -4682,7 +4707,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-36 {
+.online-wine-store .text-wrapper--36 {
   color: #000;
   letter-spacing: 0;
   width: 118px;
@@ -4695,7 +4720,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-37 {
+.online-wine-store .text-wrapper--37 {
   color: #000;
   letter-spacing: 0;
   width: 196px;
@@ -4716,7 +4741,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-38 {
+.online-wine-store .text-wrapper--38 {
   color: #000;
   letter-spacing: 0;
   width: 143px;
@@ -4729,7 +4754,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-39 {
+.online-wine-store .text-wrapper--39 {
   color: #000;
   letter-spacing: 0;
   width: 144px;
@@ -4750,7 +4775,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-40 {
+.online-wine-store .text-wrapper--40 {
   color: #000;
   letter-spacing: 0;
   width: 208px;
@@ -4763,7 +4788,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-41 {
+.online-wine-store .text-wrapper--41 {
   color: #000;
   letter-spacing: 0;
   width: 209px;
@@ -4792,7 +4817,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-42 {
+.online-wine-store .text-wrapper--42 {
   color: #000;
   letter-spacing: 0;
   width: 172px;
@@ -4813,7 +4838,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-43 {
+.online-wine-store .text-wrapper--43 {
   color: #000;
   letter-spacing: 0;
   width: 253px;
@@ -4842,7 +4867,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-44 {
+.online-wine-store .text-wrapper--44 {
   color: #000;
   letter-spacing: 0;
   white-space: nowrap;
@@ -4856,7 +4881,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-45 {
+.online-wine-store .text-wrapper--45 {
   color: #000;
   letter-spacing: 0;
   width: 18px;
@@ -4869,7 +4894,7 @@ body {
   left: 102px;
 }
 
-.online-wine-store .group-8 {
+.online-wine-store .group--8 {
   width: 41px;
   height: 12px;
   position: absolute;
@@ -4885,7 +4910,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-46 {
+.online-wine-store .text-wrapper--46 {
   color: #000;
   letter-spacing: 0;
   width: 134px;
@@ -4911,7 +4936,7 @@ body {
   left: 133px;
 }
 
-.online-wine-store .group-9 {
+.online-wine-store .group--9 {
   background-image: url("clip-path-group-4.d4fde9b9.png");
   background-size: 100% 100%;
   width: 7px;
@@ -4929,7 +4954,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-47 {
+.online-wine-store .text-wrapper--47 {
   color: #000;
   letter-spacing: 0;
   width: 97px;
@@ -4950,7 +4975,7 @@ body {
   left: 429px;
 }
 
-.online-wine-store .text-wrapper-48 {
+.online-wine-store .text-wrapper--48 {
   color: #000;
   letter-spacing: 0;
   width: 125px;
@@ -4971,7 +4996,7 @@ body {
   left: 429px;
 }
 
-.online-wine-store .text-wrapper-49 {
+.online-wine-store .text-wrapper--49 {
   color: #000;
   letter-spacing: 0;
   width: 9px;
@@ -4984,7 +5009,7 @@ body {
   left: 726px;
 }
 
-.online-wine-store .text-wrapper-50 {
+.online-wine-store .text-wrapper--50 {
   color: #000;
   letter-spacing: 0;
   width: 150px;
@@ -4997,7 +5022,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-51 {
+.online-wine-store .text-wrapper--51 {
   color: #000;
   letter-spacing: 0;
   width: 323px;
@@ -5010,7 +5035,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-52 {
+.online-wine-store .text-wrapper--52 {
   color: #000;
   letter-spacing: 0;
   width: 96px;
@@ -5023,7 +5048,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-53 {
+.online-wine-store .text-wrapper--53 {
   color: #000;
   letter-spacing: 0;
   width: 106px;
@@ -5036,7 +5061,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-54 {
+.online-wine-store .text-wrapper--54 {
   color: #000;
   letter-spacing: 0;
   width: 161px;
@@ -5049,7 +5074,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-55 {
+.online-wine-store .text-wrapper--55 {
   color: #000;
   letter-spacing: 0;
   width: 161px;
@@ -5062,7 +5087,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-56 {
+.online-wine-store .text-wrapper--56 {
   color: #000;
   letter-spacing: 0;
   width: 217px;
@@ -5075,7 +5100,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-57 {
+.online-wine-store .text-wrapper--57 {
   color: #000;
   letter-spacing: 0;
   width: 189px;
@@ -5088,7 +5113,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-58 {
+.online-wine-store .text-wrapper--58 {
   color: #000;
   letter-spacing: 0;
   width: 153px;
@@ -5101,7 +5126,7 @@ body {
   left: 428px;
 }
 
-.online-wine-store .text-wrapper-59 {
+.online-wine-store .text-wrapper--59 {
   color: #000;
   letter-spacing: 0;
   width: 239px;
@@ -5114,7 +5139,7 @@ body {
   left: 856px;
 }
 
-.online-wine-store .text-wrapper-60 {
+.online-wine-store .text-wrapper--60 {
   color: #000;
   letter-spacing: 0;
   width: 189px;
@@ -5127,7 +5152,7 @@ body {
   left: 879px;
 }
 
-.online-wine-store .text-wrapper-61 {
+.online-wine-store .text-wrapper--61 {
   color: #000;
   letter-spacing: 0;
   width: 124px;
@@ -5140,7 +5165,7 @@ body {
   left: 913px;
 }
 
-.online-wine-store .text-wrapper-62 {
+.online-wine-store .text-wrapper--62 {
   color: #000;
   letter-spacing: 0;
   width: 312px;
@@ -5153,7 +5178,7 @@ body {
   left: 821px;
 }
 
-.online-wine-store .text-wrapper-63 {
+.online-wine-store .text-wrapper--63 {
   color: #000;
   letter-spacing: 0;
   width: 184px;
@@ -5166,7 +5191,7 @@ body {
   left: 882px;
 }
 
-.online-wine-store .text-wrapper-64 {
+.online-wine-store .text-wrapper--64 {
   color: #000;
   letter-spacing: 0;
   width: 164px;
@@ -5179,7 +5204,7 @@ body {
   left: 892px;
 }
 
-.online-wine-store .text-wrapper-65 {
+.online-wine-store .text-wrapper--65 {
   color: #000;
   letter-spacing: 0;
   width: 250px;
@@ -5208,7 +5233,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-66 {
+.online-wine-store .text-wrapper--66 {
   color: #000;
   letter-spacing: 0;
   white-space: nowrap;
@@ -5222,7 +5247,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-67 {
+.online-wine-store .text-wrapper--67 {
   color: #000;
   letter-spacing: 0;
   width: 87px;
@@ -5251,7 +5276,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-68 {
+.online-wine-store .text-wrapper--68 {
   color: #000;
   letter-spacing: 0;
   width: 161px;
@@ -5277,7 +5302,7 @@ body {
   left: 131px;
 }
 
-.online-wine-store .text-wrapper-69 {
+.online-wine-store .text-wrapper--69 {
   color: #000;
   letter-spacing: 0;
   width: 12px;
@@ -5306,7 +5331,7 @@ body {
   left: 818px;
 }
 
-.online-wine-store .text-wrapper-70 {
+.online-wine-store .text-wrapper--70 {
   color: #000;
   letter-spacing: 0;
   width: 16px;
@@ -5335,7 +5360,7 @@ body {
   left: 817px;
 }
 
-.online-wine-store .text-wrapper-71 {
+.online-wine-store .text-wrapper--71 {
   color: #000;
   letter-spacing: 0;
   width: 128px;
@@ -5348,7 +5373,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-72 {
+.online-wine-store .text-wrapper--72 {
   color: #000;
   letter-spacing: 0;
   width: 16px;
@@ -5369,7 +5394,7 @@ body {
   left: 964px;
 }
 
-.online-wine-store .text-wrapper-73 {
+.online-wine-store .text-wrapper--73 {
   color: #000;
   letter-spacing: 0;
   width: 109px;
@@ -5382,7 +5407,7 @@ body {
   left: 817px;
 }
 
-.online-wine-store .text-wrapper-74 {
+.online-wine-store .text-wrapper--74 {
   color: #000;
   letter-spacing: 0;
   width: 16px;
@@ -5403,7 +5428,7 @@ body {
   left: 963px;
 }
 
-.online-wine-store .text-wrapper-75 {
+.online-wine-store .text-wrapper--75 {
   color: #000;
   letter-spacing: 0;
   width: 186px;
@@ -5416,7 +5441,7 @@ body {
   left: 817px;
 }
 
-.online-wine-store .text-wrapper-76 {
+.online-wine-store .text-wrapper--76 {
   color: #000;
   letter-spacing: 0;
   width: 16px;
@@ -5437,7 +5462,7 @@ body {
   left: 1023px;
 }
 
-.online-wine-store .text-wrapper-77 {
+.online-wine-store .text-wrapper--77 {
   color: #000;
   letter-spacing: 0;
   width: 139px;
@@ -5468,7 +5493,7 @@ body {
   left: 2px;
 }
 
-.online-wine-store .text-wrapper-78 {
+.online-wine-store .text-wrapper--78 {
   color: #000;
   letter-spacing: 0;
   width: 83px;
@@ -5481,7 +5506,7 @@ body {
   left: 54px;
 }
 
-.online-wine-store .text-wrapper-79 {
+.online-wine-store .text-wrapper--79 {
   color: #000;
   letter-spacing: 0;
   width: 96px;
@@ -5494,7 +5519,7 @@ body {
   left: 54px;
 }
 
-.online-wine-store .text-wrapper-80 {
+.online-wine-store .text-wrapper--80 {
   color: #000;
   letter-spacing: 0;
   width: 15px;
@@ -5528,7 +5553,7 @@ body {
   left: 38px;
 }
 
-.online-wine-store .text-wrapper-81 {
+.online-wine-store .text-wrapper--81 {
   color: #000;
   letter-spacing: 0;
   width: 15px;
@@ -5557,7 +5582,7 @@ body {
   left: 16px;
 }
 
-.online-wine-store .text-wrapper-82 {
+.online-wine-store .text-wrapper--82 {
   color: #000;
   letter-spacing: 0;
   width: 174px;
@@ -5570,7 +5595,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-83 {
+.online-wine-store .text-wrapper--83 {
   color: #000;
   letter-spacing: 0;
   width: 15px;
@@ -5591,7 +5616,7 @@ body {
   left: 170px;
 }
 
-.online-wine-store .text-wrapper-84 {
+.online-wine-store .text-wrapper--84 {
   color: #000;
   letter-spacing: 0;
   width: 60px;
@@ -5604,7 +5629,7 @@ body {
   left: 40px;
 }
 
-.online-wine-store .text-wrapper-85 {
+.online-wine-store .text-wrapper--85 {
   color: #000;
   letter-spacing: 0;
   width: 15px;
@@ -5625,7 +5650,7 @@ body {
   left: 113px;
 }
 
-.online-wine-store .text-wrapper-86 {
+.online-wine-store .text-wrapper--86 {
   color: #000;
   letter-spacing: 0;
   width: 66px;
@@ -5638,7 +5663,7 @@ body {
   left: 56px;
 }
 
-.online-wine-store .text-wrapper-87 {
+.online-wine-store .text-wrapper--87 {
   color: #000;
   letter-spacing: 0;
   width: 109px;
@@ -5697,7 +5722,7 @@ body {
   left: 792px;
 }
 
-.online-wine-store .text-wrapper-88 {
+.online-wine-store .text-wrapper--88 {
   color: #000;
   letter-spacing: 0;
   width: 111px;
@@ -5710,7 +5735,7 @@ body {
   left: 829px;
 }
 
-.online-wine-store .text-wrapper-89 {
+.online-wine-store .text-wrapper--89 {
   color: #000;
   letter-spacing: 0;
   width: 103px;
@@ -5723,7 +5748,7 @@ body {
   left: 831px;
 }
 
-.online-wine-store .text-wrapper-90 {
+.online-wine-store .text-wrapper--90 {
   color: #000;
   letter-spacing: 0;
   width: 121px;
@@ -5850,7 +5875,7 @@ body {
   left: 199px;
 }
 
-.online-wine-store .overlap-group-2 {
+.online-wine-store .overlap.group--2 {
   height: 45px;
   position: relative;
 }
@@ -5864,7 +5889,7 @@ body {
   left: 12px;
 }
 
-.online-wine-store .text-wrapper-91 {
+.online-wine-store .text-wrapper--91 {
   color: var(--cultured);
   letter-spacing: -.36px;
   white-space: nowrap;
@@ -5900,7 +5925,7 @@ body {
   left: 677px;
 }
 
-.online-wine-store .text-wrapper-92 {
+.online-wine-store .text-wrapper--92 {
   color: var(--white);
   letter-spacing: -.54px;
   text-align: center;
@@ -5914,7 +5939,7 @@ body {
   position: relative;
 }
 
-.online-wine-store .text-wrapper-93 {
+.online-wine-store .text-wrapper--93 {
   color: #fff;
   letter-spacing: -.54px;
   text-align: center;
@@ -5928,7 +5953,7 @@ body {
   position: relative;
 }
 
-.online-wine-store .text-wrapper-94 {
+.online-wine-store .text-wrapper--94 {
   color: var(--ffffff);
   letter-spacing: 0;
   text-align: center;
@@ -5959,7 +5984,7 @@ body {
   position: relative;
 }
 
-.online-wine-store .text-wrapper-95 {
+.online-wine-store .text-wrapper--95 {
   color: #fff;
   letter-spacing: 0;
   text-align: center;
@@ -6001,7 +6026,7 @@ body {
   left: 0;
 }
 
-.online-wine-store .text-wrapper-96 {
+.online-wine-store .text-wrapper--96 {
   color: #fff;
   letter-spacing: 0;
   width: 364px;
@@ -6046,7 +6071,7 @@ body {
   line-height: var(--body-text-line-height);
 }
 
-.online-wine-store .text-wrapper-97 {
+.online-wine-store .text-wrapper--97 {
   font-family: var(--body-text-font-family);
   font-size: var(--body-text-font-size);
   font-style: var(--body-text-font-style);
@@ -6055,7 +6080,7 @@ body {
   line-height: var(--body-text-line-height);
 }
 
-.online-wine-store .text-wrapper-98 {
+.online-wine-store .text-wrapper--98 {
   color: #fff;
   letter-spacing: 0;
   font-family: ITC Cheltenham Light-Regular, Helvetica;
@@ -6098,25 +6123,25 @@ body {
   left: 148px;
 }
 
-.online-wine-store .text-wrapper-99 {
+.online-wine-store .text-wrapper--99 {
   color: #fff;
   font-weight: 500;
 }
 
-.online-wine-store .text-wrapper-100 {
+.online-wine-store .text-wrapper--100 {
   color: #fff;
   font-family: Jost, Helvetica;
   font-size: 16px;
 }
 
-.online-wine-store .text-wrapper-101 {
+.online-wine-store .text-wrapper--101 {
   color: #fff;
   font-family: Jost, Helvetica;
   font-size: 16px;
   text-decoration: underline;
 }
 
-.online-wine-store .text-wrapper-102 {
+.online-wine-store .text-wrapper--102 {
   color: #cecece;
   letter-spacing: 0;
   width: 592px;
@@ -6142,7 +6167,7 @@ body {
   left: 153px;
 }
 
-.online-wine-store .text-wrapper-103 {
+.online-wine-store .text-wrapper--103 {
   color: #fff;
   letter-spacing: 0;
   width: 68px;
@@ -6217,7 +6242,7 @@ body {
   left: 146px;
 }
 
-.online-wine-store .text-wrapper-104 {
+.online-wine-store .text-wrapper--104 {
   color: #000;
   letter-spacing: 0;
   width: 154px;
@@ -6231,7 +6256,7 @@ body {
   left: 663px;
 }
 
-.online-wine-store .text-wrapper-105 {
+.online-wine-store .text-wrapper--105 {
   color: #000;
   letter-spacing: 0;
   white-space: nowrap;
@@ -6762,15 +6787,15 @@ body {
   color: #565151;
   letter-spacing: 0;
   text-align: center;
-  width: 1008px;
-  height: 476px;
+  width: 208px;
+  height: 100px;
   font-family: Jost, Helvetica;
   font-size: 24px;
   font-weight: 400;
   line-height: 37.7px;
   position: absolute;
   top: 1050px;
-  left: 274px;
+  left: 674px;
 }
 
 .our-heritage .text-wrapper-14 {

@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "build": "rm -rf static && parcel build --public-url /static --no-scope-hoist && mv ./dist ./static",
+    "build": "rm -rf ../packaged/prod && parcel build --public-url ./ --no-scope-hoist && mv ./dist ../packaged/prod",
     "deploy": "gcloud app deploy --project whippletree-402903",
     "dev": "parcel",
     "storybook": "storybook dev -p 6006",

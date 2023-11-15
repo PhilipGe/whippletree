@@ -103,7 +103,7 @@ function OverlapWrapper() {
       <div className="overlap-3">
         <div className="rectangle-10" />
         <div className="frame-wrapper">
-          <div className="contact-us-wrapper">
+          <div className="contact-us-wrapper" onClick={() => {window.location.href='/#/book-an-event'}}>
             <div className="contact-us">CONTACT US</div>
           </div>
         </div>
@@ -273,16 +273,6 @@ function Overlap4() {
 function Overlap6() {
   return (
     <div className="overlap-6">
-      <img
-        className="ant-design-user"
-        alt="Ant design user"
-        src={require("../../img/ant-design-user-outlined.svg")}
-      />
-      <img
-        className="bytesize-location"
-        alt="Bytesize location"
-        src={require("../../img/bytesize-location-1.svg")}
-      />
       <NavBar></NavBar>
       <img
         className="line-5"

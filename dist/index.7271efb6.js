@@ -27346,27 +27346,9 @@ function HeaderImage() {
                 lineNumber: 48,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "ant-design-user",
-                alt: "Ant design user",
-                src: require("9c6bb5381088eb4e")
-            }, void 0, false, {
-                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 49,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "bytesize-location",
-                alt: "Bytesize location",
-                src: require("8f11aea88f25af96")
-            }, void 0, false, {
-                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 54,
-                columnNumber: 7
-            }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBar.NavBar), {}, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 59,
+                lineNumber: 49,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27375,14 +27357,14 @@ function HeaderImage() {
                 src: require("4ffea228bdf6b343")
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 60,
+                lineNumber: 50,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "group"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 65,
+                lineNumber: 55,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27391,29 +27373,32 @@ function HeaderImage() {
                 src: require("81caf6707159d1ff")
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 67,
+                lineNumber: 56,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "overlap-wrapper",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "see-menu-wrapper",
+                    onClick: ()=>{
+                        window.location.href = "/#/online-wine-store";
+                    },
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "see-menu",
                         children: "SEE MENU"
                     }, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 74,
+                        lineNumber: 68,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 73,
+                    lineNumber: 62,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 72,
+                lineNumber: 61,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27421,7 +27406,7 @@ function HeaderImage() {
                 children: "A winery rooted in local tradition and the natural beauty of the lakes region"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 77,
+                lineNumber: 71,
                 columnNumber: 7
             }, this)
         ]
@@ -27432,175 +27417,168 @@ function HeaderImage() {
     }, this);
 }
 _c1 = HeaderImage;
-function Overlap2() {
+function Hours() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "overlap-2",
+        className: "shift-up-visit",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "whippletree-winery",
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                className: "span",
                 children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "span",
-                        children: [
-                            "Whippletree Winery",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 91,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                    "Hours",
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 89,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-8",
-                        children: [
-                            "372 Turkey Street, Tamworth, N.H. 03886",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 95,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 93,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "tel:8603353667",
-                        rel: "noopener noreferrer",
-                        target: "_blank",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                            className: "text-wrapper-9",
-                            children: "(860) 335-3667"
-                        }, void 0, false, {
-                            fileName: "src/Visit/screens/Visit/Visit.jsx",
-                            lineNumber: 98,
-                            columnNumber: 11
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 97,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-8",
-                        children: " or "
-                    }, void 0, false, {
-                        fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 100,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
-                        href: "tel:6033237119",
-                        rel: "noopener noreferrer",
-                        target: "_blank",
-                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                            className: "text-wrapper-9",
-                            children: [
-                                "(603) 323-7119",
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                    fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                    lineNumber: 104,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                    fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                    lineNumber: 105,
-                                    columnNumber: 13
-                                }, this)
-                            ]
-                        }, void 0, true, {
-                            fileName: "src/Visit/screens/Visit/Visit.jsx",
-                            lineNumber: 102,
-                            columnNumber: 11
-                        }, this)
-                    }, void 0, false, {
-                        fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 101,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "span",
-                        children: [
-                            "Hours",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 110,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 108,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-8",
-                        children: [
-                            "Tasting Room",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 114,
-                                columnNumber: 11
-                            }, this),
-                            "Memorial Day - July 4th",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 116,
-                                columnNumber: 11
-                            }, this),
-                            "Sat. Sun., 12:00 - 6:00",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 118,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 112,
+                        lineNumber: 84,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 88,
+                lineNumber: 82,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "shop-now-button-wrapper",
-                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    className: "shop-now-button",
-                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-10",
-                        children: "GET DIRECTION"
-                    }, void 0, false, {
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                className: "text-wrapper-8",
+                children: [
+                    "Tasting Room",
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 123,
-                        columnNumber: 11
+                        lineNumber: 88,
+                        columnNumber: 9
+                    }, this),
+                    "Memorial Day - July 4th",
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                        fileName: "src/Visit/screens/Visit/Visit.jsx",
+                        lineNumber: 90,
+                        columnNumber: 9
+                    }, this),
+                    "Sat. Sun., 12:00 - 6:00",
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                        fileName: "src/Visit/screens/Visit/Visit.jsx",
+                        lineNumber: 92,
+                        columnNumber: 9
                     }, this)
-                }, void 0, false, {
-                    fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 122,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
+                ]
+            }, void 0, true, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 121,
+                lineNumber: 86,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Visit/screens/Visit/Visit.jsx",
-        lineNumber: 87,
+        lineNumber: 81,
         columnNumber: 5
     }, this);
 }
-_c2 = Overlap2;
+_c2 = Hours;
+function Overlap2() {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "overlap-2",
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+            className: "whippletree-winery",
+            children: [
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                    className: "span",
+                    children: [
+                        "Whippletree Winery",
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                            fileName: "src/Visit/screens/Visit/Visit.jsx",
+                            lineNumber: 104,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/Visit/screens/Visit/Visit.jsx",
+                    lineNumber: 102,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                    className: "text-wrapper-8",
+                    children: [
+                        "372 Turkey Street, Tamworth, N.H. 03886",
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                            fileName: "src/Visit/screens/Visit/Visit.jsx",
+                            lineNumber: 108,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/Visit/screens/Visit/Visit.jsx",
+                    lineNumber: 106,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                    href: "tel:8603353667",
+                    rel: "noopener noreferrer",
+                    target: "_blank",
+                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                        className: "text-wrapper-9",
+                        children: "(860) 335-3667"
+                    }, void 0, false, {
+                        fileName: "src/Visit/screens/Visit/Visit.jsx",
+                        lineNumber: 111,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "src/Visit/screens/Visit/Visit.jsx",
+                    lineNumber: 110,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                    className: "text-wrapper-8",
+                    children: " or "
+                }, void 0, false, {
+                    fileName: "src/Visit/screens/Visit/Visit.jsx",
+                    lineNumber: 113,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                    href: "tel:6033237119",
+                    rel: "noopener noreferrer",
+                    target: "_blank",
+                    children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                        className: "text-wrapper-9",
+                        children: [
+                            "(603) 323-7119",
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                                fileName: "src/Visit/screens/Visit/Visit.jsx",
+                                lineNumber: 117,
+                                columnNumber: 13
+                            }, this),
+                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                                fileName: "src/Visit/screens/Visit/Visit.jsx",
+                                lineNumber: 118,
+                                columnNumber: 13
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "src/Visit/screens/Visit/Visit.jsx",
+                        lineNumber: 115,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
+                    fileName: "src/Visit/screens/Visit/Visit.jsx",
+                    lineNumber: 114,
+                    columnNumber: 9
+                }, this),
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Hours, {}, void 0, false, {
+                    fileName: "src/Visit/screens/Visit/Visit.jsx",
+                    lineNumber: 121,
+                    columnNumber: 9
+                }, this)
+            ]
+        }, void 0, true, {
+            fileName: "src/Visit/screens/Visit/Visit.jsx",
+            lineNumber: 101,
+            columnNumber: 7
+        }, this)
+    }, void 0, false, {
+        fileName: "src/Visit/screens/Visit/Visit.jsx",
+        lineNumber: 100,
+        columnNumber: 5
+    }, this);
+}
+_c3 = Overlap2;
 function BottomSection() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "overlap-3",
@@ -27609,7 +27587,7 @@ function BottomSection() {
                 className: "rectangle-4"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 133,
+                lineNumber: 130,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27617,19 +27595,19 @@ function BottomSection() {
                 children: "Contact Us"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 134,
+                lineNumber: 131,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "group-2",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBarBottom.NavBarBottom), {}, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 136,
-                    columnNumber: 8
+                    lineNumber: 133,
+                    columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 135,
+                lineNumber: 132,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27638,7 +27616,7 @@ function BottomSection() {
                 src: require("4300720e893ab29c")
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 138,
+                lineNumber: 135,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27649,18 +27627,18 @@ function BottomSection() {
                         children: [
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 145,
+                                lineNumber: 142,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 146,
+                                lineNumber: 143,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 144,
+                        lineNumber: 141,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -27669,13 +27647,13 @@ function BottomSection() {
                             "603-323-7119",
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                lineNumber: 150,
+                                lineNumber: 147,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 148,
+                        lineNumber: 145,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27687,18 +27665,18 @@ function BottomSection() {
                             children: "info@whippletreewinery.com"
                         }, void 0, false, {
                             fileName: "src/Visit/screens/Visit/Visit.jsx",
-                            lineNumber: 157,
+                            lineNumber: 154,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 152,
+                        lineNumber: 149,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 143,
+                lineNumber: 140,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27706,7 +27684,7 @@ function BottomSection() {
                 children: "Copyright \xa9 2023 Whippletree Winery | All Rights Reserved | Privacy Policy"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 160,
+                lineNumber: 157,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27715,26 +27693,26 @@ function BottomSection() {
                     "Whippletree Winery ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 165,
+                        lineNumber: 162,
                         columnNumber: 28
                     }, this),
                     "372 Turkey Street ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 166,
+                        lineNumber: 163,
                         columnNumber: 27
                     }, this),
                     "Tamworth, NH 03886 ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 167,
+                        lineNumber: 164,
                         columnNumber: 28
                     }, this),
                     "(860) 335-3667"
                 ]
             }, void 0, true, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 164,
+                lineNumber: 161,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27742,7 +27720,7 @@ function BottomSection() {
                 children: "Hours"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 170,
+                lineNumber: 167,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27751,33 +27729,33 @@ function BottomSection() {
                     "Friday - Sunday: ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                        lineNumber: 172,
+                        lineNumber: 169,
                         columnNumber: 26
                     }, this),
                     "12:00 - 6:00 PM"
                 ]
             }, void 0, true, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 171,
+                lineNumber: 168,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-wrapper",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _bookAnEventButton.BookAnEventButton), {}, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 176,
+                    lineNumber: 173,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 175,
+                lineNumber: 172,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "rectangle-7"
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 178,
+                lineNumber: 175,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27786,17 +27764,17 @@ function BottomSection() {
                 src: require("d2e799bff29960ac")
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 179,
+                lineNumber: 176,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Visit/screens/Visit/Visit.jsx",
-        lineNumber: 132,
+        lineNumber: 129,
         columnNumber: 5
     }, this);
 }
-_c3 = BottomSection;
+_c4 = BottomSection;
 function Map() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "map",
@@ -27818,12 +27796,12 @@ function Map() {
                                         src: require("4dabc9264e79a359")
                                     }, void 0, false, {
                                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                        lineNumber: 196,
+                                        lineNumber: 193,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                    lineNumber: 195,
+                                    lineNumber: 192,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27834,18 +27812,18 @@ function Map() {
                                         src: require("211f3b6bd46d594a")
                                     }, void 0, false, {
                                         fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                        lineNumber: 203,
+                                        lineNumber: 200,
                                         columnNumber: 17
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                    lineNumber: 202,
+                                    lineNumber: 199,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "src/Visit/screens/Visit/Visit.jsx",
-                            lineNumber: 194,
+                            lineNumber: 191,
                             columnNumber: 13
                         }, this),
                         /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27855,7 +27833,7 @@ function Map() {
                                     className: "ellipse"
                                 }, void 0, false, {
                                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                    lineNumber: 211,
+                                    lineNumber: 208,
                                     columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27864,38 +27842,38 @@ function Map() {
                                     src: require("ba8cde47b6ebd5da")
                                 }, void 0, false, {
                                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                                    lineNumber: 212,
+                                    lineNumber: 209,
                                     columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "src/Visit/screens/Visit/Visit.jsx",
-                            lineNumber: 210,
+                            lineNumber: 207,
                             columnNumber: 13
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 193,
+                    lineNumber: 190,
                     columnNumber: 11
                 }, this)
             }, void 0, false, {
                 fileName: "src/Visit/screens/Visit/Visit.jsx",
-                lineNumber: 192,
+                lineNumber: 189,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "src/Visit/screens/Visit/Visit.jsx",
-            lineNumber: 191,
+            lineNumber: 188,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "src/Visit/screens/Visit/Visit.jsx",
-        lineNumber: 190,
+        lineNumber: 187,
         columnNumber: 5
     }, this);
 }
-_c4 = Map;
+_c5 = Map;
 const Visit = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "visit",
@@ -27906,22 +27884,22 @@ const Visit = ()=>{
                     className: "image"
                 }, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 229,
+                    lineNumber: 226,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FirstInfoSlide, {}, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 230,
+                    lineNumber: 227,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeaderImage, {}, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 231,
+                    lineNumber: 228,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap2, {}, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 232,
+                    lineNumber: 229,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -27930,41 +27908,44 @@ const Visit = ()=>{
                     src: require("b16f97de9f93a16c")
                 }, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 233,
+                    lineNumber: 230,
                     columnNumber: 9
                 }, undefined),
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(BottomSection, {}, void 0, false, {
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(BottomSection, {
+                    className: "shift-up-bottom"
+                }, void 0, false, {
                     fileName: "src/Visit/screens/Visit/Visit.jsx",
-                    lineNumber: 238,
+                    lineNumber: 235,
                     columnNumber: 9
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/Visit/screens/Visit/Visit.jsx",
-            lineNumber: 228,
+            lineNumber: 225,
             columnNumber: 7
         }, undefined)
     }, void 0, false, {
         fileName: "src/Visit/screens/Visit/Visit.jsx",
-        lineNumber: 227,
+        lineNumber: 224,
         columnNumber: 5
     }, undefined);
 };
-_c5 = Visit;
-var _c, _c1, _c2, _c3, _c4, _c5;
+_c6 = Visit;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6;
 $RefreshReg$(_c, "FirstInfoSlide");
 $RefreshReg$(_c1, "HeaderImage");
-$RefreshReg$(_c2, "Overlap2");
-$RefreshReg$(_c3, "BottomSection");
-$RefreshReg$(_c4, "Map");
-$RefreshReg$(_c5, "Visit");
+$RefreshReg$(_c2, "Hours");
+$RefreshReg$(_c3, "Overlap2");
+$RefreshReg$(_c4, "BottomSection");
+$RefreshReg$(_c5, "Map");
+$RefreshReg$(_c6, "Visit");
 
   $parcel$ReactRefreshHelpers$db17.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"hBh9r","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","cc03a2bec11e344a":"iYDzt","c395ff16a03b3c8d":"kmtmy","1123a68a424c977a":"bYJGS","9c6bb5381088eb4e":"7HgNK","8f11aea88f25af96":"aK6OR","4ffea228bdf6b343":"cUU9Y","81caf6707159d1ff":"dH9OC","4300720e893ab29c":"dHJjL","d2e799bff29960ac":"kdFFl","4dabc9264e79a359":"26NcE","211f3b6bd46d594a":"6g3s0","ba8cde47b6ebd5da":"bgK4x","b16f97de9f93a16c":"4WwaL","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"hBh9r":[function() {},{}],"1ygrG":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"hBh9r","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","cc03a2bec11e344a":"iYDzt","c395ff16a03b3c8d":"kmtmy","1123a68a424c977a":"bYJGS","4ffea228bdf6b343":"cUU9Y","81caf6707159d1ff":"dH9OC","4300720e893ab29c":"dHJjL","d2e799bff29960ac":"kdFFl","4dabc9264e79a359":"26NcE","211f3b6bd46d594a":"6g3s0","ba8cde47b6ebd5da":"bgK4x","b16f97de9f93a16c":"4WwaL","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"hBh9r":[function() {},{}],"1ygrG":[function(require,module,exports) {
 var $parcel$ReactRefreshHelpers$669a = require("@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js");
 var prevRefreshReg = window.$RefreshReg$;
 var prevRefreshSig = window.$RefreshSig$;
@@ -28922,13 +28903,7 @@ module.exports = require("4b094f945e4fd1ee").getBundleURL("aXMci") + "mask-group
 },{"4b094f945e4fd1ee":"lgJ39"}],"bYJGS":[function(require,module,exports) {
 module.exports = require("b960976ca7c90f5").getBundleURL("aXMci") + "image-2.de32853f.png" + "?" + Date.now();
 
-},{"b960976ca7c90f5":"lgJ39"}],"7HgNK":[function(require,module,exports) {
-module.exports = require("d41a54f46c0e8f28").getBundleURL("aXMci") + "ant-design-user-outlined-3.7ceb2b22.svg" + "?" + Date.now();
-
-},{"d41a54f46c0e8f28":"lgJ39"}],"aK6OR":[function(require,module,exports) {
-module.exports = require("f9273aeee7b6e870").getBundleURL("aXMci") + "bytesize-location-3.2ba50761.svg" + "?" + Date.now();
-
-},{"f9273aeee7b6e870":"lgJ39"}],"cUU9Y":[function(require,module,exports) {
+},{"b960976ca7c90f5":"lgJ39"}],"cUU9Y":[function(require,module,exports) {
 module.exports = require("8257e60612aab837").getBundleURL("aXMci") + "line-2.4ee9d958.svg" + "?" + Date.now();
 
 },{"8257e60612aab837":"lgJ39"}],"dH9OC":[function(require,module,exports) {
@@ -29819,43 +29794,22 @@ function ContactUs() {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                 className: "element",
-                children: [
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-37",
-                        children: [
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                                lineNumber: 203,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                                lineNumber: 204,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                        lineNumber: 202,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-38",
-                        children: [
-                            "603-323-7119",
-                            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
-                                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                                lineNumber: 208,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
-                        fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                        lineNumber: 206,
-                        columnNumber: 9
-                    }, this)
-                ]
-            }, void 0, true, {
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
+                    className: "text-wrapper-38",
+                    children: [
+                        "603-323-7119",
+                        /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
+                            fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                            lineNumber: 204,
+                            columnNumber: 11
+                        }, this)
+                    ]
+                }, void 0, true, {
+                    fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                    lineNumber: 202,
+                    columnNumber: 9
+                }, this)
+            }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
                 lineNumber: 201,
                 columnNumber: 7
@@ -29865,7 +29819,15 @@ function ContactUs() {
                 children: "Call Us For Event Booking"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 211,
+                lineNumber: 207,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                className: "text-wrapper--39",
+                children: "Make A Reservation"
+            }, void 0, false, {
+                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                lineNumber: 208,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -29874,7 +29836,7 @@ function ContactUs() {
                 src: require("d6ffb5b1fe080c80")
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 212,
+                lineNumber: 209,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -29883,7 +29845,7 @@ function ContactUs() {
                 src: require("c2a34a4ed2c9eb19")
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 217,
+                lineNumber: 214,
                 columnNumber: 7
             }, this)
         ]
@@ -29894,44 +29856,15 @@ function ContactUs() {
     }, this);
 }
 _c5 = ContactUs;
-function ContentAndFooter() {
+function Rectangle() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "overlap",
+        className: "shift-up",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "rectangle"
-            }, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 229,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "rectangle-2"
-            }, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 230,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "rectangle-3"
-            }, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 231,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper",
-                children: "info@whippletreewinery.com"
-            }, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 232,
-                columnNumber: 7
-            }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "rectangle-4"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 233,
+                lineNumber: 226,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -29939,29 +29872,29 @@ function ContentAndFooter() {
                 children: "Contact Us"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 234,
+                lineNumber: 227,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Group, {}, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 235,
+                lineNumber: 228,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(BottomText, {}, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 236,
+                lineNumber: 229,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(BookEventButton, {}, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 237,
+                lineNumber: 230,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "rectangle-7"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 238,
+                lineNumber: 231,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -29970,7 +29903,53 @@ function ContentAndFooter() {
                 src: require("ba7998a480e660c2")
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 239,
+                lineNumber: 232,
+                columnNumber: 7
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+        lineNumber: 225,
+        columnNumber: 5
+    }, this);
+}
+_c6 = Rectangle;
+function ContentAndFooter() {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        className: "overlap",
+        children: [
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "rectangle"
+            }, void 0, false, {
+                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                lineNumber: 244,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "rectangle-2"
+            }, void 0, false, {
+                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                lineNumber: 245,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "rectangle-3"
+            }, void 0, false, {
+                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                lineNumber: 246,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                className: "text-wrapper",
+                children: "info@whippletreewinery.com"
+            }, void 0, false, {
+                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                lineNumber: 247,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Rectangle, {}, void 0, false, {
+                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
+                lineNumber: 248,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _button.Button), {
@@ -29982,32 +29961,27 @@ function ContentAndFooter() {
                 type: "primary"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 244,
+                lineNumber: 249,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Form, {}, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 252,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Calendar, {}, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 253,
+                lineNumber: 257,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ContactUs, {}, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 254,
+                lineNumber: 259,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-        lineNumber: 228,
+        lineNumber: 243,
         columnNumber: 5
     }, this);
 }
-_c6 = ContentAndFooter;
+_c7 = ContentAndFooter;
 // function NavBar() {
 //   return (
 //     <div className="navbar">
@@ -30034,7 +30008,7 @@ function HeaderImage() {
                 className: "rectangle-8"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 282,
+                lineNumber: 287,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -30042,25 +30016,7 @@ function HeaderImage() {
                 children: ""
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 283,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "ant-design-user",
-                alt: "Ant design user",
-                src: require("bea505981d4823ae")
-            }, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 284,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "bytesize-location",
-                alt: "Bytesize location",
-                src: require("6a4f8a07e5abe723")
-            }, void 0, false, {
-                fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 289,
+                lineNumber: 288,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -30069,14 +30025,14 @@ function HeaderImage() {
                 src: require("332532e45d7b9a29")
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 294,
+                lineNumber: 289,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "group-12"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 295,
+                lineNumber: 290,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -30085,12 +30041,12 @@ function HeaderImage() {
                 src: require("2a8312e082162ff9")
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 297,
+                lineNumber: 291,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBar.NavBar), {}, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 302,
+                lineNumber: 296,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -30098,17 +30054,17 @@ function HeaderImage() {
                 children: "Book An Event"
             }, void 0, false, {
                 fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                lineNumber: 303,
+                lineNumber: 297,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-        lineNumber: 281,
+        lineNumber: 286,
         columnNumber: 5
     }, this);
 }
-_c7 = HeaderImage;
+_c8 = HeaderImage;
 const BookAnEvent = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "book-an-event",
@@ -30117,51 +30073,52 @@ const BookAnEvent = ()=>{
             children: [
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ContentAndFooter, {}, void 0, false, {
                     fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                    lineNumber: 312,
+                    lineNumber: 306,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeaderImage, {}, void 0, false, {
                     fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                    lineNumber: 313,
+                    lineNumber: 307,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "image"
                 }, void 0, false, {
                     fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-                    lineNumber: 314,
+                    lineNumber: 308,
                     columnNumber: 9
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-            lineNumber: 311,
+            lineNumber: 305,
             columnNumber: 7
         }, undefined)
     }, void 0, false, {
         fileName: "src/BookAnEvent/screens/BookAnEvent/BookAnEvent.jsx",
-        lineNumber: 310,
+        lineNumber: 304,
         columnNumber: 5
     }, undefined);
 };
-_c8 = BookAnEvent;
-var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8;
+_c9 = BookAnEvent;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6, _c7, _c8, _c9;
 $RefreshReg$(_c, "Group");
 $RefreshReg$(_c1, "BottomText");
 $RefreshReg$(_c2, "BookEventButton");
 $RefreshReg$(_c3, "Form");
 $RefreshReg$(_c4, "Calendar");
 $RefreshReg$(_c5, "ContactUs");
-$RefreshReg$(_c6, "ContentAndFooter");
-$RefreshReg$(_c7, "HeaderImage");
-$RefreshReg$(_c8, "BookAnEvent");
+$RefreshReg$(_c6, "Rectangle");
+$RefreshReg$(_c7, "ContentAndFooter");
+$RefreshReg$(_c8, "HeaderImage");
+$RefreshReg$(_c9, "BookAnEvent");
 
   $parcel$ReactRefreshHelpers$d87d.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../Button":"j0UPI","../../icons/ArrowChevronDown1":"lBuuu","./style.css":"3QfGe","react-router-dom":"9xmpe","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","c96f2ca76dc6b6db":"6jkid","ae11b6a760fdf2a5":"gnxbC","e35ccbc754c3a253":"63p1F","d6ffb5b1fe080c80":"9VvUQ","c2a34a4ed2c9eb19":"8IzI1","ba7998a480e660c2":"8n1wK","bea505981d4823ae":"e64hJ","6a4f8a07e5abe723":"i2qdz","332532e45d7b9a29":"77owi","2a8312e082162ff9":"56QrJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"j0UPI":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../Button":"j0UPI","../../icons/ArrowChevronDown1":"lBuuu","./style.css":"3QfGe","react-router-dom":"9xmpe","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","c96f2ca76dc6b6db":"6jkid","ae11b6a760fdf2a5":"gnxbC","e35ccbc754c3a253":"63p1F","d6ffb5b1fe080c80":"9VvUQ","c2a34a4ed2c9eb19":"8IzI1","ba7998a480e660c2":"8n1wK","332532e45d7b9a29":"77owi","2a8312e082162ff9":"56QrJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"j0UPI":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Button", ()=>(0, _button.Button));
@@ -30187,12 +30144,18 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _styleCss = require("./style.css");
 function sendPostRequest() {
-    const url = "http://localhost:3000/book_an_event_notification";
+    const url = "http://144.208.72.189:3000/book_an_event_notification";
+    // const url = 'http://localhost:3000/book_an_event_notification'
     let notes = document.getElementById("note-area").value;
     let phone_number = document.getElementById("phone-number").value;
     let email_address = document.getElementById("email-address").value;
     let number_of_persons = document.getElementById("number-of-persons").value;
     let name = document.getElementById("your-name").value;
+    document.getElementById("note-area").value = "";
+    document.getElementById("phone-number").value = "";
+    document.getElementById("email-address").value = "";
+    document.getElementById("number-of-persons").value = "";
+    document.getElementById("your-name").value = "";
     let data = {
         your_name: name,
         email_address: email_address,
@@ -30237,7 +30200,7 @@ const Button = ({ type, size, icon, className, divClassName, text = "Large" })=>
                     ]
                 }, void 0, true, {
                     fileName: "src/BookAnEvent/Button/Button.jsx",
-                    lineNumber: 46,
+                    lineNumber: 53,
                     columnNumber: 11
                 }, undefined)
             }, void 0, false),
@@ -30262,13 +30225,13 @@ const Button = ({ type, size, icon, className, divClassName, text = "Large" })=>
                 ]
             }, void 0, true, {
                 fileName: "src/BookAnEvent/Button/Button.jsx",
-                lineNumber: 61,
+                lineNumber: 68,
                 columnNumber: 9
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/BookAnEvent/Button/Button.jsx",
-        lineNumber: 43,
+        lineNumber: 50,
         columnNumber: 5
     }, undefined);
 };
@@ -30296,7 +30259,7 @@ $RefreshReg$(_c, "Button");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"f3QXJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru","prop-types":"7wKI2"}],"f3QXJ":[function() {},{}],"7wKI2":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","prop-types":"7wKI2","react":"21dqq","./style.css":"f3QXJ","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7wKI2":[function(require,module,exports) {
 /**
  * Copyright (c) 2013-present, Facebook, Inc.
  *
@@ -31043,7 +31006,7 @@ printWarning = function(text) {
 };
 module.exports = checkPropTypes;
 
-},{"24ba1e58d167a82c":"jZTZJ","898bc82f39d83f7c":"fqKuf"}],"lBuuu":[function(require,module,exports) {
+},{"24ba1e58d167a82c":"jZTZJ","898bc82f39d83f7c":"fqKuf"}],"f3QXJ":[function() {},{}],"lBuuu":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "ArrowChevronDown1", ()=>(0, _arrowChevronDown1.ArrowChevronDown1));
@@ -36975,13 +36938,7 @@ module.exports = require("90dd9989b2558a14").getBundleURL("aXMci") + "mdi-email-
 },{"90dd9989b2558a14":"lgJ39"}],"8n1wK":[function(require,module,exports) {
 module.exports = require("c0d0d6cb6dcd5c1a").getBundleURL("aXMci") + "group-54-1.e8efecff.png" + "?" + Date.now();
 
-},{"c0d0d6cb6dcd5c1a":"lgJ39"}],"e64hJ":[function(require,module,exports) {
-module.exports = require("59d01da6dc5403a4").getBundleURL("aXMci") + "ant-design-user-outlined.58b661bf.svg" + "?" + Date.now();
-
-},{"59d01da6dc5403a4":"lgJ39"}],"i2qdz":[function(require,module,exports) {
-module.exports = require("2ca0303546cf1970").getBundleURL("aXMci") + "bytesize-location.2dc54388.svg" + "?" + Date.now();
-
-},{"2ca0303546cf1970":"lgJ39"}],"77owi":[function(require,module,exports) {
+},{"c0d0d6cb6dcd5c1a":"lgJ39"}],"77owi":[function(require,module,exports) {
 module.exports = require("ad616f69f087042c").getBundleURL("aXMci") + "line-2.312baa67.svg" + "?" + Date.now();
 
 },{"ad616f69f087042c":"lgJ39"}],"56QrJ":[function(require,module,exports) {
@@ -37265,6 +37222,9 @@ function OverlapWrapper() {
                     className: "frame-wrapper",
                     children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "contact-us-wrapper",
+                        onClick: ()=>{
+                            window.location.href = "/#/book-an-event";
+                        },
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                             className: "contact-us",
                             children: "CONTACT US"
@@ -37691,27 +37651,9 @@ function Overlap6() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "overlap-6",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "ant-design-user",
-                alt: "Ant design user",
-                src: require("f78fa0c5b5d2ba42")
-            }, void 0, false, {
-                fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 276,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "bytesize-location",
-                alt: "Bytesize location",
-                src: require("c18e75de2dee251a")
-            }, void 0, false, {
-                fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 281,
-                columnNumber: 7
-            }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBar.NavBar), {}, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 286,
+                lineNumber: 276,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37720,7 +37662,7 @@ function Overlap6() {
                 src: require("8c65d037c4425c4c")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 287,
+                lineNumber: 277,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -37728,7 +37670,7 @@ function Overlap6() {
                 children: "Experience the Magic of our Enchanting New Hampshire Winery"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 292,
+                lineNumber: 282,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37736,7 +37678,7 @@ function Overlap6() {
                 children: "Order\xa0\xa0Delicious Homemade Wines Online!"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 295,
+                lineNumber: 285,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37745,7 +37687,7 @@ function Overlap6() {
                 src: require("43ef61f37e7e3046")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 298,
+                lineNumber: 288,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37753,7 +37695,7 @@ function Overlap6() {
                 children: ""
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 303,
+                lineNumber: 293,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37765,7 +37707,7 @@ function Overlap6() {
                         src: require("7b7efe7d7d23a642")
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 305,
+                        lineNumber: 295,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -37776,13 +37718,13 @@ function Overlap6() {
                         children: "VISIT OUR WINERY"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 310,
+                        lineNumber: 300,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 304,
+                lineNumber: 294,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _property.Property), {
@@ -37791,7 +37733,7 @@ function Overlap6() {
                 rectangleClassName: "property-1-variant2"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 312,
+                lineNumber: 302,
                 columnNumber: 7
             }, this)
         ]
@@ -37811,7 +37753,7 @@ function Overlap7() {
                 children: "Our Wines"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 324,
+                lineNumber: 314,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37820,13 +37762,13 @@ function Overlap7() {
                 src: require("bbfe8294069c6e03")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 325,
+                lineNumber: 315,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 323,
+        lineNumber: 313,
         columnNumber: 5
     }, this);
 }
@@ -37840,7 +37782,7 @@ function WineImages() {
                 src: require("8bf63ee50cff400b")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 337,
+                lineNumber: 327,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37849,7 +37791,7 @@ function WineImages() {
                 src: require("ae6fd3b4e4df9081")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 342,
+                lineNumber: 332,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37858,7 +37800,7 @@ function WineImages() {
                 src: require("9386516d28240d5d")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 347,
+                lineNumber: 337,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37867,7 +37809,7 @@ function WineImages() {
                 src: require("2b90a301035cba2e")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 352,
+                lineNumber: 342,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37876,7 +37818,7 @@ function WineImages() {
                 src: require("f00526af6e57fa4f")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 357,
+                lineNumber: 347,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37885,7 +37827,7 @@ function WineImages() {
                 src: require("8a9360f18d458f22")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 362,
+                lineNumber: 352,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37894,7 +37836,7 @@ function WineImages() {
                 src: require("6947de5386b9c")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 367,
+                lineNumber: 357,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37903,7 +37845,7 @@ function WineImages() {
                 src: require("3b65da5d810ad053")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 372,
+                lineNumber: 362,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37912,7 +37854,7 @@ function WineImages() {
                 src: require("e678c2c693507be5")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 377,
+                lineNumber: 367,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37921,7 +37863,7 @@ function WineImages() {
                 src: require("dc39312ae6ecd0fc")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 382,
+                lineNumber: 372,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37930,7 +37872,7 @@ function WineImages() {
                 src: require("fa2752cc30ccacd")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 387,
+                lineNumber: 377,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -37939,13 +37881,13 @@ function WineImages() {
                 src: require("a202377b5942e82f")
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 392,
+                lineNumber: 382,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 336,
+        lineNumber: 326,
         columnNumber: 5
     }, this);
 }
@@ -37965,7 +37907,7 @@ function Frame6() {
                                 children: "LAUREN BARRETT "
                             }, void 0, false, {
                                 fileName: "src/Home/screens/Home/Home.jsx",
-                                lineNumber: 406,
+                                lineNumber: 396,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -37973,13 +37915,13 @@ function Frame6() {
                                 children: "~ Sauvignon Blanc"
                             }, void 0, false, {
                                 fileName: "src/Home/screens/Home/Home.jsx",
-                                lineNumber: 407,
+                                lineNumber: 397,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 405,
+                        lineNumber: 395,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -37987,26 +37929,26 @@ function Frame6() {
                         children: " Unoaked with a smooth bright finish"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 409,
+                        lineNumber: 399,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 404,
+                lineNumber: 394,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 411,
+                lineNumber: 401,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 403,
+        lineNumber: 393,
         columnNumber: 5
     }, this);
 }
@@ -38026,7 +37968,7 @@ function Frame9() {
                                 children: "BOSSY ~ "
                             }, void 0, false, {
                                 fileName: "src/Home/screens/Home/Home.jsx",
-                                lineNumber: 421,
+                                lineNumber: 411,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -38034,13 +37976,13 @@ function Frame9() {
                                 children: "Chardonnay"
                             }, void 0, false, {
                                 fileName: "src/Home/screens/Home/Home.jsx",
-                                lineNumber: 422,
+                                lineNumber: 412,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 420,
+                        lineNumber: 410,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38048,26 +37990,26 @@ function Frame9() {
                         children: "Full bodied, lightly oaked, smooth finish"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 424,
+                        lineNumber: 414,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 419,
+                lineNumber: 409,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 428,
+                lineNumber: 418,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 418,
+        lineNumber: 408,
         columnNumber: 5
     }, this);
 }
@@ -38084,7 +38026,7 @@ function Frame10() {
                         children: "ROSE GOLD"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 437,
+                        lineNumber: 427,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38092,26 +38034,26 @@ function Frame10() {
                         children: "French Provence style, refreshing, a classy ros\xe9"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 438,
+                        lineNumber: 428,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 436,
+                lineNumber: 426,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 442,
+                lineNumber: 432,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 435,
+        lineNumber: 425,
         columnNumber: 5
     }, this);
 }
@@ -38125,7 +38067,7 @@ function Overlap8() {
                 children: "Apple, pear and blackberry, ultra refreshing"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 450,
+                lineNumber: 440,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38138,31 +38080,31 @@ function Overlap8() {
                             children: "ORCHARD ROS\xc9"
                         }, void 0, false, {
                             fileName: "src/Home/screens/Home/Home.jsx",
-                            lineNumber: 455,
+                            lineNumber: 445,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 454,
+                        lineNumber: 444,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "frame-8"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 457,
+                        lineNumber: 447,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 453,
+                lineNumber: 443,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 449,
+        lineNumber: 439,
         columnNumber: 5
     }, this);
 }
@@ -38179,7 +38121,7 @@ function Frame12() {
                         children: "FIERCE"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 467,
+                        lineNumber: 457,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38187,26 +38129,26 @@ function Frame12() {
                         children: "Chilean blend, spicy finish... She creeps, she pounces and she bites"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 468,
+                        lineNumber: 458,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 466,
+                lineNumber: 456,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 472,
+                lineNumber: 462,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 465,
+        lineNumber: 455,
         columnNumber: 5
     }, this);
 }
@@ -38220,7 +38162,7 @@ function Overlap9() {
                 children: "Lucious pomegranate flavor, bright smooth finish"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 480,
+                lineNumber: 470,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38233,31 +38175,31 @@ function Overlap9() {
                             children: "POME-GRANITE"
                         }, void 0, false, {
                             fileName: "src/Home/screens/Home/Home.jsx",
-                            lineNumber: 485,
+                            lineNumber: 475,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 484,
+                        lineNumber: 474,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "frame-8"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 487,
+                        lineNumber: 477,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 483,
+                lineNumber: 473,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 479,
+        lineNumber: 469,
         columnNumber: 5
     }, this);
 }
@@ -38274,7 +38216,7 @@ function Frame14() {
                         children: "VILLA GRANDE"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 497,
+                        lineNumber: 487,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38282,26 +38224,26 @@ function Frame14() {
                         children: "Italian bold blend, well rounded"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 498,
+                        lineNumber: 488,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 496,
+                lineNumber: 486,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 500,
+                lineNumber: 490,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 495,
+        lineNumber: 485,
         columnNumber: 5
     }, this);
 }
@@ -38318,7 +38260,7 @@ function Frame15() {
                         children: "MOUNTAIN BEAR"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 509,
+                        lineNumber: 499,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38326,26 +38268,26 @@ function Frame15() {
                         children: "Whippletree\u2019s #1 seller, SMOOTH black currant flavor"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 510,
+                        lineNumber: 500,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 508,
+                lineNumber: 498,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 514,
+                lineNumber: 504,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 507,
+        lineNumber: 497,
         columnNumber: 5
     }, this);
 }
@@ -38362,7 +38304,7 @@ function Frame16() {
                         children: "SUGAR PLUM"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 523,
+                        lineNumber: 513,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -38370,26 +38312,26 @@ function Frame16() {
                         children: "Magical sweet blackberry"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 524,
+                        lineNumber: 514,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 522,
+                lineNumber: 512,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 526,
+                lineNumber: 516,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 521,
+        lineNumber: 511,
         columnNumber: 5
     }, this);
 }
@@ -38406,7 +38348,7 @@ function Frame17() {
                         children: "CHERRY ALMOND CAKE"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 535,
+                        lineNumber: 525,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38414,26 +38356,26 @@ function Frame17() {
                         children: "Sweet dessert in a glass"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 536,
+                        lineNumber: 526,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 534,
+                lineNumber: 524,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 538,
+                lineNumber: 528,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 533,
+        lineNumber: 523,
         columnNumber: 5
     }, this);
 }
@@ -38450,7 +38392,7 @@ function Frame18() {
                         children: "HARVEST SANGRIA"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 547,
+                        lineNumber: 537,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38458,26 +38400,26 @@ function Frame18() {
                         children: "Subtle orange sweetness, great mulling wine, enjoy chilled or warm"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 548,
+                        lineNumber: 538,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 546,
+                lineNumber: 536,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 552,
+                lineNumber: 542,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 545,
+        lineNumber: 535,
         columnNumber: 5
     }, this);
 }
@@ -38494,7 +38436,7 @@ function Frame19() {
                         children: "BLUEBERRY MUFFIN"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 561,
+                        lineNumber: 551,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -38502,26 +38444,26 @@ function Frame19() {
                         children: "A unique treat for any time of day! !"
                     }, void 0, false, {
                         fileName: "src/Home/screens/Home/Home.jsx",
-                        lineNumber: 562,
+                        lineNumber: 552,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 560,
+                lineNumber: 550,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-8"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 564,
+                lineNumber: 554,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 559,
+        lineNumber: 549,
         columnNumber: 5
     }, this);
 }
@@ -38539,17 +38481,17 @@ function ButtonComp() {
                 children: "VIEW MORE"
             }, void 0, false, {
                 fileName: "src/Home/screens/Home/Home.jsx",
-                lineNumber: 573,
+                lineNumber: 563,
                 columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "src/Home/screens/Home/Home.jsx",
-            lineNumber: 572,
+            lineNumber: 562,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 571,
+        lineNumber: 561,
         columnNumber: 5
     }, this);
 }
@@ -38562,204 +38504,204 @@ const Home = ()=>{
             children: [
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(VisitUsCards, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 583,
+                    lineNumber: 573,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(LocalRoots, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 584,
+                    lineNumber: 574,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(BottomSection, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 585,
+                    lineNumber: 575,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap4, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 586,
+                    lineNumber: 576,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap6, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 587,
+                    lineNumber: 577,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "image-2"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 588,
+                    lineNumber: 578,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap7, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 589,
+                    lineNumber: 579,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(WineImages, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 590,
+                    lineNumber: 580,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame6, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 591,
+                    lineNumber: 581,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame9, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 592,
+                    lineNumber: 582,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame10, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 593,
+                    lineNumber: 583,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap8, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 594,
+                    lineNumber: 584,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame12, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 595,
+                    lineNumber: 585,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap9, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 596,
+                    lineNumber: 586,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame14, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 597,
+                    lineNumber: 587,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame15, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 598,
+                    lineNumber: 588,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame16, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 599,
+                    lineNumber: 589,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame17, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 600,
+                    lineNumber: 590,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame18, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 601,
+                    lineNumber: 591,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Frame19, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 602,
+                    lineNumber: 592,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ButtonComp, {}, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 603,
+                    lineNumber: 593,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-41"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 604,
+                    lineNumber: 594,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-42"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 605,
+                    lineNumber: 595,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-43"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 606,
+                    lineNumber: 596,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-44"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 607,
+                    lineNumber: 597,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-45"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 608,
+                    lineNumber: 598,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-46"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 609,
+                    lineNumber: 599,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-47"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 610,
+                    lineNumber: 600,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-48"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 611,
+                    lineNumber: 601,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-49"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 612,
+                    lineNumber: 602,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-50"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 613,
+                    lineNumber: 603,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-51"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 614,
+                    lineNumber: 604,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "rectangle-52"
                 }, void 0, false, {
                     fileName: "src/Home/screens/Home/Home.jsx",
-                    lineNumber: 615,
+                    lineNumber: 605,
                     columnNumber: 9
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/Home/screens/Home/Home.jsx",
-            lineNumber: 582,
+            lineNumber: 572,
             columnNumber: 7
         }, undefined)
     }, void 0, false, {
         fileName: "src/Home/screens/Home/Home.jsx",
-        lineNumber: 581,
+        lineNumber: 571,
         columnNumber: 5
     }, undefined);
 };
@@ -38794,7 +38736,7 @@ $RefreshReg$(_c22, "Home");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../Property":"6EVuv","./final_adjusted_styles.css":"dzoPR","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","2b184460d0951459":"1ig3x","c0a05fb83c8366d8":"64JFz","26a6c592d99911eb":"lt5ii","432d8ddd6b0eb9ac":"cyTwo","163766de470350d9":"4if8S","76eea4dbdc9227d0":"bGsge","b5f8bcdcf81898c1":"ef3Ds","9ab607bf637617c3":"7BjHL","66a278f3054616d":"hgLxs","22e573078165d7a0":"cIOtj","b9cb0a6bd44cff54":"52oss","457541412279039f":"dMvCl","db06d0bf47a903b5":"fCOaS","d88decd4c52b1bdc":"1G2W2","7fef10223fed2571":"kPq10","3d64f284a8932ecd":"9tLzs","e8e5fa576630fd0b":"84EM8","7910934b5c5a16cb":"4uvc6","8d783cfae1477b24":"8mv3r","83f646de45e3ade3":"kcJMw","a153f205485e1f5":"ffqbJ","bed9dbb3452f82a3":"d8GAi","7736ecf2c65a6c3a":"7sTqf","1ee663db78c1a106":"hs8cB","b4aaed7514d4de1c":"9QtVl","f78fa0c5b5d2ba42":"bFb96","c18e75de2dee251a":"37QUr","8c65d037c4425c4c":"aTvwn","43ef61f37e7e3046":"jUSqA","7b7efe7d7d23a642":"7Bs8G","bd451ae91f653624":"cU8b0","bbfe8294069c6e03":"lv3bT","8bf63ee50cff400b":"hOvCc","ae6fd3b4e4df9081":"g5giu","9386516d28240d5d":"6WsAx","2b90a301035cba2e":"2yyjY","f00526af6e57fa4f":"hQqup","8a9360f18d458f22":"hArzG","6947de5386b9c":"8UPuv","3b65da5d810ad053":"5lbZ9","e678c2c693507be5":"bhWhV","dc39312ae6ecd0fc":"jEpMT","fa2752cc30ccacd":"4HUQB","a202377b5942e82f":"dcWGM","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"6EVuv":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","../../Property":"6EVuv","./final_adjusted_styles.css":"dzoPR","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","2b184460d0951459":"1ig3x","c0a05fb83c8366d8":"64JFz","26a6c592d99911eb":"lt5ii","432d8ddd6b0eb9ac":"cyTwo","163766de470350d9":"4if8S","76eea4dbdc9227d0":"bGsge","b5f8bcdcf81898c1":"ef3Ds","9ab607bf637617c3":"7BjHL","66a278f3054616d":"hgLxs","22e573078165d7a0":"cIOtj","b9cb0a6bd44cff54":"52oss","457541412279039f":"dMvCl","db06d0bf47a903b5":"fCOaS","d88decd4c52b1bdc":"1G2W2","7fef10223fed2571":"kPq10","3d64f284a8932ecd":"9tLzs","e8e5fa576630fd0b":"84EM8","7910934b5c5a16cb":"4uvc6","8d783cfae1477b24":"8mv3r","83f646de45e3ade3":"kcJMw","a153f205485e1f5":"ffqbJ","bed9dbb3452f82a3":"d8GAi","7736ecf2c65a6c3a":"7sTqf","1ee663db78c1a106":"hs8cB","b4aaed7514d4de1c":"9QtVl","8c65d037c4425c4c":"aTvwn","43ef61f37e7e3046":"jUSqA","7b7efe7d7d23a642":"7Bs8G","bd451ae91f653624":"cU8b0","bbfe8294069c6e03":"lv3bT","8bf63ee50cff400b":"hOvCc","ae6fd3b4e4df9081":"g5giu","9386516d28240d5d":"6WsAx","2b90a301035cba2e":"2yyjY","f00526af6e57fa4f":"hQqup","8a9360f18d458f22":"hArzG","6947de5386b9c":"8UPuv","3b65da5d810ad053":"5lbZ9","e678c2c693507be5":"bhWhV","dc39312ae6ecd0fc":"jEpMT","fa2752cc30ccacd":"4HUQB","a202377b5942e82f":"dcWGM","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"6EVuv":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "Property", ()=>(0, _property.Property));
@@ -38937,13 +38879,7 @@ module.exports = require("8f192a925b2eb9d6").getBundleURL("aXMci") + "rectangle-
 },{"8f192a925b2eb9d6":"lgJ39"}],"9QtVl":[function(require,module,exports) {
 module.exports = require("9e62bd92d96f39f0").getBundleURL("aXMci") + "rectangle-111.10d9df60.png" + "?" + Date.now();
 
-},{"9e62bd92d96f39f0":"lgJ39"}],"bFb96":[function(require,module,exports) {
-module.exports = require("35dc18df05f3dec8").getBundleURL("aXMci") + "ant-design-user-outlined.ab5f686d.svg" + "?" + Date.now();
-
-},{"35dc18df05f3dec8":"lgJ39"}],"37QUr":[function(require,module,exports) {
-module.exports = require("130baac3afda8d8d").getBundleURL("aXMci") + "bytesize-location-1.59f1cd21.svg" + "?" + Date.now();
-
-},{"130baac3afda8d8d":"lgJ39"}],"aTvwn":[function(require,module,exports) {
+},{"9e62bd92d96f39f0":"lgJ39"}],"aTvwn":[function(require,module,exports) {
 module.exports = require("b24d74c225a59721").getBundleURL("aXMci") + "line-2.2a16eaee.svg" + "?" + Date.now();
 
 },{"b24d74c225a59721":"lgJ39"}],"jUSqA":[function(require,module,exports) {
@@ -39042,7 +38978,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-2",
+                className: "text-wrapper--2",
                 children: " ~"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39071,7 +39007,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-3",
+                        className: "text-wrapper--3",
                         children: "Dry Red Wines"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39079,7 +39015,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-4",
+                        className: "text-wrapper--4",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39093,7 +39029,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "group-2",
+                className: "group--2",
                 alt: "Group",
                 src: require("bd59b114cd0d07de")
             }, void 0, false, {
@@ -39114,7 +39050,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-5",
+                        className: "text-wrapper--5",
                         children: "Fruit Forward Wines"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39122,7 +39058,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-6",
+                        className: "text-wrapper--6",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39136,7 +39072,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "group-3",
+                className: "group--3",
                 alt: "Group",
                 src: require("e181c9fad3464e4d")
             }, void 0, false, {
@@ -39157,7 +39093,7 @@ function Overlap() {
                 className: "overlap-4",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-7",
+                        className: "text-wrapper--7",
                         children: "LAUREN BARRETT"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39173,7 +39109,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "group-4"
+                        className: "group--4"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
                         lineNumber: 60,
@@ -39186,7 +39122,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-8",
+                className: "text-wrapper--8",
                 children: "~"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39194,7 +39130,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-9",
+                className: "text-wrapper--9",
                 children: "Sauvignon Blanc"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39214,7 +39150,7 @@ function Overlap() {
                 className: "overlap-5",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-10",
+                        className: "text-wrapper--10",
                         children: "BOSSY"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39230,7 +39166,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-11",
+                        className: "text-wrapper--11",
                         children: "~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39238,7 +39174,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "group-5"
+                        className: "group--5"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
                         lineNumber: 73,
@@ -39253,7 +39189,7 @@ function Overlap() {
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "div-wrapper",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                    className: "text-wrapper-12",
+                    className: "text-wrapper--12",
                     children: "Chardonnay"
                 }, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39275,7 +39211,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-13",
+                className: "text-wrapper--13",
                 children: "REEF WHITE"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39292,7 +39228,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-14",
+                className: "text-wrapper--14",
                 children: "APPLE WHISKEY BARREL AGED"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39312,7 +39248,7 @@ function Overlap() {
                 className: "overlap-6",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-15",
+                        className: "text-wrapper--15",
                         children: "BLUE CHARD"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39320,7 +39256,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-16",
+                        className: "text-wrapper--16",
                         children: "Refreshing Blueberry Chardonnay"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39334,7 +39270,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-17",
+                className: "text-wrapper--17",
                 children: "SPICED PEAR"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39342,7 +39278,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-18",
+                className: "text-wrapper--18",
                 children: "Full of cinnamon sweetness"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39353,7 +39289,7 @@ function Overlap() {
                 className: "overlap-7",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-19",
+                        className: "text-wrapper--19",
                         children: "ROSE GOLD"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39375,7 +39311,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-20",
+                className: "text-wrapper--20",
                 children: "SEX ON THE BEACH"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39383,7 +39319,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-21",
+                className: "text-wrapper--21",
                 children: "BOOZY COSMO"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39391,7 +39327,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-22",
+                className: "text-wrapper--22",
                 children: "BOOZY PINK LEMONADE"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39402,7 +39338,7 @@ function Overlap() {
                 className: "overlap-8",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-23",
+                        className: "text-wrapper--23",
                         children: "ALOHA"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39410,7 +39346,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-24",
+                        className: "text-wrapper--24",
                         children: "Hawaii in a glass"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39427,7 +39363,7 @@ function Overlap() {
                 className: "overlap-9",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-25",
+                        className: "text-wrapper--25",
                         children: "ORCHARD ROS\xc9"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39435,7 +39371,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-26",
+                        className: "text-wrapper--26",
                         children: "Apple, pear and blackberry, ultra refreshing"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39449,7 +39385,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-27",
+                className: "text-wrapper--27",
                 children: "SWEET TREAT ROS\xc9"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39469,7 +39405,7 @@ function Overlap() {
                 className: "overlap-10",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-28",
+                        className: "text-wrapper--28",
                         children: "PASSION"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39477,7 +39413,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-29",
+                        className: "text-wrapper--29",
                         children: "Pomegranate - Peach, a passionate pair"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39494,7 +39430,7 @@ function Overlap() {
                 className: "overlap-11",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-30",
+                        className: "text-wrapper--30",
                         children: "WONDERLAND"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39502,7 +39438,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-31",
+                        className: "text-wrapper--31",
                         children: "Pomegranate, pear \u201Csweet rose\u201D"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39541,7 +39477,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-32",
+                className: "text-wrapper--32",
                 children: "STRAWBERRY JALAPE\xd1O"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39561,7 +39497,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-33",
+                        className: "text-wrapper--33",
                         children: "Ros\xe9"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39569,7 +39505,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-34",
+                        className: "text-wrapper--34",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39583,7 +39519,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "group-6",
+                className: "group--6",
                 alt: "Group",
                 src: require("a87877117fc66c11")
             }, void 0, false, {
@@ -39604,7 +39540,7 @@ function Overlap() {
                 className: "overlap-14",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-23",
+                        className: "text-wrapper--23",
                         children: "FIERCE"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39628,7 +39564,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "group-7"
+                        className: "group--7"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
                         lineNumber: 164,
@@ -39653,7 +39589,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-35",
+                        className: "text-wrapper--35",
                         children: "She creeps, she pounces and she bites"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39670,7 +39606,7 @@ function Overlap() {
                 className: "overlap-16",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-36",
+                        className: "text-wrapper--36",
                         children: "VILLA GRANDE"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39678,7 +39614,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-37",
+                        className: "text-wrapper--37",
                         children: "Italian bold blend, well rounded"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39695,7 +39631,7 @@ function Overlap() {
                 className: "overlap-17",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-38",
+                        className: "text-wrapper--38",
                         children: "MONTEPULCIANO"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39703,7 +39639,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-39",
+                        className: "text-wrapper--39",
                         children: "Italian, tannic, a classic"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39720,7 +39656,7 @@ function Overlap() {
                 className: "overlap-18",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-30",
+                        className: "text-wrapper--30",
                         children: "DAMN YANKEE"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39728,7 +39664,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-40",
+                        className: "text-wrapper--40",
                         children: "Straight forward, masterful blend"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39742,7 +39678,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-41",
+                className: "text-wrapper--41",
                 children: "PERFECT TABLE RED WINE"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39762,7 +39698,7 @@ function Overlap() {
                 className: "overlap-19",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-19",
+                        className: "text-wrapper--19",
                         children: "PINOT NOIR"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39770,7 +39706,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-42",
+                        className: "text-wrapper--42",
                         children: "Classic award winning wine"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39787,7 +39723,7 @@ function Overlap() {
                 className: "overlap-20",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-15",
+                        className: "text-wrapper--15",
                         children: "SANGIOVESE"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39795,7 +39731,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                        className: "text-wrapper-43",
+                        className: "text-wrapper--43",
                         children: "Italy\u2019s most popular wine, you\u2019ll see why!"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39821,7 +39757,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-44",
+                        className: "text-wrapper--44",
                         children: "Red Wines"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39829,7 +39765,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-45",
+                        className: "text-wrapper--45",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39843,7 +39779,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "group-8",
+                className: "group--8",
                 alt: "Group",
                 src: require("2a04c456cf418db5")
             }, void 0, false, {
@@ -39855,7 +39791,7 @@ function Overlap() {
                 className: "overlap-22",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-46",
+                        className: "text-wrapper--46",
                         children: "MOUNTAIN BEAR"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39871,7 +39807,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "group-9"
+                        className: "group--9"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
                         lineNumber: 219,
@@ -39893,7 +39829,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-47",
+                className: "text-wrapper--47",
                 children: "CRANBERRY"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39910,7 +39846,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-48",
+                className: "text-wrapper--48",
                 children: "POME-GRANITE"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39927,7 +39863,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-49",
+                className: "text-wrapper--49",
                 children: "h"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39935,7 +39871,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-50",
+                className: "text-wrapper--50",
                 children: "HARVEST SANGRIA"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39943,7 +39879,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "text-wrapper-51",
+                className: "text-wrapper--51",
                 children: "Subtle orange sweetness, great mulling wine, enjoy"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39951,7 +39887,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-52",
+                className: "text-wrapper--52",
                 children: "chilled or warm"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39959,7 +39895,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-53",
+                className: "text-wrapper--53",
                 children: "SUGAR PLUM"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39967,7 +39903,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-54",
+                className: "text-wrapper--54",
                 children: "Magical sweet blackberry"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39975,7 +39911,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-55",
+                className: "text-wrapper--55",
                 children: "BLUEBERRY MUFFIN"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39983,7 +39919,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "text-wrapper-56",
+                className: "text-wrapper--56",
                 children: "A unique treat for any time of day!!"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39991,7 +39927,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-57",
+                className: "text-wrapper--57",
                 children: "CHERRY ALMOND CAKE"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -39999,7 +39935,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "text-wrapper-58",
+                className: "text-wrapper--58",
                 children: "Sweet dessert in a glass"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40007,7 +39943,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-59",
+                className: "text-wrapper--59",
                 children: "\u2022 Peach Apricot Chardonnay"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40015,7 +39951,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-60",
+                className: "text-wrapper--60",
                 children: "\u2022 Green Apple Riesling"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40023,7 +39959,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-61",
+                className: "text-wrapper--61",
                 children: "\u2022 Pear Riesling"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40031,7 +39967,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "text-wrapper-62",
+                className: "text-wrapper--62",
                 children: "\u2022 LA7 Lime Coconut Sauvignon Blanc"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40039,7 +39975,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-63",
+                className: "text-wrapper--63",
                 children: "\u2022 Blueberry Pinot Noir"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40047,7 +39983,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-64",
+                className: "text-wrapper--64",
                 children: "\u2022 Blackberry Merlot"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40055,7 +39991,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-65",
+                className: "text-wrapper--65",
                 children: "\u2022 Watermelon White Zinfandel"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40075,7 +40011,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-66",
+                        className: "text-wrapper--66",
                         children: "Specialty Wines"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40089,7 +40025,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-67",
+                className: "text-wrapper--67",
                 children: "CoCo Noir"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40102,7 +40038,7 @@ function Overlap() {
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "group-10",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "text-wrapper-68",
+                            className: "text-wrapper--68",
                             children: "~ Chocolate Raspberry"
                         }, void 0, false, {
                             fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40123,7 +40059,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-69",
+                        className: "text-wrapper--69",
                         children: "~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40155,7 +40091,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-70",
+                className: "text-wrapper--70",
                 children: " ~"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40175,7 +40111,7 @@ function Overlap() {
                 className: "overlap-25",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-71",
+                        className: "text-wrapper--71",
                         children: "Maple Ice Wine"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40183,7 +40119,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-72",
+                        className: "text-wrapper--72",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40206,7 +40142,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-73",
+                className: "text-wrapper--73",
                 children: "Butta-Brickle"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40214,7 +40150,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-74",
+                className: "text-wrapper--74",
                 children: " ~"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40231,7 +40167,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-75",
+                className: "text-wrapper--75",
                 children: "Apple Cider Doughnut"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40239,7 +40175,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-76",
+                className: "text-wrapper--76",
                 children: " ~"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40256,7 +40192,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "text-wrapper-77",
+                className: "text-wrapper--77",
                 children: "\u2022 ase Discount of 10%"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40276,7 +40212,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-78",
+                        className: "text-wrapper--78",
                         children: "Tastings"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40284,7 +40220,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-79",
+                        className: "text-wrapper--79",
                         children: "Glass of Wine"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40292,7 +40228,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-80",
+                        className: "text-wrapper--80",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40317,7 +40253,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-81",
+                        className: "text-wrapper--81",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40336,7 +40272,7 @@ function Overlap() {
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                         className: "group-18",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                            className: "text-wrapper-82",
+                            className: "text-wrapper--82",
                             children: "Souvenir Stemmed Glass"
                         }, void 0, false, {
                             fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40349,7 +40285,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-83",
+                        className: "text-wrapper--83",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40366,7 +40302,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-84",
+                        className: "text-wrapper--84",
                         children: "5 Tastes"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40374,7 +40310,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-85",
+                        className: "text-wrapper--85",
                         children: " ~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40391,7 +40327,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-86",
+                        className: "text-wrapper--86",
                         children: "~ Includes"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40399,7 +40335,7 @@ function Overlap() {
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                        className: "text-wrapper-87",
+                        className: "text-wrapper--87",
                         children: "Specialty Wines~"
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40452,7 +40388,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-88",
+                className: "text-wrapper--88",
                 children: "Whippletree Winery"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40460,7 +40396,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-89",
+                className: "text-wrapper--89",
                 children: "whippletreewinery"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40468,7 +40404,7 @@ function Overlap() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-90",
+                className: "text-wrapper--90",
                 children: "@ WhippletreeWinery"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
@@ -40517,14 +40453,32 @@ function Overlap() {
     }, this);
 }
 _c = Overlap;
+function OverlapReplacement() {
+    return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+            className: "overlap",
+            alt: "Group",
+            src: require("5226d6d2026ebf62")
+        }, void 0, false, {
+            fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
+            lineNumber: 392,
+            columnNumber: 7
+        }, this)
+    }, void 0, false, {
+        fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
+        lineNumber: 391,
+        columnNumber: 5
+    }, this);
+}
+_c1 = OverlapReplacement;
 // function NavBar() {
 //   return (
 //     <div className="navbar">
-//       <div className="text-wrapper-92">Home</div>
-//       <div className="text-wrapper-93">Online Wine Store</div>
-//       <div className="text-wrapper-93">Wine club</div>
-//       <div className="text-wrapper-93">Visit</div>
-//       <div className="text-wrapper-94">Our Heritage</div>
+//       <div className="text-wrapper--92">Home</div>
+//       <div className="text-wrapper--93">Online Wine Store</div>
+//       <div className="text-wrapper--93">Wine club</div>
+//       <div className="text-wrapper--93">Visit</div>
+//       <div className="text-wrapper--94">Our Heritage</div>
 //       <div className="text-8">{""}</div>
 //     </div>
 //   );
@@ -40537,7 +40491,7 @@ function Overlap27() {
                 className: "rectangle"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 405,
+                lineNumber: 417,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -40546,7 +40500,7 @@ function Overlap27() {
                 src: require("4c72aa8b7e1e7d99")
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 406,
+                lineNumber: 418,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -40555,7 +40509,7 @@ function Overlap27() {
                 src: require("23768ae25423a875")
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 411,
+                lineNumber: 423,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -40563,25 +40517,7 @@ function Overlap27() {
                 children: ""
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 416,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "ant-design-user",
-                alt: "Ant design user",
-                src: require("51ac8eb4d714b77e")
-            }, void 0, false, {
-                fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 417,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "bytesize-location",
-                alt: "Bytesize location",
-                src: require("f3c64fae69287a9a")
-            }, void 0, false, {
-                fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 422,
+                lineNumber: 428,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -40590,7 +40526,7 @@ function Overlap27() {
                 src: require("628075b26c23dca3")
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 427,
+                lineNumber: 429,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -40599,30 +40535,30 @@ function Overlap27() {
                 src: require("17a7b67e23b89001")
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 433,
+                lineNumber: 435,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBar.NavBar), {}, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 438,
+                lineNumber: 440,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-95",
+                className: "text-wrapper--95",
                 children: "Our Wine Collection"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 439,
+                lineNumber: 441,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-        lineNumber: 404,
+        lineNumber: 416,
         columnNumber: 5
     }, this);
 }
-_c1 = Overlap27;
+_c2 = Overlap27;
 function BottomSection() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "overlap-28",
@@ -40631,64 +40567,64 @@ function BottomSection() {
                 className: "rectangle-3"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 447,
+                lineNumber: 449,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-96",
+                className: "text-wrapper--96",
                 children: "Contact Us"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 448,
+                lineNumber: 450,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "group-26",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBarBottom.NavBarBottom), {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 450,
+                    lineNumber: 452,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 449,
+                lineNumber: 451,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
                 className: "element-info",
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-99",
+                        className: "text-wrapper--99",
                         children: [
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                                lineNumber: 454,
+                                lineNumber: 456,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                                lineNumber: 455,
+                                lineNumber: 457,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 453,
+                        lineNumber: 455,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                        className: "text-wrapper-100",
+                        className: "text-wrapper--100",
                         children: [
                             "603-323-7119",
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                                lineNumber: 459,
+                                lineNumber: 461,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 457,
+                        lineNumber: 459,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -40696,30 +40632,30 @@ function BottomSection() {
                         rel: "noopener noreferrer",
                         target: "_blank",
                         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
-                            className: "text-wrapper-101",
+                            className: "text-wrapper--101",
                             children: "info@whippletreewinery.com"
                         }, void 0, false, {
                             fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                            lineNumber: 466,
+                            lineNumber: 468,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 461,
+                        lineNumber: 463,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 452,
+                lineNumber: 454,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
-                className: "text-wrapper-102",
+                className: "text-wrapper--102",
                 children: "Copyright \xa9 2023 Whippletree Winery | All Rights Reserved | Privacy Policy"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 469,
+                lineNumber: 471,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40728,34 +40664,34 @@ function BottomSection() {
                     "Whippletree Winery ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 474,
+                        lineNumber: 476,
                         columnNumber: 28
                     }, this),
                     "372 Turkey Street ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 475,
+                        lineNumber: 477,
                         columnNumber: 27
                     }, this),
                     "Tamworth, NH 03886 ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 476,
+                        lineNumber: 478,
                         columnNumber: 28
                     }, this),
                     "(860) 335-3667"
                 ]
             }, void 0, true, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 473,
+                lineNumber: 475,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "text-wrapper-103",
+                className: "text-wrapper--103",
                 children: "Hours"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 479,
+                lineNumber: 481,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -40764,33 +40700,33 @@ function BottomSection() {
                     "Friday - Sunday: ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                        lineNumber: 481,
+                        lineNumber: 483,
                         columnNumber: 26
                     }, this),
                     "12:00 - 6:00 PM"
                 ]
             }, void 0, true, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 480,
+                lineNumber: 482,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "frame-wrapper",
                 children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _bookAnEventButton.BookAnEventButton), {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 485,
+                    lineNumber: 487,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 484,
+                lineNumber: 486,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "rectangle-6"
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 487,
+                lineNumber: 489,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -40799,104 +40735,105 @@ function BottomSection() {
                 src: require("5b7772e83fe9fe66")
             }, void 0, false, {
                 fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                lineNumber: 488,
+                lineNumber: 490,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-        lineNumber: 446,
+        lineNumber: 448,
         columnNumber: 5
     }, this);
 }
-_c2 = BottomSection;
+_c3 = BottomSection;
 function WineMenuTitle() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "text-wrapper-105",
+        className: "text-wrapper--105",
         children: "Wine Menu"
     }, void 0, false, {
         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-        lineNumber: 498,
+        lineNumber: 500,
         columnNumber: 10
     }, this);
 }
-_c3 = WineMenuTitle;
+_c4 = WineMenuTitle;
 function DownloadPDF() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        className: "text-wrapper-104",
+        className: "text-wrapper--104",
         children: "Download PDF"
     }, void 0, false, {
         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-        lineNumber: 502,
+        lineNumber: 504,
         columnNumber: 10
     }, this);
 }
-_c4 = DownloadPDF;
+_c5 = DownloadPDF;
 const OnlineWineStore = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "online-wine-store",
         children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
             className: "div",
             children: [
-                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap, {}, void 0, false, {
+                /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(OverlapReplacement, {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 509,
+                    lineNumber: 511,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap27, {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 510,
+                    lineNumber: 512,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "image"
                 }, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(BottomSection, {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 512,
+                    lineNumber: 514,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(DownloadPDF, {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 513,
+                    lineNumber: 515,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(WineMenuTitle, {}, void 0, false, {
                     fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-                    lineNumber: 514,
+                    lineNumber: 516,
                     columnNumber: 9
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-            lineNumber: 508,
+            lineNumber: 510,
             columnNumber: 7
         }, undefined)
     }, void 0, false, {
         fileName: "src/OnlineWineStore/screens/OnlineWineStore/OnlineWineStore.jsx",
-        lineNumber: 507,
+        lineNumber: 509,
         columnNumber: 5
     }, undefined);
 };
-_c5 = OnlineWineStore;
-var _c, _c1, _c2, _c3, _c4, _c5;
+_c6 = OnlineWineStore;
+var _c, _c1, _c2, _c3, _c4, _c5, _c6;
 $RefreshReg$(_c, "Overlap");
-$RefreshReg$(_c1, "Overlap27");
-$RefreshReg$(_c2, "BottomSection");
-$RefreshReg$(_c3, "WineMenuTitle");
-$RefreshReg$(_c4, "DownloadPDF");
-$RefreshReg$(_c5, "OnlineWineStore");
+$RefreshReg$(_c1, "OverlapReplacement");
+$RefreshReg$(_c2, "Overlap27");
+$RefreshReg$(_c3, "BottomSection");
+$RefreshReg$(_c4, "WineMenuTitle");
+$RefreshReg$(_c5, "DownloadPDF");
+$RefreshReg$(_c6, "OnlineWineStore");
 
   $parcel$ReactRefreshHelpers$85c6.postlude(module);
 } finally {
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"ixHGk","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","44dbb6db5e6b56bc":"4UhkE","e4818f1a65c9a59d":"gTfT5","d317d3f1bc406e9e":"kxcMM","bd59b114cd0d07de":"jdeMK","be742ee719f954b6":"3cjSI","e181c9fad3464e4d":"bs7AJ","72ed687394f7cbdc":"lcfO5","cb2ca6a3d26cf34c":"8hHWt","57701a7c4a3595fb":"lviM8","e8e2ab4b9a1608c9":"t9YQd","e847948b4a0658a9":"4rOi5","c451f03916ae0d4c":"dqtGO","3eac244b550d04a3":"73inD","a87877117fc66c11":"ZStCq","897176fe5c82a528":"gcE3w","97ecd161d98988a3":"cNpWz","9677abc55a182ece":"7olmP","a576808bd5d79c6e":"jFNKJ","2a04c456cf418db5":"7JPvE","27d0cc35fdf571f":"3W9iw","966f5c43201ddb2":"6mw08","2302d1187e1106cf":"53R8R","e894a6d6a158e845":"6gbeV","f181c17d021d0065":"73ves","733c3239c3d3cead":"8vqJA","3af23d4cfd1dd4a0":"fZP0F","35e92b1cce43b89d":"e2UN1","8cdcbabe63c6b76d":"lTjEE","e40713e39b61faed":"fR7n1","c0973c6dc2f25168":"c846N","cbbbc5bd15493dbe":"4ltuz","6bc5e3987c0a4eee":"4z9Lk","4f69f06701b2e0cb":"jjOvL","a7f6b7817a69edb7":"j6YAN","3a2ce13a6605658a":"gf12H","d1c12482b22b9b4":"dmlj8","975879913b544fcd":"d0sw1","6fbac24202d43719":"6537i","d4617709b02d5d81":"caN5Q","4c72aa8b7e1e7d99":"5l8ZL","23768ae25423a875":"1Hl5O","51ac8eb4d714b77e":"1z7hO","f3c64fae69287a9a":"6un3l","628075b26c23dca3":"9rPNX","17a7b67e23b89001":"epAD4","5b7772e83fe9fe66":"irlZB","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ixHGk":[function() {},{}],"4UhkE":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"ixHGk","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","44dbb6db5e6b56bc":"4UhkE","e4818f1a65c9a59d":"gTfT5","d317d3f1bc406e9e":"kxcMM","bd59b114cd0d07de":"jdeMK","be742ee719f954b6":"3cjSI","e181c9fad3464e4d":"bs7AJ","72ed687394f7cbdc":"lcfO5","cb2ca6a3d26cf34c":"8hHWt","57701a7c4a3595fb":"lviM8","e8e2ab4b9a1608c9":"t9YQd","e847948b4a0658a9":"4rOi5","c451f03916ae0d4c":"dqtGO","3eac244b550d04a3":"73inD","a87877117fc66c11":"ZStCq","897176fe5c82a528":"gcE3w","97ecd161d98988a3":"cNpWz","9677abc55a182ece":"7olmP","a576808bd5d79c6e":"jFNKJ","2a04c456cf418db5":"7JPvE","27d0cc35fdf571f":"3W9iw","966f5c43201ddb2":"6mw08","2302d1187e1106cf":"53R8R","e894a6d6a158e845":"6gbeV","f181c17d021d0065":"73ves","733c3239c3d3cead":"8vqJA","3af23d4cfd1dd4a0":"fZP0F","35e92b1cce43b89d":"e2UN1","8cdcbabe63c6b76d":"lTjEE","e40713e39b61faed":"fR7n1","c0973c6dc2f25168":"c846N","cbbbc5bd15493dbe":"4ltuz","6bc5e3987c0a4eee":"4z9Lk","4f69f06701b2e0cb":"jjOvL","a7f6b7817a69edb7":"j6YAN","3a2ce13a6605658a":"gf12H","d1c12482b22b9b4":"dmlj8","975879913b544fcd":"d0sw1","6fbac24202d43719":"6537i","d4617709b02d5d81":"caN5Q","5226d6d2026ebf62":"f3IMq","4c72aa8b7e1e7d99":"5l8ZL","23768ae25423a875":"1Hl5O","628075b26c23dca3":"9rPNX","17a7b67e23b89001":"epAD4","5b7772e83fe9fe66":"irlZB","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"ixHGk":[function() {},{}],"4UhkE":[function(require,module,exports) {
 module.exports = require("a8854ba44b98cc9e").getBundleURL("aXMci") + "vector-3.490c0cc7.svg" + "?" + Date.now();
 
 },{"a8854ba44b98cc9e":"lgJ39"}],"gTfT5":[function(require,module,exports) {
@@ -41013,19 +40950,16 @@ module.exports = require("38950f7de4cbfbdb").getBundleURL("aXMci") + "vector-25.
 },{"38950f7de4cbfbdb":"lgJ39"}],"caN5Q":[function(require,module,exports) {
 module.exports = require("4cfda20cdd265dad").getBundleURL("aXMci") + "vector-26.4bde62cc.svg" + "?" + Date.now();
 
-},{"4cfda20cdd265dad":"lgJ39"}],"5l8ZL":[function(require,module,exports) {
+},{"4cfda20cdd265dad":"lgJ39"}],"f3IMq":[function(require,module,exports) {
+module.exports = require("150dca96799e700d").getBundleURL("aXMci") + "Picture1.3b57cdcb.png" + "?" + Date.now();
+
+},{"150dca96799e700d":"lgJ39"}],"5l8ZL":[function(require,module,exports) {
 module.exports = require("e5d8dfba4a4b0325").getBundleURL("aXMci") + "line-5-1.9c864d9b.svg" + "?" + Date.now();
 
 },{"e5d8dfba4a4b0325":"lgJ39"}],"1Hl5O":[function(require,module,exports) {
 module.exports = require("26465a99beb09096").getBundleURL("aXMci") + "mask-group-2.c711a092.png" + "?" + Date.now();
 
-},{"26465a99beb09096":"lgJ39"}],"1z7hO":[function(require,module,exports) {
-module.exports = require("95b7203d17a3bc08").getBundleURL("aXMci") + "ant-design-user-outlined.be8dbd19.svg" + "?" + Date.now();
-
-},{"95b7203d17a3bc08":"lgJ39"}],"6un3l":[function(require,module,exports) {
-module.exports = require("3c0d6abc30cfd43e").getBundleURL("aXMci") + "bytesize-location-1.34ef5456.svg" + "?" + Date.now();
-
-},{"3c0d6abc30cfd43e":"lgJ39"}],"9rPNX":[function(require,module,exports) {
+},{"26465a99beb09096":"lgJ39"}],"9rPNX":[function(require,module,exports) {
 module.exports = require("33731a4131f7fb0b").getBundleURL("aXMci") + "line-2.b4e9c1fb.svg" + "?" + Date.now();
 
 },{"33731a4131f7fb0b":"lgJ39"}],"epAD4":[function(require,module,exports) {
@@ -41149,30 +41083,12 @@ function ImageCollection() {
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "ant-design-user",
-                alt: "Ant design user",
-                src: require("654142853b2fa39b")
-            }, void 0, false, {
-                fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 63,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "bytesize-location",
-                alt: "Bytesize location",
-                src: require("8f30cd4827dba30a")
-            }, void 0, false, {
-                fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 68,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
                 className: "line",
                 alt: "Line",
                 src: require("c79ef5170214c733")
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 73,
+                lineNumber: 64,
                 columnNumber: 7
             }, this)
         ]
@@ -41192,7 +41108,7 @@ function ImageCollection2() {
                 src: require("b35b66a736949d4a")
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 85,
+                lineNumber: 76,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41200,7 +41116,7 @@ function ImageCollection2() {
                 children: "Centuries of New Hampshire Heritage"
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 90,
+                lineNumber: 81,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41208,7 +41124,7 @@ function ImageCollection2() {
                 children: "The Winery In The Woods:"
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 91,
+                lineNumber: 82,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41217,7 +41133,7 @@ function ImageCollection2() {
                 src: require("ee0035e699460a52")
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 92,
+                lineNumber: 83,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
@@ -41226,13 +41142,13 @@ function ImageCollection2() {
                 src: require("8f16fb650f22e180")
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 97,
+                lineNumber: 88,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 84,
+        lineNumber: 75,
         columnNumber: 5
     }, this);
 }
@@ -41248,18 +41164,18 @@ function ParagraphCollection() {
                         children: [
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                                lineNumber: 111,
+                                lineNumber: 102,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                                lineNumber: 112,
+                                lineNumber: 103,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 110,
+                        lineNumber: 101,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -41268,13 +41184,13 @@ function ParagraphCollection() {
                             "603-323-7119",
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                                lineNumber: 116,
+                                lineNumber: 107,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 114,
+                        lineNumber: 105,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -41286,18 +41202,18 @@ function ParagraphCollection() {
                             children: "info@whippletreewinery.com"
                         }, void 0, false, {
                             fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                            lineNumber: 123,
+                            lineNumber: 114,
                             columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 118,
+                        lineNumber: 109,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 109,
+                lineNumber: 100,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41305,7 +41221,7 @@ function ParagraphCollection() {
                 children: "Copyright \xa9 2023 Whippletree Winery | All Rights Reserved | Privacy Policy"
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 126,
+                lineNumber: 117,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41314,26 +41230,26 @@ function ParagraphCollection() {
                     "Whippletree Winery ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 131,
+                        lineNumber: 122,
                         columnNumber: 28
                     }, this),
                     "372 Turkey Street ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 132,
+                        lineNumber: 123,
                         columnNumber: 27
                     }, this),
                     "Tamworth, NH 03886 ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 133,
+                        lineNumber: 124,
                         columnNumber: 28
                     }, this),
                     "(860) 335-3667"
                 ]
             }, void 0, true, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 130,
+                lineNumber: 121,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -41341,7 +41257,7 @@ function ParagraphCollection() {
                 children: "Hours"
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 136,
+                lineNumber: 127,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41350,20 +41266,20 @@ function ParagraphCollection() {
                     "Friday - Sunday: ",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 138,
+                        lineNumber: 129,
                         columnNumber: 26
                     }, this),
                     "12:00 - 6:00 PM"
                 ]
             }, void 0, true, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 137,
+                lineNumber: 128,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 108,
+        lineNumber: 99,
         columnNumber: 5
     }, this);
 }
@@ -41377,22 +41293,32 @@ function ImageCollection3() {
                 src: require("632d946965e36fb6")
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 148,
+                lineNumber: 139,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
-                className: "mask-group",
-                alt: "Mask group",
-                src: require("e92ec4249b50e5d9")
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
+                onClick: ()=>{
+                    window.location.href = "/#/visit";
+                    console.log("clicked!");
+                },
+                children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("img", {
+                    className: "mask-group",
+                    alt: "Mask group",
+                    src: require("e92ec4249b50e5d9")
+                }, void 0, false, {
+                    fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
+                    lineNumber: 145,
+                    columnNumber: 7
+                }, this)
             }, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 153,
+                lineNumber: 144,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 147,
+        lineNumber: 138,
         columnNumber: 5
     }, this);
 }
@@ -41406,25 +41332,25 @@ function ParagraphCollection2() {
                     "Who doesn\u2019t enjoy being in places that have experienced years of history? Our grounds are covered with relics and artifacts from New Hampshire\u2019s storied past. You can feel the deep-seated connection in every square inch. Our centuries old building seems to have absorbed the events it has witnessed. Wee have found that In effect, it allows our visitors to sink into a far greater comfort than other wineries allow.",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 172,
+                        lineNumber: 165,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 173,
+                        lineNumber: 166,
                         columnNumber: 9
                     }, this),
                     "We offer a relaxed atmosphere with a wide range of award winning, premium wines. These fine wines are handcrafted with minimal processing for maximum flavor, made the old country way.",
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 177,
+                        lineNumber: 170,
                         columnNumber: 9
                     }, this),
                     "We look forward to meeting you and sharing our unique, handcrafted wines! Cheers,"
                 ]
             }, void 0, true, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 165,
+                lineNumber: 158,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -41436,13 +41362,13 @@ function ParagraphCollection2() {
                             "Lauren Barrett",
                             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("br", {}, void 0, false, {
                                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                                lineNumber: 184,
+                                lineNumber: 177,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 182,
+                        lineNumber: 175,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("span", {
@@ -41450,19 +41376,19 @@ function ParagraphCollection2() {
                         children: "Owner /Wine Maker"
                     }, void 0, false, {
                         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                        lineNumber: 186,
+                        lineNumber: 179,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 181,
+                lineNumber: 174,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 164,
+        lineNumber: 157,
         columnNumber: 5
     }, this);
 }
@@ -41472,7 +41398,7 @@ function Rectangle5() {
         className: "rectangle-5"
     }, void 0, false, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 193,
+        lineNumber: 186,
         columnNumber: 10
     }, this);
 }
@@ -41483,7 +41409,7 @@ function TextWrapper3() {
         children: "Contact Us"
     }, void 0, false, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 197,
+        lineNumber: 190,
         columnNumber: 10
     }, this);
 }
@@ -41493,7 +41419,7 @@ function Rectangle8() {
         className: "rectangle-8"
     }, void 0, false, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 201,
+        lineNumber: 194,
         columnNumber: 10
     }, this);
 }
@@ -41504,68 +41430,68 @@ function Overlap() {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ImageCollection, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 207,
+                lineNumber: 200,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Group, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 208,
+                lineNumber: 201,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ImageCollection2, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 209,
+                lineNumber: 202,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Rectangle5, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 210,
+                lineNumber: 203,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(TextWrapper3, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 211,
+                lineNumber: 204,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Group2, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 212,
+                lineNumber: 205,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ParagraphCollection, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 213,
+                lineNumber: 206,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(FrameWrapper, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 214,
+                lineNumber: 207,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Rectangle8, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 215,
+                lineNumber: 208,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ImageCollection3, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 216,
+                lineNumber: 209,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _navBar.NavBar), {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 217,
+                lineNumber: 210,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(ParagraphCollection2, {}, void 0, false, {
                 fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                lineNumber: 218,
+                lineNumber: 211,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 206,
+        lineNumber: 199,
         columnNumber: 5
     }, this);
 }
@@ -41578,25 +41504,25 @@ const OurHeritage = ()=>{
             children: [
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(Overlap, {}, void 0, false, {
                     fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                    lineNumber: 227,
+                    lineNumber: 220,
                     columnNumber: 9
                 }, undefined),
                 /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                     className: "image"
                 }, void 0, false, {
                     fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-                    lineNumber: 228,
+                    lineNumber: 221,
                     columnNumber: 9
                 }, undefined)
             ]
         }, void 0, true, {
             fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-            lineNumber: 226,
+            lineNumber: 219,
             columnNumber: 7
         }, undefined)
     }, void 0, false, {
         fileName: "src/OurHeritage/screens/OurHeritage/OurHeritage.jsx",
-        lineNumber: 225,
+        lineNumber: 218,
         columnNumber: 5
     }, undefined);
 };
@@ -41621,7 +41547,7 @@ $RefreshReg$(_c12, "OurHeritage");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"7JXPa","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","58a112fbc249ac6d":"5moLV","8898eb2e75bb0c4":"7dvzb","51f4d06d79724a52":"jEIfj","654142853b2fa39b":"6cEwD","8f30cd4827dba30a":"kqcG3","c79ef5170214c733":"cNYZ7","b35b66a736949d4a":"glCOT","ee0035e699460a52":"82LEe","8f16fb650f22e180":"bLdjE","632d946965e36fb6":"dn4dH","e92ec4249b50e5d9":"gZPWy","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7JXPa":[function() {},{}],"5moLV":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react":"21dqq","./style.css":"7JXPa","../../../NavBar/NavBar":"1ygrG","../../../NavBar/NavBarBottom":"9TjiR","../../../NavBar/BookAnEventButton":"i0joD","58a112fbc249ac6d":"5moLV","8898eb2e75bb0c4":"7dvzb","51f4d06d79724a52":"jEIfj","c79ef5170214c733":"cNYZ7","b35b66a736949d4a":"glCOT","ee0035e699460a52":"82LEe","8f16fb650f22e180":"bLdjE","632d946965e36fb6":"dn4dH","e92ec4249b50e5d9":"gZPWy","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"7JXPa":[function() {},{}],"5moLV":[function(require,module,exports) {
 module.exports = require("ebc320413409c72e").getBundleURL("aXMci") + "rectangle-106.4e23fd4f.svg" + "?" + Date.now();
 
 },{"ebc320413409c72e":"lgJ39"}],"7dvzb":[function(require,module,exports) {
@@ -41630,13 +41556,7 @@ module.exports = require("87480af45faddfb9").getBundleURL("aXMci") + "rectangle-
 },{"87480af45faddfb9":"lgJ39"}],"jEIfj":[function(require,module,exports) {
 module.exports = require("348dd052f54708ee").getBundleURL("aXMci") + "rectangle-107-3.b743f55f.svg" + "?" + Date.now();
 
-},{"348dd052f54708ee":"lgJ39"}],"6cEwD":[function(require,module,exports) {
-module.exports = require("62436fb528ab6be6").getBundleURL("aXMci") + "ant-design-user-outlined.d2ab9dad.svg" + "?" + Date.now();
-
-},{"62436fb528ab6be6":"lgJ39"}],"kqcG3":[function(require,module,exports) {
-module.exports = require("6d1e1ff07e4fac6d").getBundleURL("aXMci") + "bytesize-location-1.15b10a38.svg" + "?" + Date.now();
-
-},{"6d1e1ff07e4fac6d":"lgJ39"}],"cNYZ7":[function(require,module,exports) {
+},{"348dd052f54708ee":"lgJ39"}],"cNYZ7":[function(require,module,exports) {
 module.exports = require("63f817adc3151877").getBundleURL("aXMci") + "line-2.6551cdfc.svg" + "?" + Date.now();
 
 },{"63f817adc3151877":"lgJ39"}],"glCOT":[function(require,module,exports) {
